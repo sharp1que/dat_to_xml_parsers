@@ -1,0 +1,35 @@
+- Need Update 415 [Archer Spirit] Max DP LVL = 3 MAX DAT LVL = 1
+- Need Update 4273 [Dagger Resistance] Max DP LVL = 5 MAX DAT LVL = 9
+- Need Update 4416 [Undead] Max DP LVL = 27 MAX DAT LVL = 28
+- Need Update 10094 [Mass Lightning Strike] Max DP LVL = 5 MAX DAT LVL = 9
+- Need Update 13660 [Brooch Lv. 1] Max DP LVL = 6 MAX DAT LVL = 10
+- Need Update 40521 [Kill Effect - Watermelon Burst] Max DP LVL = 3 MAX DAT LVL = 6
+- Need Update 45375 [Eva's Help] Max DP LVL = 2 MAX DAT LVL = 1
+- Need Update 45376 [Shillien's Help] Max DP LVL = 2 MAX DAT LVL = 1
+- Need Update 45439 [Cacophony of War] Max DP LVL = 1 MAX DAT LVL = 2
+- Need Update 45440 [Cacophony of War] Max DP LVL = 1 MAX DAT LVL = 2
+- Need Update 45441 [Cacophony of War] Max DP LVL = 1 MAX DAT LVL = 2
+- Need Update 45443 [Cacophony of War] Max DP LVL = 1 MAX DAT LVL = 6
+- Need Update 45481 [Mass Lightning Strike] Max DP LVL = 5 MAX DAT LVL = 9
+- Need Update 47272 [Condemnation] Max DP LVL = 1 MAX DAT LVL = 2
+- Need Update 47310 [Shelter] Max DP LVL = 1 MAX DAT LVL = 2
+- Need Update 47313 [Condemnation] Max DP LVL = 1 MAX DAT LVL = 2
+- Need Update 47314 [Condemnation] Max DP LVL = 1 MAX DAT LVL = 2
+- Need Update 48197 [Guardian Growth Effect] Max DP LVL = 1 MAX DAT LVL = 2
+- Need Update 48539 [Will to Fight] Max DP LVL = 1 MAX DAT LVL = 2
+- Need Update 49208 [Physical Training] Max DP LVL = 3 MAX DAT LVL = 4
+- Need Update 50260 [Enchant Effect: +5 A-grade Upper/ Lower Armor] Max DP LVL = 10 MAX DAT LVL = 6
+- Need Update 50261 [Enchant Effect: +5 A-grade Upper Armor] Max DP LVL = 10 MAX DAT LVL = 6
+- Need Update 50262 [Enchant Effect: +5 A-grade Lower Armor] Max DP LVL = 10 MAX DAT LVL = 6
+- Need Update 50263 [Enchant Effect: +5 A-grade Gloves (Physical)] Max DP LVL = 10 MAX DAT LVL = 6
+- Need Update 50264 [Enchant Effect: +5 A-grade Gloves (Magic)] Max DP LVL = 10 MAX DAT LVL = 6
+- Need Update 50265 [Enchant Effect: +5 A-grade Boots (Physical)] Max DP LVL = 10 MAX DAT LVL = 6
+- Need Update 50266 [Enchant Effect: +5 A-grade Boots (Magic)] Max DP LVL = 10 MAX DAT LVL = 6
+- Need Update 50267 [Enchant Effect: +5 A-grade Helmet] Max DP LVL = 10 MAX DAT LVL = 6
+- Need Update 50311 [Enchant Effect: A-grade Shield] Max DP LVL = 10 MAX DAT LVL = 11
+- Need Update 50313 [Enchant Effect: A-grade Sigil] Max DP LVL = 10 MAX DAT LVL = 11
+- Need Update 50463 [Zaken Doll Lv. 1] Max DP LVL = 10 MAX DAT LVL = 6
+- Need Update 50568 [Piercing Mask] Max DP LVL = 11 MAX DAT LVL = 22
+- Need Update 50576 [Einhasad's Pendant] Max DP LVL = 5 MAX DAT LVL = 11
+- Need Update 50691 [Phantom Mask] Max DP LVL = 11 MAX DAT LVL = 22
+- Need Update 87156 [Eva's Help] Max DP LVL = 2 MAX DAT LVL = 1

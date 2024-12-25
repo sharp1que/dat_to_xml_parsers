@@ -1,0 +1,60 @@
+InstantZoneData_begin	id=147	name=[Olympiad]	InstantZoneData_end
+InstantZoneData_begin	id=148	name=[Olympiad]	InstantZoneData_end
+InstantZoneData_begin	id=149	name=[Olympiad]	InstantZoneData_end
+InstantZoneData_begin	id=150	name=[Olympiad]	InstantZoneData_end
+InstantZoneData_begin	id=151	name=[3 vs 3 Olympiad]	InstantZoneData_end
+InstantZoneData_begin	id=152	name=[3 vs 3 Olympiad]	InstantZoneData_end
+InstantZoneData_begin	id=153	name=[3 vs 3 Olympiad]	InstantZoneData_end
+InstantZoneData_begin	id=182	name=[Balthus Knight - Baium Expedition]	InstantZoneData_end
+InstantZoneData_begin	id=183	name=[Balthus Knight - Antharas Expedition]	InstantZoneData_end
+InstantZoneData_begin	id=184	name=[Balthus Knight - Zaken Expedition]	InstantZoneData_end
+InstantZoneData_begin	id=186	name=[Orchid Hall]	InstantZoneData_end
+InstantZoneData_begin	id=187	name=[Ellia Hall]	InstantZoneData_end
+InstantZoneData_begin	id=188	name=[Laurell Hall]	InstantZoneData_end
+InstantZoneData_begin	id=189	name=[Orchid Hall]	InstantZoneData_end
+InstantZoneData_begin	id=190	name=[Ellia Hall]	InstantZoneData_end
+InstantZoneData_begin	id=191	name=[Laurell Hall]	InstantZoneData_end
+InstantZoneData_begin	id=192	name=[Monster Arena]	InstantZoneData_end
+InstantZoneData_begin	id=193	name=[Elite Monster Arena]	InstantZoneData_end
+InstantZoneData_begin	id=194	name=[Clan Arena]	InstantZoneData_end
+InstantZoneData_begin	id=195	name=[Residence of King Ignis]	InstantZoneData_end
+InstantZoneData_begin	id=196	name=[Residence of Queen Nebula]	InstantZoneData_end
+InstantZoneData_begin	id=197	name=[Residence of King Procella]	InstantZoneData_end
+InstantZoneData_begin	id=198	name=[Residence of King Petram]	InstantZoneData_end
+InstantZoneData_begin	id=199	name=[Lilith]	InstantZoneData_end
+InstantZoneData_begin	id=200	name=[Anakim]	InstantZoneData_end
+InstantZoneData_begin	id=201	name=[Residence of King Ignis (extreme)]	InstantZoneData_end
+InstantZoneData_begin	id=202	name=[Residence of Queen Nebula (extreme)]	InstantZoneData_end
+InstantZoneData_begin	id=203	name=[Residence of King Procella (extreme)]	InstantZoneData_end
+InstantZoneData_begin	id=204	name=[Residence of King Petram (extreme)]	InstantZoneData_end
+InstantZoneData_begin	id=205	name=[Last Imperial Tomb - Frintezza]	InstantZoneData_end
+InstantZoneData_begin	id=206	name=[Red Libra Guild Event - Talking Island]	InstantZoneData_end
+InstantZoneData_begin	id=207	name=[Goldberg's Room]	InstantZoneData_end
+InstantZoneData_begin	id=1001	name=[Primeval Isle]	InstantZoneData_end
+InstantZoneData_begin	id=208	name=[Transcendent Instance Zone]	InstantZoneData_end
+InstantZoneData_begin	id=209	name=[Transcendent Instance Zone]	InstantZoneData_end
+InstantZoneData_begin	id=210	name=[Transcendent Instance Zone]	InstantZoneData_end
+InstantZoneData_begin	id=211	name=[Transcendent Instance Zone]	InstantZoneData_end
+InstantZoneData_begin	id=212	name=[Transcendent Instance Zone]	InstantZoneData_end
+InstantZoneData_begin	id=213	name=[Transcendent Instance Zone]	InstantZoneData_end
+InstantZoneData_begin	id=1005	name=[Alligator Island]	InstantZoneData_end
+InstantZoneData_begin	id=1006	name=[Antharas' Lair]	InstantZoneData_end
+InstantZoneData_begin	id=1009	name=[Forgotten Primeval Garden]	InstantZoneData_end
+InstantZoneData_begin	id=214	name=[Dwelling of Spirits]	InstantZoneData_end
+InstantZoneData_begin	id=215	name=[Transcendent Instance Zone]	InstantZoneData_end
+InstantZoneData_begin	id=216	name=[Zaken's Headquarters]	InstantZoneData_end
+InstantZoneData_begin	id=217	name=[Queen Ant's Lair]	InstantZoneData_end
+InstantZoneData_begin	id=218	name=[Orfen's Lair]	InstantZoneData_end
+InstantZoneData_begin	id=219	name=[Cruma's Central Control Room]	InstantZoneData_end
+InstantZoneData_begin	id=220	name=[Baium's Lair]	InstantZoneData_end
+InstantZoneData_begin	id=1013	name=[Frost Lord's Castle]	InstantZoneData_end
+InstantZoneData_begin	id=1016	name=[Garden of Genesis]	InstantZoneData_end
+InstantZoneData_begin	id=1017	name=[Elmoreden Tower]	InstantZoneData_end
+InstantZoneData_begin	id=221	name=[Gustav's Manor]	InstantZoneData_end
+InstantZoneData_begin	id=222	name=[Benedict's Monastery]	InstantZoneData_end
+InstantZoneData_begin	id=223	name=[Gladiator's Temple]	InstantZoneData_end
+InstantZoneData_begin	id=224	name=[Red Draconid Fortress]	InstantZoneData_end
+InstantZoneData_begin	id=227	name=[Ancient Pirates' Tomb]	InstantZoneData_end
+InstantZoneData_begin	id=228	name=[Training Zone]	InstantZoneData_end
+InstantZoneData_begin	id=229	name=[Transcendent Instance Zone]	InstantZoneData_end
+InstantZoneData_begin	id=230	name=[Valakas' Temple]	InstantZoneData_end

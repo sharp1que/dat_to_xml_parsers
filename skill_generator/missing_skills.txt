@@ -1,0 +1,810 @@
+ - Missing skill [4041][Boss Neutralization Resistance] from DataPack.
+ - Missing skill [40538][Ancient Ruins' Time Stone] from DataPack.
+ - Missing skill [40539][Ancient Ruins' Time Stone] from DataPack.
+ - Missing skill [40540][Ancient Ruins' Time Stone] from DataPack.
+ - Missing skill [40541][Greater Upgrade Stone] from DataPack.
+ - Missing skill [40542][Stable Scroll: Enchant A-grade Weapon] from DataPack.
+ - Missing skill [40543][Stable Scroll: Enchant A-grade Armor] from DataPack.
+ - Missing skill [40544][Aden Travel Scroll] from DataPack.
+ - Missing skill [40545][Aden Travel Scroll - Cruma Tower's Top] from DataPack.
+ - Missing skill [40546][Blue Dragon's Protection] from DataPack.
+ - Missing skill [40547][Blue Dragon's Protection] from DataPack.
+ - Missing skill [40548][Blue Dragon's Protection] from DataPack.
+ - Missing skill [40549][Blue Dragon's Protection] from DataPack.
+ - Missing skill [40550][Blue Dragon's Protection] from DataPack.
+ - Missing skill [40551][Blue Dragon's Protection] from DataPack.
+ - Missing skill [40552][Blue Dragon's Coin Craft] from DataPack.
+ - Missing skill [40553][Whispering Woods' Time Stone] from DataPack.
+ - Missing skill [40555][Flying Petals] from DataPack.
+ - Missing skill [40556][Kill Effect - Flying Petals] from DataPack.
+ - Missing skill [40557][Flying Petals] from DataPack.
+ - Missing skill [40558][Flower of Spring Arrival] from DataPack.
+ - Missing skill [40559][Whispering Woods' Time Stone] from DataPack.
+ - Missing skill [40560][Hairstyle Change Potion I] from DataPack.
+ - Missing skill [40561][Growth Support Scroll] from DataPack.
+ - Missing skill [40562][Growth Support Scroll] from DataPack.
+ - Missing skill [40563][Appearance Stone: Bloodstained Demonic Sword] from DataPack.
+ - Missing skill [40564][Appearance Stone: Demonic Sword] from DataPack.
+ - Missing skill [40565][Appearance Stone: Forgotten Weapon] from DataPack.
+ - Missing skill [40567][Life Control Tower's Scroll of Blessing] from DataPack.
+ - Missing skill [40568][Lucky XP Herb Drink] from DataPack.
+ - Missing skill [40569][Lucky HP Herb Drink] from DataPack.
+ - Missing skill [40570][Lucky MP Herb Drink] from DataPack.
+ - Missing skill [40571][Guardian's Essence (High-grade)] from DataPack.
+ - Missing skill [40572][Guardian's Essence (Mid-grade)] from DataPack.
+ - Missing skill [40573][Guardian's Essence (Low-grade)] from DataPack.
+ - Missing skill [40574][Guardian's Essence (High-grade) - Pet] from DataPack.
+ - Missing skill [40575][Guardian's Essence (Mid-grade) - Pet] from DataPack.
+ - Missing skill [40576][Guardian's Essence (Low-grade) - Pet] from DataPack.
+ - Missing skill [40577][Guardian's Essence (High-grade) - Mercenary] from DataPack.
+ - Missing skill [40578][Guardian's Essence (Mid-grade) - Mercenary] from DataPack.
+ - Missing skill [40579][Guardian's Essence (Low-grade) - Mercenary] from DataPack.
+ - Missing skill [40580][Prime Stable Circlet Upgrade Stone] from DataPack.
+ - Missing skill [40581][Eva's Gift] from DataPack.
+ - Missing skill [40582][Eva's Offering] from DataPack.
+ - Missing skill [40583][Sea Flavor] from DataPack.
+ - Missing skill [40585][Leaf Fall] from DataPack.
+ - Missing skill [40586][Kill Effect - Leaf Fall] from DataPack.
+ - Missing skill [40587][Leaf Fall] from DataPack.
+ - Missing skill [40588][Fafurion's Underwater Canyon's Time Stone] from DataPack.
+ - Missing skill [40589][Fafurion's Underwater Canyon's Time Stone] from DataPack.
+ - Missing skill [40590][Fafurion's Underwater Canyon's Time Stone] from DataPack.
+ - Missing skill [40591][Underwater Haste] from DataPack.
+ - Missing skill [40592][Scroll: Boost Attack (Time-limited)] from DataPack.
+ - Missing skill [40593][Scroll: Boost Defense (Time-limited)] from DataPack.
+ - Missing skill [40595][Berserker's Scroll (Time-limited)] from DataPack.
+ - Missing skill [48986][Vulcan's Lava Explosion] from DataPack.
+ - Missing skill [48987][Vulcan's Lava Explosion] from DataPack.
+ - Missing skill [48988][Vulcan's Soul Area] from DataPack.
+ - Missing skill [48989][Vulcan's Surveillance] from DataPack.
+ - Missing skill [48990][Dandy's Swing] from DataPack.
+ - Missing skill [48991][Damage Shield of Limit] from DataPack.
+ - Missing skill [48992][Blue Dragon's Energy] from DataPack.
+ - Missing skill [48993][Summon Blue Dragon's Statue] from DataPack.
+ - Missing skill [48994][Dark Swing] from DataPack.
+ - Missing skill [48995][Dark Swing] from DataPack.
+ - Missing skill [48996][Dark Flash] from DataPack.
+ - Missing skill [48997][Dark Flash] from DataPack.
+ - Missing skill [48998][Dark Wipeout] from DataPack.
+ - Missing skill [48999][Dark Wipeout] from DataPack.
+ - Missing skill [49075][Spear Howl] from DataPack.
+ - Missing skill [49076][Spear Flight] from DataPack.
+ - Missing skill [49077][Spear Flight] from DataPack.
+ - Missing skill [49078][Spear Thrust] from DataPack.
+ - Missing skill [49079][Raven's Gate] from DataPack.
+ - Missing skill [49080][Accelerated Recharge] from DataPack.
+ - Missing skill [49082][Mace Attack] from DataPack.
+ - Missing skill [49083][Heavy Burden] from DataPack.
+ - Missing skill [49084][Vulcan's Soul] from DataPack.
+ - Missing skill [49085][Vulcan's Soul] from DataPack.
+ - Missing skill [49086][Mace Smash] from DataPack.
+ - Missing skill [49087][Iron Age] from DataPack.
+ - Missing skill [49088][Iron Age] from DataPack.
+ - Missing skill [49089][Iron Age] from DataPack.
+ - Missing skill [49090][Hammer Fall] from DataPack.
+ - Missing skill [49091][Hammer Fall] from DataPack.
+ - Missing skill [49092][Raven's Gate] from DataPack.
+ - Missing skill [49093][Mercenary: Raven] from DataPack.
+ - Missing skill [49094][Mercenary: Vulcan] from DataPack.
+ - Missing skill [49095][Raven's Combat Mastery] from DataPack.
+ - Missing skill [49096][Vulcan's Combat Mastery] from DataPack.
+ - Missing skill [49097][Furnace Destroyer] from DataPack.
+ - Missing skill [49098][Accelerated Recharge] from DataPack.
+ - Missing skill [49099][Raven's Buff Check] from DataPack.
+ - Missing skill [49503][Guardian's Gratitude - Common Craft] from DataPack.
+ - Missing skill [49504][Guardian's Gratitude - Common Craft] from DataPack.
+ - Missing skill [49505][Vulcan's Soul] from DataPack.
+ - Missing skill [49506][Guardian's Gratitude - Common Craft] from DataPack.
+ - Missing skill [49507][Guardian's Gratitude - Common Craft] from DataPack.
+ - Missing skill [49508][Guardian's Gratitude - Magic Lamp] from DataPack.
+ - Missing skill [49509][Guardian's Gratitude - Magic Lamp] from DataPack.
+ - Missing skill [49510][Guardian's Gratitude - Magic Lamp] from DataPack.
+ - Missing skill [49511][Guardian's Gratitude - Magic Lamp] from DataPack.
+ - Missing skill [49512][Guardian's Gratitude - Magic Lamp] from DataPack.
+ - Missing skill [49513][Guardian's Gratitude - Magic Lamp] from DataPack.
+ - Missing skill [49600][Mass Chain Snake] from DataPack.
+ - Missing skill [49601][Triple Dark Slash] from DataPack.
+ - Missing skill [49602][Dark Storm] from DataPack.
+ - Missing skill [49603][Burning Bomber] from DataPack.
+ - Missing skill [49604][Dark Squad's Rising] from DataPack.
+ - Missing skill [49605][Berserker] from DataPack.
+ - Missing skill [49606][Dark Thorn] from DataPack.
+ - Missing skill [49607][Dark Blast] from DataPack.
+ - Missing skill [49608][Final Dark Storm] from DataPack.
+ - Missing skill [49609][Vampiric Force] from DataPack.
+ - Missing skill [49610][Shock Wave] from DataPack.
+ - Missing skill [49611][Shock Wave] from DataPack.
+ - Missing skill [49612][Rush] from DataPack.
+ - Missing skill [49613][Aerial Yoke] from DataPack.
+ - Missing skill [49614][Dandy's Windup Pitch Scroll] from DataPack.
+ - Missing skill [49615][Dandy's Swing] from DataPack.
+ - Missing skill [49616][Dandy's Swing] from DataPack.
+ - Missing skill [49617][Dandy's Buff] from DataPack.
+ - Missing skill [49618][Dragon Trample] from DataPack.
+ - Missing skill [49619][Swing Lv. 1] from DataPack.
+ - Missing skill [49620][Swing Lv. 2] from DataPack.
+ - Missing skill [49621][Blue Dragon's Magic Energy - Recovery] from DataPack.
+ - Missing skill [49622][Blue Dragon's Recovery] from DataPack.
+ - Missing skill [49623][Blue Dragon's Magic Energy - Defense] from DataPack.
+ - Missing skill [49624][Blue Dragon's Defense] from DataPack.
+ - Missing skill [49625][Blue Dragon's Magic Energy - Attack] from DataPack.
+ - Missing skill [49626][Blue Dragon's Beat] from DataPack.
+ - Missing skill [49627][Blue Dragon's Beat] from DataPack.
+ - Missing skill [49628][Dandy's Barrier] from DataPack.
+ - Missing skill [49630][Vortex of Darkness] from DataPack.
+ - Missing skill [49631][Dark Whirlwind] from DataPack.
+ - Missing skill [49632][Wind Attack] from DataPack.
+ - Missing skill [49633][Wind Strike] from DataPack.
+ - Missing skill [49634][Wind Hold] from DataPack.
+ - Missing skill [49635][Wind Hold] from DataPack.
+ - Missing skill [49636][Wind Arrow] from DataPack.
+ - Missing skill [49637][Magic Blast] from DataPack.
+ - Missing skill [49638][Magic Spike] from DataPack.
+ - Missing skill [49639][Wind Ranged Attack] from DataPack.
+ - Missing skill [49640][Powerful Wind Strike] from DataPack.
+ - Missing skill [49641][Dark Attack] from DataPack.
+ - Missing skill [49642][Armeria's Wave] from DataPack.
+ - Missing skill [49643][Server Lord's Wrath] from DataPack.
+ - Missing skill [49644][Fragrant Spring Aroma] from DataPack.
+ - Missing skill [49645][Fragrant Spring Aroma Festival] from DataPack.
+ - Missing skill [49646][Long-ranged Wind Knockback] from DataPack.
+ - Missing skill [49647][Armeria's Bleed] from DataPack.
+ - Missing skill [49648][Pa'agrio's Hand] from DataPack.
+ - Missing skill [49649][Draco Incubation] from DataPack.
+ - Missing skill [49650][Pa'agrio's Hand] from DataPack.
+ - Missing skill [49651][Draco Incubation] from DataPack.
+ - Missing skill [49652][Optimal Temperature Incubation Success] from DataPack.
+ - Missing skill [49653][Incubation Success] from DataPack.
+ - Missing skill [49654][Incubation Failure] from DataPack.
+ - Missing skill [49655][Grateful Swallow] from DataPack.
+ - Missing skill [49656][Golden Pig's Reward Demonstration] from DataPack.
+ - Missing skill [49657][Acropolis' Poison Attack] from DataPack.
+ - Missing skill [49658][Direct Damage Resistance] from DataPack.
+ - Missing skill [49659][Summon Draco Egg] from DataPack.
+ - Missing skill [49660][Red Fountain Lv. 1] from DataPack.
+ - Missing skill [49661][Yellow Fountain Lv. 1] from DataPack.
+ - Missing skill [49662][Yellow Fountain Lv. 1] from DataPack.
+ - Missing skill [49663][Blue Fountain Lv. 1] from DataPack.
+ - Missing skill [49664][Purple Fountain Lv. 1] from DataPack.
+ - Missing skill [49665][P./ M. Def. Increase] from DataPack.
+ - Missing skill [49666][Tantar Poison Shot] from DataPack.
+ - Missing skill [49667][NPC Large Body] from DataPack.
+ - Missing skill [49668][NPC Large Head] from DataPack.
+ - Missing skill [49669][Burial Beetle's Swing] from DataPack.
+ - Missing skill [49670][Burial Beetle's AoE Attack] from DataPack.
+ - Missing skill [49671][Crook's Attack] from DataPack.
+ - Missing skill [49672][Crook's Curse] from DataPack.
+ - Missing skill [49673][Petrification] from DataPack.
+ - Missing skill [49674][Harp's Attack] from DataPack.
+ - Missing skill [49675][Stun] from DataPack.
+ - Missing skill [49676][Harp's Sweeping Blow] from DataPack.
+ - Missing skill [49677][Baylor's Strike] from DataPack.
+ - Missing skill [49678][Baylor's Sweeping Blow] from DataPack.
+ - Missing skill [49679][Paralysis] from DataPack.
+ - Missing skill [49680][Tiat's Hell] from DataPack.
+ - Missing skill [49681][Fear] from DataPack.
+ - Missing skill [49682][Tiat's Breath] from DataPack.
+ - Missing skill [49683][Vortex] from DataPack.
+ - Missing skill [49684][Summon Dragon Rider] from DataPack.
+ - Missing skill [49685][Ekimus' Theft] from DataPack.
+ - Missing skill [49686][Istina's Hold] from DataPack.
+ - Missing skill [49687][Istina's Attack] from DataPack.
+ - Missing skill [49688][Suppression] from DataPack.
+ - Missing skill [49689][Istina's Storm] from DataPack.
+ - Missing skill [49690][Istina's Curse] from DataPack.
+ - Missing skill [49691][Master's Blessing - Mysterious Blessing II] from DataPack.
+ - Missing skill [49692][Attack in Combat] from DataPack.
+ - Missing skill [49693][Melee Magic Attack] from DataPack.
+ - Missing skill [49694][Ranged Magic Attack] from DataPack.
+ - Missing skill [49695][Bow Attack] from DataPack.
+ - Missing skill [49696][Power Strike] from DataPack.
+ - Missing skill [49697][Raven's Gate] from DataPack.
+ - Missing skill [49698][Raven's Gate] from DataPack.
+ - Missing skill [49699][Spear Thrust] from DataPack.
+ - Missing skill [49700][Race Blessing] from DataPack.
+ - Missing skill [49701][Blessing of Water] from DataPack.
+ - Missing skill [49702][Knockback] from DataPack.
+ - Missing skill [49703][Paralysis] from DataPack.
+ - Missing skill [49704][Paralysis] from DataPack.
+ - Missing skill [49705][No-penalty Zone for PK] from DataPack.
+ - Missing skill [49706][Splash] from DataPack.
+ - Missing skill [49707][Vicious Strike] from DataPack.
+ - Missing skill [49708][Dark Strike] from DataPack.
+ - Missing skill [49709][Blow] from DataPack.
+ - Missing skill [49710][Fatal Blow] from DataPack.
+ - Missing skill [49711][Earth Attack] from DataPack.
+ - Missing skill [49712][Melee Magic Attack] from DataPack.
+ - Missing skill [49713][Ranged Magic Attack] from DataPack.
+ - Missing skill [49714][Power Strike] from DataPack.
+ - Missing skill [49715][Dandy's Swing - Watermelon Battle] from DataPack.
+ - Missing skill [49716][Dandy's Swing - Player's Flight] from DataPack.
+ - Missing skill [49717][Blessing of Growth] from DataPack.
+ - Missing skill [49718][Lucky Day] from DataPack.
+ - Missing skill [49719][Fafurion: Basic Attack] from DataPack.
+ - Missing skill [49720][Fafurion: Basic Attack] from DataPack.
+ - Missing skill [49721][Fafurion: Tail Strike] from DataPack.
+ - Missing skill [49722][Fafurion: Tail Strike] from DataPack.
+ - Missing skill [49723][Fafurion: Tail Strike] from DataPack.
+ - Missing skill [49724][Fafurion: Water Wave] from DataPack.
+ - Missing skill [49725][Fafurion: Water Wave] from DataPack.
+ - Missing skill [49726][Fafurion Breath] from DataPack.
+ - Missing skill [49727][Fafurion Breath] from DataPack.
+ - Missing skill [49728][Fafurion Wing Strike] from DataPack.
+ - Missing skill [49729][Fafurion Wing Strike] from DataPack.
+ - Missing skill [49730][Fafurion: Tidal Wave] from DataPack.
+ - Missing skill [49731][Fafurion: Tidal Wave] from DataPack.
+ - Missing skill [49732][Fafurion: Tidal Wave - Presentation] from DataPack.
+ - Missing skill [49733][Fafurion Berserk] from DataPack.
+ - Missing skill [49734][Through the Dungeon of Memories] from DataPack.
+ - Missing skill [49735][Large Firecracker 1] from DataPack.
+ - Missing skill [49736][Large Firecracker 1] from DataPack.
+ - Missing skill [49737][Fafurion's Healing Powers] from DataPack.
+ - Missing skill [49738][Basic Attack] from DataPack.
+ - Missing skill [49739][Aqua Strike] from DataPack.
+ - Missing skill [49740][Wet Earth Attack] from DataPack.
+ - Missing skill [49741][Dark Hydro Strike] from DataPack.
+ - Missing skill [49742][Defensive Attack] from DataPack.
+ - Missing skill [49743][Water Strike] from DataPack.
+ - Missing skill [49744][Flight Attack] from DataPack.
+ - Missing skill [49745][Aqua Bolt] from DataPack.
+ - Missing skill [49746][Water Buster] from DataPack.
+ - Missing skill [49747][Nymph's Elemental Discharge] from DataPack.
+ - Missing skill [49748][Goldin's Ranged Attack] from DataPack.
+ - Missing skill [49749][Paralysis] from DataPack.
+ - Missing skill [49750][Fear] from DataPack.
+ - Missing skill [49751][Stupefaction] from DataPack.
+ - Missing skill [49752][Fafurion Power Stamp] from DataPack.
+ - Missing skill [49753][Fafurion Power Stamp] from DataPack.
+ - Missing skill [49754][Fafurion: Summon Water Orb] from DataPack.
+ - Missing skill [49755][Fafurion Water Bomb] from DataPack.
+ - Missing skill [49756][Fafurion: Water Blast] from DataPack.
+ - Missing skill [49757][Fafurion: Water Blast] from DataPack.
+ - Missing skill [49758][Fafurion: Water Blast] from DataPack.
+ - Missing skill [49759][Fafurion Water Spiral] from DataPack.
+ - Missing skill [49760][Fafurion Water Spiral] from DataPack.
+ - Missing skill [49761][Fafurion's Hydro Blast] from DataPack.
+ - Missing skill [49762][Fafurion's Hydro Blast] from DataPack.
+ - Missing skill [49763][Fafurion's Hydro Blast] from DataPack.
+ - Missing skill [49764][Fafurion Hydro Spiral] from DataPack.
+ - Missing skill [49765][Fafurion Hydro Spiral] from DataPack.
+ - Missing skill [49766][Magic Spike] from DataPack.
+ - Missing skill [49767][Long Magic Spike] from DataPack.
+ - Missing skill [49768][Magic Bomb] from DataPack.
+ - Missing skill [49769][Storm Magic Spike] from DataPack.
+ - Missing skill [49770][Storm Strike] from DataPack.
+ - Missing skill [49771][Mysterious Waterfall Effect] from DataPack.
+ - Missing skill [49772][Electric Energy] from DataPack.
+ - Missing skill [49773][Electric Strike] from DataPack.
+ - Missing skill [49774][Broad Electric Strike] from DataPack.
+ - Missing skill [49775][Electric Bomb] from DataPack.
+ - Missing skill [49776][Electric Megabomb] from DataPack.
+ - Missing skill [49777][Electric Shock] from DataPack.
+ - Missing skill [49778][Shock Electric Wave] from DataPack.
+ - Missing skill [49779][Electric Crush] from DataPack.
+ - Missing skill [49780][Electric Beam] from DataPack.
+ - Missing skill [49781][Electric Plasma Shot] from DataPack.
+ - Missing skill [49782][Electric Plasma Explosion] from DataPack.
+ - Missing skill [49783][Overload Lv. 1] from DataPack.
+ - Missing skill [49784][Cyrax's Aqua Arrow] from DataPack.
+ - Missing skill [49785][Cyrax's Arrow Flush] from DataPack.
+ - Missing skill [49786][Cyrax's Arrow Flush] from DataPack.
+ - Missing skill [49787][Cyrax's Water Wave] from DataPack.
+ - Missing skill [49788][Cyrax's Water Wave] from DataPack.
+ - Missing skill [49789][Cyrax's Surge Wave] from DataPack.
+ - Missing skill [49790][Cyrax's Surge Wave] from DataPack.
+ - Missing skill [49791][Cyrax's Water Blast] from DataPack.
+ - Missing skill [49792][Cyrax's Water Blast] from DataPack.
+ - Missing skill [49793][Cyrax's Water Blast] from DataPack.
+ - Missing skill [49794][Cyrax's Guarding Stone Summon] from DataPack.
+ - Missing skill [49804][Crystal Fragment's Special Power] from DataPack.
+ - Missing skill [50604][Invocation] from DataPack.
+ - Missing skill [50608][Immortal Ring] from DataPack.
+ - Missing skill [50727][Vulcan Doll Lv. 1] from DataPack.
+ - Missing skill [50728][Spring Spirit] from DataPack.
+ - Missing skill [50729][Full Bloom Magic Resistance] from DataPack.
+ - Missing skill [50730][Spring Spirit] from DataPack.
+ - Missing skill [50731][Full Bloom Recharge] from DataPack.
+ - Missing skill [50732][Swallow's Wing Strike] from DataPack.
+ - Missing skill [50733][Swallow's Hurricane] from DataPack.
+ - Missing skill [50734][Swallow's Hurricane] from DataPack.
+ - Missing skill [50735][Swallow's Hurricane] from DataPack.
+ - Missing skill [50736][Swallow's Egg Lv. 1] from DataPack.
+ - Missing skill [50737][Swallow's Wing Strike] from DataPack.
+ - Missing skill [50738][Swallow's Wing Strike] from DataPack.
+ - Missing skill [50739][Swallow's Wing Strike] from DataPack.
+ - Missing skill [50740][Swallow's Wing Strike] from DataPack.
+ - Missing skill [50741][Swallow's Wing Strike] from DataPack.
+ - Missing skill [50742][Swallow's Hurricane] from DataPack.
+ - Missing skill [50743][Magic Rune - Shelter: Master] from DataPack.
+ - Missing skill [50744][Shelter: Master] from DataPack.
+ - Missing skill [50745][Water Spout] from DataPack.
+ - Missing skill [50746][Magic Rune - Mystic Meteor: Master] from DataPack.
+ - Missing skill [50747][Mystic Meteor: Master] from DataPack.
+ - Missing skill [50748][Mystic Meteor: Master] from DataPack.
+ - Missing skill [50749][Magic Rune - Time Distortion: Master] from DataPack.
+ - Missing skill [50750][Enhanced Time Master] from DataPack.
+ - Missing skill [50751][Time Distortion: Master] from DataPack.
+ - Missing skill [50752][Magic Rune - Holy Circle: Master] from DataPack.
+ - Missing skill [50753][Light Protection: Master] from DataPack.
+ - Missing skill [50754][Judgment of Light: Master] from DataPack.
+ - Missing skill [50755][Magic Rune - Apocalypse] from DataPack.
+ - Missing skill [50756][Condemnation: Master] from DataPack.
+ - Missing skill [50757][Apocalypse] from DataPack.
+ - Missing skill [50758][Magic Rune - Moonlight Hurricane] from DataPack.
+ - Missing skill [50759][Moonlight Hurricane] from DataPack.
+ - Missing skill [50760][Moonlight Arrow] from DataPack.
+ - Missing skill [50761][Moonlight Arrow] from DataPack.
+ - Missing skill [50762][Water Spout] from DataPack.
+ - Missing skill [50763][Apocalypse] from DataPack.
+ - Missing skill [50764][Mystic Honor] from DataPack.
+ - Missing skill [50765][Time Distortion: Master] from DataPack.
+ - Missing skill [50766][Time Distortion] from DataPack.
+ - Missing skill [50767][Judgment of Light: Master] from DataPack.
+ - Missing skill [50768][Condemnation: Master] from DataPack.
+ - Missing skill [50769][Water Spout] from DataPack.
+ - Missing skill [50770][Judgment of Light: Master] from DataPack.
+ - Missing skill [50771][Mystic Meteor: Master] from DataPack.
+ - Missing skill [50772][Swallow's Hurricane] from DataPack.
+ - Missing skill [50773][Swallow's Hurricane] from DataPack.
+ - Missing skill [50774][Swallow's Hurricane] from DataPack.
+ - Missing skill [50775][Swallow's Hurricane] from DataPack.
+ - Missing skill [50776][Swallow's Hurricane] from DataPack.
+ - Missing skill [50777][Aztacan Doll Lv. 1] from DataPack.
+ - Missing skill [50778][Hostile Ghost Ramdal Lv. 1] from DataPack.
+ - Missing skill [50779][Death Lord Hallate Lv. 1] from DataPack.
+ - Missing skill [50780][Kiege Lv. 1] from DataPack.
+ - Missing skill [50781][Immortal Savior Mardil Lv. 1] from DataPack.
+ - Missing skill [50782][Ranku Lv. 1] from DataPack.
+ - Missing skill [50783][Korim Lv. 1] from DataPack.
+ - Missing skill [50784][Dark Queen Lv. 1] from DataPack.
+ - Missing skill [50785][Kernon Lv. 1] from DataPack.
+ - Missing skill [50786][Rafael Lv. 1] from DataPack.
+ - Missing skill [50787][Longhorn Golkonda Lv. 1] from DataPack.
+ - Missing skill [50788][Bloody Priestess Malisha Lv. 1] from DataPack.
+ - Missing skill [50789][Wrath Fire Shuriel Lv. 1] from DataPack.
+ - Missing skill [50790][Cherub Galaxia Lv. 1] from DataPack.
+ - Missing skill [50791][Anais Lv. 1] from DataPack.
+ - Missing skill [50792][Galaxia Lv. 1] from DataPack.
+ - Missing skill [50793][Juriel Lv. 1] from DataPack.
+ - Missing skill [50794][Phiriel Lv. 1] from DataPack.
+ - Missing skill [50795][Ares Lv. 1] from DataPack.
+ - Missing skill [50796][Kadin Lv. 1] from DataPack.
+ - Missing skill [50797][Tanas Lv. 1] from DataPack.
+ - Missing skill [50798][Ifa Lv. 1] from DataPack.
+ - Missing skill [50799][Radin Lv. 1] from DataPack.
+ - Missing skill [50800][Karim Lv. 1] from DataPack.
+ - Missing skill [50801][Reggiesys Lv. 1] from DataPack.
+ - Missing skill [50802][Slicing Lv. 1] from DataPack.
+ - Missing skill [50803][Beoro Lv. 1] from DataPack.
+ - Missing skill [50804][Hammer Fall] from DataPack.
+ - Missing skill [50805][Hammer Fall] from DataPack.
+ - Missing skill [50806][Full Hammer Knockdown] from DataPack.
+ - Missing skill [50807][Full Hammer Knockdown] from DataPack.
+ - Missing skill [50808][Full Hammer Knockdown] from DataPack.
+ - Missing skill [50809][Full Hammer Knockdown] from DataPack.
+ - Missing skill [50810][Full Hammer Knockdown] from DataPack.
+ - Missing skill [50811][Full Hammer Knockdown] from DataPack.
+ - Missing skill [50812][Guardian's Rune Lv. 1] from DataPack.
+ - Missing skill [50813][Glakias Doll Presentation] from DataPack.
+ - Missing skill [50814][Behemoth Doll Presentation] from DataPack.
+ - Missing skill [50815][Andreas van Halter Doll Presentation] from DataPack.
+ - Missing skill [50816][Kelbim Doll Presentation] from DataPack.
+ - Missing skill [50817][Ferion Doll Presentation] from DataPack.
+ - Missing skill [50818][Adventurer's Sheep Hat] from DataPack.
+ - Missing skill [54265][Transformation: Seductive Swimsuit] from DataPack.
+ - Missing skill [54266][Baby Shark Transformation] from DataPack.
+ - Missing skill [54267][Transformation: Alluring Swimsuit] from DataPack.
+ - Missing skill [59870][Transformation Scroll: Eritros Saber] from DataPack.
+ - Missing skill [59871][Anniversary Firecracker] from DataPack.
+ - Missing skill [59872][tabletfarmer's aura] from DataPack.
+ - Missing skill [59873][tabletfarmer's aura] from DataPack.
+ - Missing skill [59874]['Bartz: Fight for Freedom' Comic Book's Empower] from DataPack.
+ - Missing skill [59875][Winner's Fireworks] from DataPack.
+ - Missing skill [59876][Winner's Fireworks] from DataPack.
+ - Missing skill [59877][Kill Effect - Eerie Ghost] from DataPack.
+ - Missing skill [59878][Eerie Ghost] from DataPack.
+ - Missing skill [59881][Halloween Girl's Blessing] from DataPack.
+ - Missing skill [59882][Ghost Detector (Time-limited)] from DataPack.
+ - Missing skill [59883][Summon Halloween Zombie Ghost] from DataPack.
+ - Missing skill [59884][Halloween Transformation Scroll] from DataPack.
+ - Missing skill [59885][Halloween Transformation] from DataPack.
+ - Missing skill [59886][Aden Warrior's Support] from DataPack.
+ - Missing skill [59887][Damage of Limit] from DataPack.
+ - Missing skill [62151][Test - Dandy's Swing] from DataPack.
+ - Missing skill [62152][Test - Dandy's Swing] from DataPack.
+ - Missing skill [62205][Mercenary's Circlet of Hero] from DataPack.
+ - Missing skill [62206][Mercenary's Blessed Circlet of Hero] from DataPack.
+ - Missing skill [62207][Mercenary's Piercing Mask] from DataPack.
+ - Missing skill [62208][Mercenary's Phantom Mask] from DataPack.
+ - Missing skill [62209][Mercenary's Cloak of Protection] from DataPack.
+ - Missing skill [62210][Mercenary's Heavenly Cloak] from DataPack.
+ - Missing skill [62211][Mercenary's Dragon Belt] from DataPack.
+ - Missing skill [62212][Mercenary's Blessed Dragon Belt] from DataPack.
+ - Missing skill [62213][Mercenary's Shield of Vengeance] from DataPack.
+ - Missing skill [62214][Mercenary's Sigil of Inevitability] from DataPack.
+ - Missing skill [62215][Mercenary's Shield of Protection] from DataPack.
+ - Missing skill [62216][Mercenary's Sigil of Protection] from DataPack.
+ - Missing skill [62217][Mercenary Berserker's Shield] from DataPack.
+ - Missing skill [62218][Mercenary Berserker's Sigil] from DataPack.
+ - Missing skill [62219][Vampiric Effect Block] from DataPack.
+ - Missing skill [62220][Test - Multiattack Skill's Received Damage Decrease 1] from DataPack.
+ - Missing skill [62221][Test - Multiattack Skill's Received Damage Decrease 2] from DataPack.
+ - Missing skill [62222][Test - Multiattack Skill's Received Damage Decrease 3] from DataPack.
+ - Missing skill [62223][Test - Received Attack Number Limit 1] from DataPack.
+ - Missing skill [62224][Test - Received Attack Number Limit 2] from DataPack.
+ - Missing skill [62225][Test - Received Attack Number Limit 3] from DataPack.
+ - Missing skill [62226][Test - Received Attack Number Limit 4] from DataPack.
+ - Missing skill [62227][Test - Distance-based Damage Decrease 1] from DataPack.
+ - Missing skill [62228][Test - Distance-based Damage Decrease 2] from DataPack.
+ - Missing skill [62229][Test - Distance-based Skill Evasion 1] from DataPack.
+ - Missing skill [62230][Test - Distance-based Skill Evasion 2] from DataPack.
+ - Missing skill [62231][Test - Transferred Damage Decrease 1] from DataPack.
+ - Missing skill [62232][Test - Transferred Damage Decrease 2] from DataPack.
+ - Missing skill [62233][Test - Transfer and Transferred Damage Decrease Skill 1] from DataPack.
+ - Missing skill [62234][Test - Damage Transfer Test Skill] from DataPack.
+ - Missing skill [62235][Test - Transfer and Transferred Damage Decrease Skill 2] from DataPack.
+ - Missing skill [62236][Test - Transfer and Transferred Damage Decrease Skill 3] from DataPack.
+ - Missing skill [62237][Test - Debuff/ Anomaly Duration Increase 1] from DataPack.
+ - Missing skill [62238][Test - Debuff/ Anomaly Duration Increase 2] from DataPack.
+ - Missing skill [62239][Test - Debuff/ Anomaly Duration Increase 3] from DataPack.
+ - Missing skill [62240][Test - Debuff/ Anomaly Duration Decrease 1] from DataPack.
+ - Missing skill [62241][Test - Debuff/ Anomaly Duration Decrease 2] from DataPack.
+ - Missing skill [62242][Test - Distance-based Skill Evasion 3] from DataPack.
+ - Missing skill [62243][Test - Debuff/ Anomaly Duration Increase 4] from DataPack.
+ - Missing skill [62244][Test - i_p_mix_attack;0;1000;0;0;0] from DataPack.
+ - Missing skill [62245][Test - Jump Rush] from DataPack.
+ - Missing skill [62246][Test - Rushing Retreat] from DataPack.
+ - Missing skill [62247][Test - Rushing Retreat 2] from DataPack.
+ - Missing skill [62248][Test - Collecting] from DataPack.
+ - Missing skill [62249][Test - Collecting 2] from DataPack.
+ - Missing skill [62250][Test - Casting Spd. Change Requirement Check 1] from DataPack.
+ - Missing skill [62251][Test - Casting Spd. Change Requirement Check 2] from DataPack.
+ - Missing skill [62252][Ogre's Essence - Test] from DataPack.
+ - Missing skill [62253][Test - Sound Request Skill] from DataPack.
+ - Missing skill [62254][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62255][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62256][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62257][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62258][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62259][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62260][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62261][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62262][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62263][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62264][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62265][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62266][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62267][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62268][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62269][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62270][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62271][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62272][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62273][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62274][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62275][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62276][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62277][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62278][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62279][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62280][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [62281][Test Skill: Speed Underwater] from DataPack.
+ - Missing skill [82175][Shield/ Sigil Blessing Effect] from DataPack.
+ - Missing skill [82176][Shield/ Sigil Blessing Effect] from DataPack.
+ - Missing skill [82177][Shield/ Sigil Blessing Effect] from DataPack.
+ - Missing skill [82178][Shield/ Sigil Blessing Effect] from DataPack.
+ - Missing skill [82179][Common A-grade Shield/ Sigil - 6 Item Effect] from DataPack.
+ - Missing skill [82180][Common A-grade Shield/ Sigil - 7 Item Effect] from DataPack.
+ - Missing skill [82181][Common A-grade Shield/ Sigil - 8 Item Effect] from DataPack.
+ - Missing skill [82182][Common A-grade Shield/ Sigil - 9 Item Effect] from DataPack.
+ - Missing skill [82183][Common A-grade Shield/ Sigil - 10 Item Effect] from DataPack.
+ - Missing skill [82184][Common A-grade Shield/ Sigil of Awakening - 6 Item Effect] from DataPack.
+ - Missing skill [82185][Common A-grade Shield/ Sigil of Awakening - 7 Item Effect] from DataPack.
+ - Missing skill [82186][Common A-grade Shield/ Sigil of Awakening - 8 Item Effect] from DataPack.
+ - Missing skill [82187][Common A-grade Shield/ Sigil of Awakening - 9 Item Effect] from DataPack.
+ - Missing skill [82188][Common A-grade Shield/ Sigil of Awakening - 10 Item Effect] from DataPack.
+ - Missing skill [82189][Common A-grade Shield/ Sigil of Protection - 6 Item Effect] from DataPack.
+ - Missing skill [82190][Common A-grade Shield/ Sigil of Protection - 7 Item Effect] from DataPack.
+ - Missing skill [82191][Common A-grade Shield/ Sigil of Protection - 8 Item Effect] from DataPack.
+ - Missing skill [82192][Common A-grade Shield/ Sigil of Protection - 9 Item Effect] from DataPack.
+ - Missing skill [82193][Common A-grade Shield/ Sigil of Protection - 10 Item Effect] from DataPack.
+ - Missing skill [82194][Common A-grade Berserker's Shield/ Sigil - 6 Item Effect] from DataPack.
+ - Missing skill [82195][Common A-grade Berserker's Shield/ Sigil - 7 Item Effect] from DataPack.
+ - Missing skill [82196][Common A-grade Berserker's Shield/ Sigil - 8 Item Effect] from DataPack.
+ - Missing skill [82197][Common A-grade Berserker's Shield/ Sigil - 9 Item Effect] from DataPack.
+ - Missing skill [82198][Common A-grade Berserker's Shield/ Sigil - 10 Item Effect] from DataPack.
+ - Missing skill [85701][Aden Laboratory - Queen Ant 1] from DataPack.
+ - Missing skill [85702][Aden Laboratory - Queen Ant 2] from DataPack.
+ - Missing skill [85703][Aden Laboratory - Queen Ant 3] from DataPack.
+ - Missing skill [85704][Aden Laboratory - Queen Ant 4] from DataPack.
+ - Missing skill [85705][Aden Laboratory - Queen Ant 5] from DataPack.
+ - Missing skill [85706][Aden Laboratory - Queen Ant 6] from DataPack.
+ - Missing skill [85707][Aden Laboratory - Queen Ant 7] from DataPack.
+ - Missing skill [85708][Aden Laboratory - Queen Ant 8] from DataPack.
+ - Missing skill [85709][Aden Laboratory - Queen Ant 9] from DataPack.
+ - Missing skill [85710][Aden Laboratory - Queen Ant 10] from DataPack.
+ - Missing skill [85711][Aden Laboratory - Queen Ant 11] from DataPack.
+ - Missing skill [85712][Aden Laboratory - Queen Ant 12] from DataPack.
+ - Missing skill [85713][Aden Laboratory - Queen Ant 13] from DataPack.
+ - Missing skill [85714][Aden Laboratory - Queen Ant 14] from DataPack.
+ - Missing skill [85715][Aden Laboratory - Queen Ant 15] from DataPack.
+ - Missing skill [85716][Aden Laboratory - Queen Ant 16] from DataPack.
+ - Missing skill [85717][Aden Laboratory - Queen Ant 17] from DataPack.
+ - Missing skill [85718][Aden Laboratory - Queen Ant 18] from DataPack.
+ - Missing skill [85719][Aden Laboratory - Queen Ant 19] from DataPack.
+ - Missing skill [85720][Aden Laboratory - Queen Ant 20] from DataPack.
+ - Missing skill [85721][Aden Laboratory - Special Queen Ant 1_v1] from DataPack.
+ - Missing skill [85722][Aden Laboratory - Special Queen Ant 2_v1] from DataPack.
+ - Missing skill [85723][Aden Laboratory - Special Queen Ant 3_v1] from DataPack.
+ - Missing skill [85724][Aden Laboratory - Special Queen Ant 4_1_v1] from DataPack.
+ - Missing skill [85725][Aden Laboratory - Special Queen Ant 4_2_v1] from DataPack.
+ - Missing skill [85726][Queen Ant's Transcendent Research: Base Effect] from DataPack.
+ - Missing skill [85727][Queen Ant's Transcendent Research: Special Effect - Queen Ant's Ring] from DataPack.
+ - Missing skill [85731][Received P. Skill Critical Damage Reduction] from DataPack.
+ - Missing skill [85732][Received M. Skill Critical Damage Reduction] from DataPack.
+ - Missing skill [85733][Received Skill Critical Damage Reduction] from DataPack.
+ - Missing skill [85734][Received AoE Skill Damage] from DataPack.
+ - Missing skill [85735][Armor enchant rate] from DataPack.
+ - Missing skill [85736][Received P. Skill Critical Damage Reduction] from DataPack.
+ - Missing skill [85737][Received M. Skill Critical Damage Reduction] from DataPack.
+ - Missing skill [85738][Received Skill Critical Damage Reduction] from DataPack.
+ - Missing skill [85739][Received AoE Skill Damage] from DataPack.
+ - Missing skill [85740][Armor enchant rate] from DataPack.
+ - Missing skill [85741][Received P. Skill Critical Damage Reduction] from DataPack.
+ - Missing skill [85742][Received M. Skill Critical Damage Reduction] from DataPack.
+ - Missing skill [85743][Received Skill Critical Damage Reduction] from DataPack.
+ - Missing skill [85744][Received AoE Skill Damage] from DataPack.
+ - Missing skill [85745][Armor enchant rate] from DataPack.
+ - Missing skill [85746][Received P. Skill Critical Damage Reduction] from DataPack.
+ - Missing skill [85747][Received M. Skill Critical Damage Reduction] from DataPack.
+ - Missing skill [85748][Received Skill Critical Damage Reduction] from DataPack.
+ - Missing skill [85749][Received AoE Skill Damage] from DataPack.
+ - Missing skill [85750][Armor enchant rate] from DataPack.
+ - Missing skill [85751][Arcane Damage Decrease] from DataPack.
+ - Missing skill [85752][Arcane Knockback Resistance] from DataPack.
+ - Missing skill [85753][Arcane Silence Resistance] from DataPack.
+ - Missing skill [85754][Arcane Paralysis Resistance] from DataPack.
+ - Missing skill [85755][Arcane Damage Decrease] from DataPack.
+ - Missing skill [85756][Arcane Knockback Resistance] from DataPack.
+ - Missing skill [85757][Arcane Silence Resistance] from DataPack.
+ - Missing skill [85758][Arcane Paralysis Resistance] from DataPack.
+ - Missing skill [86080][Best Pals I] from DataPack.
+ - Missing skill [86081][Best Pals II] from DataPack.
+ - Missing skill [86082][Best Pals III] from DataPack.
+ - Missing skill [86083][Best Pals IV] from DataPack.
+ - Missing skill [86084][Together with Princess] from DataPack.
+ - Missing skill [86085][Fire Friends I] from DataPack.
+ - Missing skill [86086][Fire Friends II] from DataPack.
+ - Missing skill [86087][Fire Friends III] from DataPack.
+ - Missing skill [86088][Piece of Cake] from DataPack.
+ - Missing skill [86089][Worship to Antharas] from DataPack.
+ - Missing skill [86090][Defense is Key] from DataPack.
+ - Missing skill [86091][Beyond the Dimensional Border] from DataPack.
+ - Missing skill [86092][Old & New] from DataPack.
+ - Missing skill [86093][Orfen's Defense] from DataPack.
+ - Missing skill [86094][Cacophony] from DataPack.
+ - Missing skill [86095][King of Kings] from DataPack.
+ - Missing skill [87971][Shelter: Master] from DataPack.
+ - Missing skill [87972][Supernova] from DataPack.
+ - Missing skill [87973][Light Flow] from DataPack.
+ - Missing skill [87974][Water Spout] from DataPack.
+ - Missing skill [87975][Flowing Tears Lv. 1] from DataPack.
+ - Missing skill [87976][Flowing Tears' Burst Effect] from DataPack.
+ - Missing skill [87977][Armor of Swift Current] from DataPack.
+ - Missing skill [87978][Eva's Tempest] from DataPack.
+ - Missing skill [87981][Sea Vortex Rush] from DataPack.
+ - Missing skill [87982][Eva's Help - Demonstration 1] from DataPack.
+ - Missing skill [87983][Eva's Help - Demonstration 2] from DataPack.
+ - Missing skill [87984][Eva's Help - Demonstration 3] from DataPack.
+ - Missing skill [87985][Eva's Help - Demonstration 4] from DataPack.
+ - Missing skill [87986][Ultimate Defense: Aegis - Demonstration 1] from DataPack.
+ - Missing skill [87987][Ultimate Defense: Aegis - Demonstration 2] from DataPack.
+ - Missing skill [87988][Ultimate Defense: Aegis - Demonstration 3] from DataPack.
+ - Missing skill [87992][Templar's Rush] from DataPack.
+ - Missing skill [87993][Lightning Wave Break] from DataPack.
+ - Missing skill [87994][Lightning Flash] from DataPack.
+ - Missing skill [87995][Shillien's Tempest] from DataPack.
+ - Missing skill [87996][Shillien's Tempest Lv. 1] from DataPack.
+ - Missing skill [87997][Paralysis] from DataPack.
+ - Missing skill [88001][Dark Rush] from DataPack.
+ - Missing skill [88002][Shillien's Help - Demonstration 1] from DataPack.
+ - Missing skill [88003][Shillien's Help - Demonstration 2] from DataPack.
+ - Missing skill [88004][Shillien's Help - Demonstration 3] from DataPack.
+ - Missing skill [88005][Shillien's Help - Demonstration 4] from DataPack.
+ - Missing skill [88006][Ultimate Defense: Fortitude - Demonstration 1] from DataPack.
+ - Missing skill [88007][Ultimate Defense: Fortitude - Demonstration 2] from DataPack.
+ - Missing skill [88008][Ultimate Defense: Fortitude - Demonstration 3] from DataPack.
+ - Missing skill [88009][Templar's Assault] from DataPack.
+ - Missing skill [88010][Templar's Assault] from DataPack.
+ - Missing skill [88011][Condemnation: Master] from DataPack.
+ - Missing skill [88012][Apocalypse] from DataPack.
+ - Missing skill [88013][Supernova] from DataPack.
+ - Missing skill [88014][Supernova] from DataPack.
+ - Missing skill [88015][Supernova] from DataPack.
+ - Missing skill [88016][Flowing Tears] from DataPack.
+ - Missing skill [88017][Aqua Wave] from DataPack.
+ - Missing skill [88018][Sea Vortex Rush] from DataPack.
+ - Missing skill [88019][Trigger Supernova] from DataPack.
+ - Missing skill [88020][Trigger Water Spout] from DataPack.
+ - Missing skill [88021][Templar's Assault: Enhancement] from DataPack.
+ - Missing skill [88022][Eva's Tempest: Enhancement] from DataPack.
+ - Missing skill [88023][Sea Vortex Rush: Enhancement] from DataPack.
+ - Missing skill [88024][Ultimate Defense: Aegis - Demonstration] from DataPack.
+ - Missing skill [88027][Summon Shillien's Statue] from DataPack.
+ - Missing skill [88029][Paralysis] from DataPack.
+ - Missing skill [88030][Paralysis] from DataPack.
+ - Missing skill [88031][Thunder Master] from DataPack.
+ - Missing skill [88032][Shillien's Curse - Humans] from DataPack.
+ - Missing skill [88033][Shillien's Curse - Elves] from DataPack.
+ - Missing skill [88034][Shillien's Curse - Dark Elves] from DataPack.
+ - Missing skill [88035][Shillien's Curse - Orcs] from DataPack.
+ - Missing skill [88036][Shillien's Curse - Dwarves] from DataPack.
+ - Missing skill [88037][Shillien's Curse - Kamaels] from DataPack.
+ - Missing skill [88038][Shillien's Curse - Sylphs] from DataPack.
+ - Missing skill [88039][Shillien's Curse - High Elves] from DataPack.
+ - Missing skill [88040][Templar's Power] from DataPack.
+ - Missing skill [88041][Templar's Power Lv. 1] from DataPack.
+ - Missing skill [88042][Templar's Power Lv. 2] from DataPack.
+ - Missing skill [88043][Templar's Power Lv. 3] from DataPack.
+ - Missing skill [88044][Templar's Power] from DataPack.
+ - Missing skill [88045][Templar's Power Lv. 1] from DataPack.
+ - Missing skill [88046][Templar's Power Lv. 2] from DataPack.
+ - Missing skill [88047][Templar's Power Lv. 3] from DataPack.
+ - Missing skill [88048][Power of Water Lv. 1] from DataPack.
+ - Missing skill [88049][Templar's Weapon Mastery] from DataPack.
+ - Missing skill [88050][Templar's Armor Mastery] from DataPack.
+ - Missing skill [88051][Transcendent Templar's Assault] from DataPack.
+ - Missing skill [88052][Transcendent Templar's Assault] from DataPack.
+ - Missing skill [88053][Armor Care] from DataPack.
+ - Missing skill [88054][Water Shield Throwing] from DataPack.
+ - Missing skill [88055][Armor Care] from DataPack.
+ - Missing skill [88056][Dark Shield Throwing] from DataPack.
+ - Missing skill [88057][Paralysis] from DataPack.
+ - Missing skill [88058][Ultimate Defense: Fortitude - Demonstration 4] from DataPack.
+ - Missing skill [88059][Power of Lightning Lv. 1] from DataPack.
+ - Missing skill [88060][Lightning Boost] from DataPack.
+ - Missing skill [88061][Ultimate Defense: Aegis - Buff (3 sec.)] from DataPack.
+ - Missing skill [88062][Ultimate Defense: Fortitude - Buff (3 sec.)] from DataPack.
+ - Missing skill [88063][Water Shield Throwing] from DataPack.
+ - Missing skill [88064][Water Shield Throwing] from DataPack.
+ - Missing skill [88065][Dark Shield Throwing] from DataPack.
+ - Missing skill [88066][Dark Shield Throwing] from DataPack.
+ - Missing skill [88067][Battle Training] from DataPack.
+ - Missing skill [88068][Life Magic Harmony - Defense] from DataPack.
+ - Missing skill [88069][Life Magic Harmony - Attack] from DataPack.
+ - Missing skill [88070][Life Magic Harmony - MP Recovery] from DataPack.
+ - Missing skill [88071][Water Master] from DataPack.
+ - Missing skill [88072][Shillien's Help] from DataPack.
+ - Missing skill [88073][Paralysis] from DataPack.
+ - Missing skill [88075][Water Spout] from DataPack.
+ - Missing skill [88076][Trigger Water Spout] from DataPack.
+ - Missing skill [88077][Water Barrier] from DataPack.
+ - Missing skill [88078][Shillien's Statue - Prolongation Demonstration] from DataPack.
+ - Missing skill [88079][Shillien's Statue - Skill] from DataPack.
+ - Missing skill [88080][Passive: Basic Attack Range] from DataPack.
+ - Missing skill [88081][Mortal Piercing] from DataPack.
+ - Missing skill [88082][Detect Vulnerability] from DataPack.
+ - Missing skill [88083][Cramp] from DataPack.
+ - Missing skill [88084][Assassination] from DataPack.
+ - Missing skill [88085][Assassination] from DataPack.
+ - Missing skill [88086][Assassination] from DataPack.
+ - Missing skill [88100][Cacophony of War] from DataPack.
+ - Missing skill [88101][Cacophony of War] from DataPack.
+ - Missing skill [88103][Cacophony of War] from DataPack.
+ - Missing skill [88104][Cacophony of War: Master] from DataPack.
+ - Missing skill [88105][Cacophony of War] from DataPack.
+ - Missing skill [88106][Cacophony of War: Master] from DataPack.
+ - Missing skill [88108][Jump Attack] from DataPack.
+ - Missing skill [88109][Jump Attack] from DataPack.
+ - Missing skill [88110][Rushing Retreat] from DataPack.
+ - Missing skill [88111][Rushing Retreat] from DataPack.
+ - Missing skill [88112][Rushing Retreat] from DataPack.
+ - Missing skill [88113][Final Secret: Grand Khavatari] from DataPack.
+ - Missing skill [88114][Burning Assault] from DataPack.
+ - Missing skill [88115][Mastery of Haste] from DataPack.
+ - Missing skill [88116][Mastery of Haste] from DataPack.
+ - Missing skill [88117][Burning Strike] from DataPack.
+ - Missing skill [88118][Khavatari's Attack Mastery] from DataPack.
+ - Missing skill [88119][Khavatari's Armor Mastery] from DataPack.
+ - Missing skill [88120][Rushing Retreat] from DataPack.
+ - Missing skill [88121][Transcendent Burning Assault] from DataPack.
+ - Missing skill [88122][Jump Attack] from DataPack.
+ - Missing skill [88123][Enhanced Hurricane] from DataPack.
+ - Missing skill [88124][Double Hurricane Assault] from DataPack.
+ - Missing skill [88125][Transcendent Double Hurricane Assault] from DataPack.
+ - Missing skill [88126][Cacophony of War: Master] from DataPack.
+ - Missing skill [88127][Double Hurricane Assault] from DataPack.
+ - Missing skill [88128][Cacophony of War - Combat Power's Passive Check] from DataPack.
+ - Missing skill [88129][Cacophony of War] from DataPack.
+ - Missing skill [88130][Cacophony of War] from DataPack.
+ - Missing skill [88201][Elemental Strike] from DataPack.
+ - Missing skill [88202][Elemental Strike] from DataPack.
+ - Missing skill [88203][Elemental Strike] from DataPack.
+ - Missing skill [88204][Elemental Vortex] from DataPack.
+ - Missing skill [88205][Elemental Vortex] from DataPack.
+ - Missing skill [88206][Elemental Vortex] from DataPack.
+ - Missing skill [88207][Elemental Shackles] from DataPack.
+ - Missing skill [88208][Elemental Shackles] from DataPack.
+ - Missing skill [88210][Summon Elemental Globe] from DataPack.
+ - Missing skill [88211][Elemental Strike] from DataPack.
+ - Missing skill [88212][Elemental Strike] from DataPack.
+ - Missing skill [88213][Elemental Strike] from DataPack.
+ - Missing skill [88214][Elemental Vortex] from DataPack.
+ - Missing skill [88215][Elemental Vortex] from DataPack.
+ - Missing skill [88216][Elemental Vortex] from DataPack.
+ - Missing skill [88217][Elemental Shackles] from DataPack.
+ - Missing skill [88218][Elemental Shackles] from DataPack.
+ - Missing skill [88220][Summon Elemental Globe] from DataPack.
+ - Missing skill [88222][Elemental Shackles] from DataPack.
+ - Missing skill [88226][Elemental Break Lv. 1] from DataPack.
+ - Missing skill [88228][Elemental Energy] from DataPack.
+ - Missing skill [88229][Elemental Globe] from DataPack.
+ - Missing skill [88230][Summon Elemental Globe] from DataPack.
+ - Missing skill [88231][Summon Elemental Globe] from DataPack.
+ - Missing skill [88232][Elemental Shackles] from DataPack.
+ - Missing skill [88233][Summon Elemental Globe] from DataPack.
+ - Missing skill [88234][Summon Elemental Globe] from DataPack.
+ - Missing skill [88236][Elemental Break Lv. 2] from DataPack.
+ - Missing skill [88238][Elemental Energy] from DataPack.
+ - Missing skill [88239][Elemental Globe] from DataPack.
+ - Missing skill [88240][Elemental Cleanse] from DataPack.
+ - Missing skill [88241][Elemental Mastery] from DataPack.
+ - Missing skill [88242][Elemental Mastership] from DataPack.
+ - Missing skill [88243][Elemental Synchrony] from DataPack.
+ - Missing skill [88244][Living Heart] from DataPack.
+ - Missing skill [88245][Unicorn's Training] from DataPack.
+ - Missing skill [88246][Unicorn's Potential] from DataPack.
+ - Missing skill [88247][Unicorn's Friendship] from DataPack.
+ - Missing skill [88248][Fairy Rainbow] from DataPack.
+ - Missing skill [88249][Elemental Resonance] from DataPack.
+ - Missing skill [88250][Elemental Acumen] from DataPack.
+ - Missing skill [88251][Elemental Concentration] from DataPack.
+ - Missing skill [88252][Elemental Concentration] from DataPack.
+ - Missing skill [88253][Elemental Nurture] from DataPack.
+ - Missing skill [88254][Elemental Charm] from DataPack.
+ - Missing skill [88255][Elemental Mana Recovery] from DataPack.
+ - Missing skill [88256][Unicorn's Friendship] from DataPack.
+ - Missing skill [88257][Unicorn's Friendship] from DataPack.
+ - Missing skill [88258][Unicorn's Friendship] from DataPack.
+ - Missing skill [88259][Unicorn's Friendship] from DataPack.
+ - Missing skill [88260][Unicorn's Friendship] from DataPack.
+ - Missing skill [88261][Transcendent Elemental Strike] from DataPack.
+ - Missing skill [88262][Transcendent Elemental Strike] from DataPack.
+ - Missing skill [88263][Transcendent Elemental Strike] from DataPack.
+ - Missing skill [88264][Transcendent Elemental Discharge] from DataPack.
+ - Missing skill [88265][Elemental Wound Lv. 1] from DataPack.
+ - Missing skill [88266][Elemental Wound Lv. 2] from DataPack.
+ - Missing skill [88270][Elemental Resistance Lv. 1] from DataPack.
+ - Missing skill [88271][Unicorn's Kick] from DataPack.
+ - Missing skill [88272][Unicorn's Flare] from DataPack.
+ - Missing skill [88273][Unicorn's Spring] from DataPack.
+ - Missing skill [88274][Unicorn's Trample] from DataPack.
+ - Missing skill [88275][Unicorn's Pace] from DataPack.
+ - Missing skill [88276][Elemental Unicorn - Over the Rainbow] from DataPack.
+ - Missing skill [88277][Unicorn's Charge] from DataPack.
+ - Missing skill [88278][Elemental Unicorn - Over the Rainbow: Master] from DataPack.
+ - Missing skill [88279][Elemental Discharge] from DataPack.
+ - Missing skill [88280][Elemental Roots] from DataPack.
+ - Missing skill [88281][Elemental Speed] from DataPack.
+ - Missing skill [88282][Friendly Walk] from DataPack.
+ - Missing skill [88284][Over the Rainbow] from DataPack.
+ - Missing skill [88285][Over the Rainbow: Master] from DataPack.
+ - Missing skill [88286][Rainbow Dispersion] from DataPack.
+ - Missing skill [88287][Dreams Come True] from DataPack.
+ - Missing skill [88288][Rainbow Roots] from DataPack.
+ - Missing skill [88289][Rainbow Limit] from DataPack.
+ - Missing skill [88290][Elemental Roots] from DataPack.
+ - Missing skill [88291][Summon Elemental Unicorn] from DataPack.
+ - Missing skill [88292][Summon Elemental Unicorn] from DataPack.
+ - Missing skill [88293][Summon Elemental Unicorn] from DataPack.
+ - Missing skill [88294][Elemental Unicorn] from DataPack.
+ - Missing skill [88295][Elemental Unicorn] from DataPack.
+ - Missing skill [88296][Elemental Unicorn] from DataPack.
+ - Missing skill [89001][Test - Servitor Explosion] from DataPack.
+ - Missing skill [89002][Test - Servitor Explosion] from DataPack.
+ - Missing skill [89003][Test - Servitor Summon] from DataPack.
+ - Missing skill [89004][Test - Servitor Release] from DataPack.
+ - Missing skill [89005][Test - Teleport to Servitor] from DataPack.
+ - Missing skill [89006][Test - Unicorn Guardian Summon] from DataPack.
+ - Missing skill [89007][Guardian's Enemy] from DataPack.
+ - Missing skill [89008][Gurdian's Ally] from DataPack.

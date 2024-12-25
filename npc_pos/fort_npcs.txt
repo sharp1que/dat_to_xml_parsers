@@ -1,0 +1,615 @@
+territory_begin	[fort_2317_2nd_floor_giant_1]	{{107283;-13731;-3188;-188};{115850;-13720;-3188;-188};{112680;-7306;-3188;-188};{109530;-7318;-3188;-188}}	territory_end
+npcmaker_ex_begin	[fort_2317_2nd_floor_giant_1]	name=[fort_2317_2nd_floor_giant_1m1]	ai=[fortress_maker]	ai_parameters={[fortress_id] = 117;[event_id1]=0;[is_spawn1]=0;[event_id2]=1;[is_spawn2]=1;[event_id3]=4;[is_spawn3]=0}	maximum_npc=100
+npc_ex_begin	[f_giant_4]	pos={109274;-13178;-992;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=2;[my_num]=1}	npc_ex_end
+npc_ex_begin	[f_giant_4]	pos={109874;-13178;-992;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=2;[my_num]=2}	npc_ex_end
+npc_ex_begin	[f_giant_4]	pos={110474;-13178;-992;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=2;[my_num]=3}	npc_ex_end
+npc_ex_begin	[f_giant_4]	pos={111074;-13178;-992;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=2;[my_num]=4}	npc_ex_end
+npc_ex_begin	[f_giant_4]	pos={111674;-13178;-992;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=2;[my_num]=5}	npc_ex_end
+npc_ex_begin	[f_giant_4]	pos={112274;-13178;-992;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=2;[my_num]=6}	npc_ex_end
+npc_ex_begin	[f_giant_4]	pos={112874;-13178;-992;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=2;[my_num]=7}	npc_ex_end
+npc_ex_begin	[f_giant_4]	pos={113474;-13178;-992;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=2;[my_num]=8}	npc_ex_end
+npcmaker_ex_end
+// 계속 나오는 전투용  - 좌측언덕 사수그룹 (요새를 바라보고)
+territory_begin	[fort_2317_left_monster_2]	{{107283;-13731;-3188;-188};{115850;-13720;-3188;-188};{112680;-7306;-3188;-188};{109530;-7318;-3188;-188}}	territory_end
+npcmaker_ex_begin	[fort_2317_left_monster_2]	name=[fort_2317_left_monster_2m1]	ai=[fortress_maker]	ai_parameters={[fortress_id] = 117;[event_id1]=0;[is_spawn1]=0;[event_id2]=1;[is_spawn2]=1;[event_id3]=4;[is_spawn3]=0}	maximum_npc=100
+npc_ex_begin	[f_orc_archer1]	pos={110251;-11255;-936;9931}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={110155;-11370;-936;9931}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer1]	pos={110059;-11485;-936;9931}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={109962;-11599;-936;9931}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer1]	pos={109866;-11714;-936;9931}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={109769;-11829;-936;9931}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer1]	pos={109673;-11944;-936;9931}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={109576;-12059;-936;9931}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer1]	pos={109480;-12174;-936;9931}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={109384;-12289;-936;9931}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer1]	pos={109287;-12404;-936;9931}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={109193;-12519;-936;9931}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer1]	pos={109081;-12652;-936;9931}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={108980;-12774;-936;9931}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer1]	pos={108879;-12894;-936;9931}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npcmaker_ex_end
+// 계속 나오는 전투용  - 우측언덕 사수그룹 (요새를 바라보고)
+territory_begin	[fort_2317_right_monster_2]	{{107283;-13731;-3188;-188};{115850;-13720;-3188;-188};{112680;-7306;-3188;-188};{109530;-7318;-3188;-188}}	territory_end
+npcmaker_ex_begin	[fort_2317_right_monster_2]	name=[fort_2317_right_monster_2m1]	ai=[fortress_maker]	ai_parameters={[fortress_id] = 117;[event_id1]=0;[is_spawn1]=0;[event_id2]=1;[is_spawn2]=1;[event_id3]=4;[is_spawn3]=0}	maximum_npc=100
+npc_ex_begin	[f_orc_archer1]	pos={112503;-10788;-936;23751}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={112599;-10903;-936;23751}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer1]	pos={112695;-11018;-936;23751}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={112792;-11132;-936;23751}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer1]	pos={112888;-11247;-936;23751}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={112985;-11362;-936;23751}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer1]	pos={113178;-11592;-936;23751}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={113274;-11707;-936;23751}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer1]	pos={113370;-11822;-936;23751}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={113467;-11937;-936;23751}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer1]	pos={113081;-11477;-936;23751}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={113565;-12049;-936;23751}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer1]	pos={113662;-12167;-936;23751}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={113756;-12282;-936;23751}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer1]	pos={113851;-12403;-936;23751}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={113946;-12522;-936;23751}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer1]	pos={113977;-12690;-936;23751}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={113999;-12827;-936;23751}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npcmaker_ex_end
+// 1차 1회용 전투용 - 2층 테라스 궁수
+territory_begin	[fort_2317_2nd_floor_giant_monster_2]	{{107283;-13731;-3188;-188};{115850;-13720;-3188;-188};{112680;-7306;-3188;-188};{109530;-7318;-3188;-188}}	territory_end
+npcmaker_ex_begin	[fort_2317_2nd_floor_giant_monster_2]	name=[fort_2317_2nd_floor_giant_monster_2m1]	ai=[fortress_maker]	ai_parameters={[fortress_id] = 117;[event_id1]=0;[is_spawn1]=0;[event_id2]=1;[is_spawn2]=1;[event_id3]=4;[is_spawn3]=0}	maximum_npc=100
+npc_ex_begin	[f_orc_archer1]	pos={114002;-13178;-992;16466}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={113753;-13178;-992;16466}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer1]	pos={113287;-13178;-992;16466}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={113109;-13178;-992;16466}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer1]	pos={112664;-13178;-992;16466}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={112510;-13178;-992;16466}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer1]	pos={112049;-13178;-992;16466}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={111898;-13178;-992;16466}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer1]	pos={111447;-13178;-992;16466}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={111285;-13178;-992;16466}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer1]	pos={110862;-13178;-992;16466}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={110698;-13178;-992;16466}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer1]	pos={110252;-13178;-992;16466}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={109668;-13178;-992;16466}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer1]	pos={109496;-13178;-992;16466}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_archer2]	pos={109041;-13178;-992;16466}	total=1	respawn=30sec	ai_parameters={[fortress_step]=2;[IsAggressive]=1}	npc_ex_end
+npcmaker_ex_end
+// 계속나오는 돌격형 전투용 대량 몬스터
+// 계속나오는 돌격형  - 중앙 병사 그룹 1
+territory_begin	[fort_2317_center_resp_monster_1]	{{107283;-13731;-3188;-188};{115850;-13720;-3188;-188};{112680;-7306;-3188;-188};{109530;-7318;-3188;-188}}	territory_end
+npcmaker_ex_begin	[fort_2317_center_resp_monster_1]	name=[fort_2317_center_resp_monster_1m1]	ai=[fortress_maker]	ai_parameters={[fortress_id] = 117;[event_id1]=0;[is_spawn1]=0;[event_id2]=1;[is_spawn2]=1;[event_id3]=4;[is_spawn3]=0}	maximum_npc=100
+npc_ex_begin	[f_orc_sergeant1]	pos={110567;-12203;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110567;-12303;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110567;-12353;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110567;-12403;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110567;-12453;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110567;-12503;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110567;-12553;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant1]	pos={110617;-12203;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110617;-12303;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110617;-12353;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110617;-12403;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110617;-12453;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110617;-12503;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110617;-12553;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant2]	pos={110667;-12203;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110667;-12303;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110667;-12353;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110667;-12403;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110667;-12453;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110667;-12503;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110667;-12553;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant2]	pos={110717;-12203;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110717;-12303;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110717;-12353;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110717;-12403;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110717;-12453;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110717;-12503;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110717;-12553;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant3]	pos={110767;-12203;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110767;-12303;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110767;-12353;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110767;-12403;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110767;-12453;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110767;-12503;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110767;-12553;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant3]	pos={110817;-12203;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110817;-12303;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110817;-12353;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110817;-12403;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110817;-12453;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110817;-12503;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110817;-12553;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_giant_3]	pos={110692;-12673;-1696;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major1]	pos={110617;-12113;-1696;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major2]	pos={110717;-12113;-1696;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npcmaker_ex_end
+// 계속나오는 돌격형  전투용 - 중앙 병사 그룹 2
+territory_begin	[fort_2317_center_resp_monster_2]	{{107283;-13731;-3188;-188};{115850;-13720;-3188;-188};{112680;-7306;-3188;-188};{109530;-7318;-3188;-188}}	territory_end
+npcmaker_ex_begin	[fort_2317_center_resp_monster_2]	name=[fort_2317_center_resp_monster_2m1]	ai=[fortress_maker]	ai_parameters={[fortress_id] = 117;[event_id1]=0;[is_spawn1]=0;[event_id2]=1;[is_spawn2]=1;[event_id3]=4;[is_spawn3]=0}	maximum_npc=100
+npc_ex_begin	[f_orc_sergeant1]	pos={111009;-12206;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111009;-12306;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111009;-12356;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111009;-12406;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111009;-12456;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111009;-12506;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111009;-12556;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant1]	pos={111059;-12206;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111059;-12306;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111059;-12356;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111059;-12406;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111059;-12456;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111059;-12506;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111059;-12556;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant2]	pos={111109;-12206;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111109;-12306;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111109;-12356;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111109;-12406;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111109;-12456;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111109;-12506;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111109;-12556;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant2]	pos={111159;-12206;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111159;-12306;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111159;-12356;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111159;-12406;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111159;-12456;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111159;-12506;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111159;-12556;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant3]	pos={111209;-12206;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111209;-12306;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111209;-12356;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111209;-12406;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111209;-12456;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111209;-12506;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111209;-12556;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant3]	pos={111259;-12206;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111259;-12306;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111259;-12356;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111259;-12406;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111259;-12456;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111259;-12506;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111259;-12556;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_giant_2]	pos={111168;-12731;-1696;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major3]	pos={111059;-12116;-1696;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major4]	pos={111159;-12116;-1696;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npcmaker_ex_end
+// 계속나오는 돌격형  전투용 - 중앙 병사 그룹 3
+territory_begin	[fort_2317_center_resp_monster_3]	{{107283;-13731;-3188;-188};{115850;-13720;-3188;-188};{112680;-7306;-3188;-188};{109530;-7318;-3188;-188}}	territory_end
+npcmaker_ex_begin	[fort_2317_center_resp_monster_3]	name=[fort_2317_center_resp_monster_3m1]	ai=[fortress_maker]	ai_parameters={[fortress_id] = 117;[event_id1]=0;[is_spawn1]=0;[event_id2]=1;[is_spawn2]=1;[event_id3]=4;[is_spawn3]=0}	maximum_npc=100
+npc_ex_begin	[f_orc_sergeant1]	pos={111457;-12204;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111457;-12304;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111457;-12354;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111457;-12404;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111457;-12454;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111457;-12504;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111457;-12554;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant1]	pos={111507;-12204;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111507;-12304;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111507;-12354;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111507;-12404;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111507;-12454;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111507;-12504;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111507;-12554;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant2]	pos={111557;-12204;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111557;-12304;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111557;-12354;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111557;-12404;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111557;-12454;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111557;-12504;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111557;-12554;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant2]	pos={111607;-12204;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111607;-12304;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111607;-12354;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111607;-12404;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111607;-12454;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111607;-12504;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111607;-12554;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant3]	pos={111657;-12204;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111657;-12304;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111657;-12354;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111657;-12404;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111657;-12454;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111657;-12504;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111657;-12554;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant3]	pos={111707;-12204;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111707;-12304;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111707;-12354;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111707;-12404;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111707;-12454;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111707;-12504;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111707;-12554;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_giant_2]	pos={111585;-12731;-1696;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major1]	pos={111507;-12114;-1696;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major2]	pos={111607;-12114;-1696;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npcmaker_ex_end
+// 계속나오는 돌격형  전투용 - 중앙 병사 그룹 4
+territory_begin	[fort_2317_center_resp_monster_4]	{{107283;-13731;-3188;-188};{115850;-13720;-3188;-188};{112680;-7306;-3188;-188};{109530;-7318;-3188;-188}}	territory_end
+npcmaker_ex_begin	[fort_2317_center_resp_monster_4]	name=[fort_2317_center_resp_monster_4m1]	ai=[fortress_maker]	ai_parameters={[fortress_id] = 117;[event_id1]=0;[is_spawn1]=0;[event_id2]=1;[is_spawn2]=1;[event_id3]=4;[is_spawn3]=0}	maximum_npc=100
+npc_ex_begin	[f_orc_sergeant1]	pos={111899;-12207;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111899;-12307;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111899;-12357;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111899;-12407;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111899;-12457;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111899;-12507;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111899;-12557;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant1]	pos={111949;-12207;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111949;-12307;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111949;-12357;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111949;-12407;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111949;-12457;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111949;-12507;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111949;-12557;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant2]	pos={111999;-12207;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111999;-12307;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111999;-12357;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111999;-12407;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111999;-12457;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111999;-12507;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111999;-12557;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant2]	pos={112049;-12207;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={112049;-12307;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={112049;-12357;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={112049;-12407;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={112049;-12457;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={112049;-12507;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={112049;-12557;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant3]	pos={112099;-12207;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={112099;-12307;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={112099;-12357;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={112099;-12407;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={112099;-12457;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={112099;-12507;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={112099;-12557;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant3]	pos={112149;-12207;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={112149;-12307;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={112149;-12357;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={112149;-12407;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={112149;-12457;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={112149;-12507;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={112149;-12557;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_giant_3]	pos={111996;-12659;-1696;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major3]	pos={111949;-12117;-1696;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major4]	pos={112049;-12117;-1696;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npcmaker_ex_end
+// 계속나오는 돌격형  전투용 - 중앙 병사 그룹 5
+territory_begin	[fort_2317_center_resp_monster_5]	{{107283;-13731;-3188;-188};{115850;-13720;-3188;-188};{112680;-7306;-3188;-188};{109530;-7318;-3188;-188}}	territory_end
+npcmaker_ex_begin	[fort_2317_center_resp_monster_5]	name=[fort_2317_center_resp_monster_5m1]	ai=[fortress_maker]	ai_parameters={[fortress_id] = 117;[event_id1]=0;[is_spawn1]=0;[event_id2]=1;[is_spawn2]=1;[event_id3]=4;[is_spawn3]=0}	maximum_npc=100
+npc_ex_begin	[f_orc_sergeant1]	pos={110567;-11603;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110567;-11703;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110567;-11753;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110567;-11803;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110567;-11853;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110567;-11903;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110567;-11953;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant1]	pos={110617;-11603;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110617;-11703;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110617;-11753;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110617;-11803;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110617;-11853;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110617;-11903;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110617;-11953;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant2]	pos={110667;-11603;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110667;-11703;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110667;-11753;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110667;-11803;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110667;-11853;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110667;-11903;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110667;-11953;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant2]	pos={110717;-11603;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110717;-11703;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110717;-11753;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110717;-11803;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110717;-11853;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110717;-11903;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110717;-11953;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant3]	pos={110767;-11603;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110767;-11703;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110767;-11753;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110767;-11803;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110767;-11853;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110767;-11903;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110767;-11953;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant3]	pos={110817;-11603;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110817;-11703;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={110817;-11753;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110817;-11803;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={110817;-11853;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110817;-11903;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={110817;-11953;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major3]	pos={110617;-11513;-1696;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major4]	pos={110717;-11513;-1696;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npcmaker_ex_end
+// 계속나오는 돌격형  전투용 - 중앙 병사 그룹 6
+territory_begin	[fort_2317_center_resp_monster_6]	{{107283;-13731;-3188;-188};{115850;-13720;-3188;-188};{112680;-7306;-3188;-188};{109530;-7318;-3188;-188}}	territory_end
+npcmaker_ex_begin	[fort_2317_center_resp_monster_6]	name=[fort_2317_center_resp_monster_6m1]	ai=[fortress_maker]	ai_parameters={[fortress_id] = 117;[event_id1]=0;[is_spawn1]=0;[event_id2]=1;[is_spawn2]=1;[event_id3]=4;[is_spawn3]=0}	maximum_npc=100
+npc_ex_begin	[f_orc_sergeant1]	pos={111009;-11606;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111009;-11706;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111009;-11756;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111009;-11806;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111009;-11856;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111009;-11906;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111009;-11956;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant1]	pos={111059;-11606;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111059;-11706;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111059;-11756;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111059;-11806;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111059;-11856;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111059;-11906;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111059;-11956;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant2]	pos={111109;-11606;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111109;-11706;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111109;-11756;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111109;-11806;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111109;-11856;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111109;-11906;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111109;-11956;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant2]	pos={111159;-11606;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111159;-11706;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111159;-11756;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111159;-11806;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111159;-11856;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111159;-11906;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111159;-11956;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant3]	pos={111209;-11606;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111209;-11706;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111209;-11756;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111209;-11806;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111209;-11856;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111209;-11906;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111209;-11956;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant3]	pos={111259;-11606;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111259;-11706;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111259;-11756;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111259;-11806;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111259;-11856;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111259;-11906;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111259;-11956;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major1]	pos={111059;-11516;-1696;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major2]	pos={111159;-11516;-1696;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npcmaker_ex_end
+// 계속나오는 돌격형  - 중앙 병사 그룹 7
+territory_begin	[fort_2317_center_resp_monster_7]	{{107283;-13731;-3188;-188};{115850;-13720;-3188;-188};{112680;-7306;-3188;-188};{109530;-7318;-3188;-188}}	territory_end
+npcmaker_ex_begin	[fort_2317_center_resp_monster_7]	name=[fort_2317_center_resp_monster_7m1]	ai=[fortress_maker]	ai_parameters={[fortress_id] = 117;[event_id1]=0;[is_spawn1]=0;[event_id2]=1;[is_spawn2]=1;[event_id3]=4;[is_spawn3]=0}	maximum_npc=100
+npc_ex_begin	[f_orc_sergeant1]	pos={111457;-11604;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111457;-11704;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111457;-11754;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111457;-11804;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111457;-11854;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111457;-11904;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111457;-11954;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant1]	pos={111507;-11604;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111507;-11704;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111507;-11754;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111507;-11804;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111507;-11854;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111507;-11904;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111507;-11954;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant2]	pos={111557;-11604;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111557;-11704;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111557;-11754;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111557;-11804;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111557;-11854;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111557;-11904;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111557;-11954;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant2]	pos={111607;-11604;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111607;-11704;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111607;-11754;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111607;-11804;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111607;-11854;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111607;-11904;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111607;-11954;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant3]	pos={111657;-11604;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111657;-11704;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111657;-11754;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111657;-11804;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111657;-11854;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111657;-11904;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111657;-11954;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant3]	pos={111707;-11604;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111707;-11704;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111707;-11754;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111707;-11804;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111707;-11854;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111707;-11904;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111707;-11954;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major3]	pos={111507;-11514;-1696;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major4]	pos={111607;-11514;-1696;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npcmaker_ex_end
+// 계속나오는 돌격형  - 중앙 병사 그룹 8
+territory_begin	[fort_2317_center_resp_monster_8]	{{107283;-13731;-3188;-188};{115850;-13720;-3188;-188};{112680;-7306;-3188;-188};{109530;-7318;-3188;-188}}	territory_end
+npcmaker_ex_begin	[fort_2317_center_resp_monster_8]	name=[fort_2317_center_resp_monster_8m1]	ai=[fortress_maker]	ai_parameters={[fortress_id] = 117;[event_id1]=0;[is_spawn1]=0;[event_id2]=1;[is_spawn2]=1;[event_id3]=4;[is_spawn3]=0}	maximum_npc=100
+npc_ex_begin	[f_orc_sergeant1]	pos={111899;-11607;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111899;-11707;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111899;-11757;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111899;-11807;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111899;-11857;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111899;-11907;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111899;-11957;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant1]	pos={111949;-11607;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111949;-11707;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111949;-11757;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111949;-11807;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111949;-11857;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111949;-11907;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111949;-11957;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant2]	pos={111999;-11607;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111999;-11707;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={111999;-11757;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111999;-11807;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={111999;-11857;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111999;-11907;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={111999;-11957;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant2]	pos={112049;-11607;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={112049;-11707;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={112049;-11757;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={112049;-11807;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={112049;-11857;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={112049;-11907;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={112049;-11957;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant3]	pos={112099;-11607;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={112099;-11707;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={112099;-11757;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={112099;-11807;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={112099;-11857;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={112099;-11907;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={112099;-11957;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant3]	pos={112149;-11607;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={112149;-11707;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={112149;-11757;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={112149;-11807;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={112149;-11857;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={112149;-11907;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={112149;-11957;-1696;16466}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major1]	pos={111949;-11517;-1696;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major2]	pos={112049;-11517;-1696;16466}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npcmaker_ex_end
+// 계속나오는 돌격형  전투용 - 좌측언덕 (요새를 바라보고)
+territory_begin	[fort_2317_left_resp_monster_1]	{{107283;-13731;-3188;-188};{115850;-13720;-3188;-188};{112680;-7306;-3188;-188};{109530;-7318;-3188;-188}}	territory_end
+npcmaker_ex_begin	[fort_2317_left_resp_monster_1]	name=[fort_2317_left_resp_monster_1m1]	ai=[fortress_maker]	ai_parameters={[fortress_id] = 117;[event_id1]=0;[is_spawn1]=0;[event_id2]=1;[is_spawn2]=1;[event_id3]=4;[is_spawn3]=0}	maximum_npc=100
+npc_ex_begin	[f_orc_sergeant1]	pos={108734;-12454;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={108677;-12536;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={108648;-12577;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={108619;-12618;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={108591;-12659;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={108562;-12700;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={108533;-12741;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant1]	pos={108775;-12483;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={108718;-12565;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={108689;-12606;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={108660;-12646;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={108632;-12687;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={108603;-12728;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={108574;-12769;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant2]	pos={108816;-12511;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={108759;-12593;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={108730;-12634;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={108701;-12675;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={108673;-12716;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={108644;-12757;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={108615;-12798;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant2]	pos={108857;-12540;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={108799;-12622;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={108771;-12663;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={108742;-12704;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={108713;-12745;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={108685;-12786;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={108656;-12827;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant3]	pos={108898;-12569;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={108840;-12651;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={108812;-12692;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={108783;-12732;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={108754;-12773;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={108726;-12814;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={108697;-12855;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant3]	pos={108939;-12597;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={108881;-12679;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={108853;-12720;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={108824;-12761;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={108795;-12802;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={108767;-12843;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={108738;-12884;-936;9931}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major3]	pos={108861;-12412;-936;9931}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major4]	pos={108953;-12458;-936;9931}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_giant_2]	pos={108530;-12954;-936;9931}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npcmaker_ex_end
+// 계속나오는 돌격형 전투용 - 우측언덕 (요새를 바라보고)
+territory_begin	[fort_2317_right_resp_monster_1]	{{107283;-13731;-3188;-188};{115850;-13720;-3188;-188};{112680;-7306;-3188;-188};{109530;-7318;-3188;-188}}	territory_end
+npcmaker_ex_begin	[fort_2317_right_resp_monster_1]	name=[fort_2317_right_resp_monster_1m1]	ai=[fortress_maker]	ai_parameters={[fortress_id] = 117;[event_id1]=0;[is_spawn1]=0;[event_id2]=1;[is_spawn2]=1;[event_id3]=4;[is_spawn3]=0}	maximum_npc=100
+npc_ex_begin	[f_orc_sergeant1]	pos={113849;-12383;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={113907;-12465;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={113935;-12506;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={113964;-12547;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={113993;-12588;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={114021;-12629;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={114050;-12670;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant1]	pos={113890;-12354;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={113948;-12436;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={113976;-12477;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={114005;-12518;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={114034;-12559;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={114062;-12600;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={114091;-12641;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant2]	pos={113931;-12326;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={113989;-12408;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={114017;-12449;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={114046;-12489;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={114075;-12530;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={114103;-12571;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={114132;-12612;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant2]	pos={113972;-12297;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={114030;-12379;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={114058;-12420;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={114087;-12461;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={114116;-12502;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={114144;-12543;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={114173;-12584;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant3]	pos={114013;-12268;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={114070;-12350;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={114099;-12391;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={114128;-12432;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={114156;-12473;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={114185;-12514;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={114214;-12555;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant3]	pos={114054;-12240;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={114111;-12322;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={114140;-12363;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={114169;-12403;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={114197;-12444;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={114226;-12485;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={114255;-12526;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant3]	pos={114095;-12211;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={114152;-12293;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={114181;-12334;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={114210;-12375;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={114238;-12416;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={114267;-12457;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={114296;-12498;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_sergeant3]	pos={114136;-12182;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={114193;-12264;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier3]	pos={114222;-12305;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={114251;-12346;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier2]	pos={114279;-12387;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={114308;-12428;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_soldier1]	pos={114337;-12469;-992;23751}	total=1	respawn=30sec	respawn_rand=10sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major1]	pos={113856;-12222;-992;23751}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major2]	pos={113987;-12131;-992;23751}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_giant_2]	pos={114346;-12790;-992;23751}	total=1	respawn=220sec	respawn_rand=30sec	ai_parameters={[fortress_step]=3;[IsAggressive]=1}	npc_ex_end
+npcmaker_ex_end
+// 전투용 - 내성지역
+territory_begin	[fort_2317_inside_monster_1]	{{107271;-21185;-3228;-228};{117163;-22480;-3228;-228};{120495;-18843;-3228;-228};{115850;-13720;-3228;-228};{107283;-13732;-3228;-228}}	territory_end
+npcmaker_ex_begin	[fort_2317_inside_monster_1]	name=[fort_2317_inside_monster_1m1]	ai=[fortress_maker]	ai_parameters={[fortress_id] = 117;[event_id1]=0;[is_spawn1]=0;[event_id2]=1;[is_spawn2]=1;[event_id3]=4;[is_spawn3]=0}	maximum_npc=100
+npc_ex_begin	[f_orc_general1]	pos={110726;-15991;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1;[MoveArounding]=0}	npc_ex_end
+npc_ex_begin	[f_orc_general2]	pos={110562;-15991;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1;[MoveArounding]=0}	npc_ex_end
+npc_ex_begin	[f_orc_general3]	pos={110205;-15991;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1;[MoveArounding]=0}	npc_ex_end
+npc_ex_begin	[f_orc_general4]	pos={109986;-15991;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1;[MoveArounding]=0}	npc_ex_end
+npc_ex_begin	[f_orc_major1]	pos={110131;-14573;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major1]	pos={110131;-14723;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major1]	pos={110131;-14873;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major1]	pos={110131;-15023;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major1]	pos={110131;-15173;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major1]	pos={110131;-15323;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major2]	pos={110251;-14573;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major2]	pos={110251;-14723;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major2]	pos={110251;-14873;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major2]	pos={110251;-15023;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major2]	pos={110251;-15173;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major2]	pos={110251;-15323;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major3]	pos={110491;-14573;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major3]	pos={110491;-14723;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major3]	pos={110491;-14873;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major3]	pos={110491;-15023;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major3]	pos={110491;-15173;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major3]	pos={110491;-15323;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major4]	pos={110611;-14573;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major4]	pos={110611;-14723;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major4]	pos={110611;-14873;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major4]	pos={110611;-15023;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major4]	pos={110611;-15173;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major4]	pos={110611;-15323;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_giant_2]	pos={111576;-14413;-992;32767}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major1]	pos={111828;-14701;-992;32767}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major2]	pos={111828;-14145;-992;32767}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_giant_2]	pos={112680;-16389;-992;31654}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_giant_3]	pos={111778;-16454;-992;32767}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major3]	pos={111989;-16264;-992;32767}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_giant_2]	pos={109387;-16604;-992;15602}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_giant_3]	pos={109113;-15622;-992;0}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major3]	pos={108910;-15396;-992;0}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npc_ex_begin	[f_orc_major4]	pos={108912;-15851;-992;0}	total=1	respawn=90sec	respawn_rand=30sec	ai_parameters={[fortress_step]=4;[IsAggressive]=1}	npc_ex_end
+npcmaker_ex_end

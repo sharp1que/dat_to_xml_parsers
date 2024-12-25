@@ -1,0 +1,906 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list>
+	<missionLevel season="202302" maxLevel="30" skipCoinPrice="1000" bonusRewardIsAvailable="true" bonusRewardByLevelUP="true">
+		<rewardList>
+			<reward forLevel="1" rewardType="BASE" rewardId="3031" rewardCnt="100" />	<!-- Руда Духов -->
+			<reward forLevel="2" rewardType="BASE" rewardId="90907" rewardCnt="10" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="3" rewardType="BASE" rewardId="94271" rewardCnt="5" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="4" rewardType="BASE" rewardId="94269" rewardCnt="5" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="4" rewardType="KEY" rewardId="49674" rewardCnt="15" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="5" rewardType="BASE" rewardId="91641" rewardCnt="20" />	<!-- Благословение Сайхи -->
+			<reward forLevel="6" rewardType="BASE" rewardId="3031" rewardCnt="200" />	<!-- Руда Духов -->
+			<reward forLevel="7" rewardType="BASE" rewardId="90907" rewardCnt="20" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="8" rewardType="BASE" rewardId="94271" rewardCnt="10" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="8" rewardType="KEY" rewardId="92035" rewardCnt="3" />	<!-- Сияющий Ларец -->
+			<reward forLevel="9" rewardType="BASE" rewardId="94269" rewardCnt="10" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="10" rewardType="BASE" rewardId="91641" rewardCnt="30" />	<!-- Благословение Сайхи -->
+			<reward forLevel="11" rewardType="BASE" rewardId="3031" rewardCnt="300" />	<!-- Руда Духов -->
+			<reward forLevel="12" rewardType="BASE" rewardId="90907" rewardCnt="30" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="12" rewardType="KEY" rewardId="93136" rewardCnt="2" />	<!-- Упаковка: Агатион Прочелла -->
+			<reward forLevel="13" rewardType="BASE" rewardId="94271" rewardCnt="15" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="14" rewardType="BASE" rewardId="94269" rewardCnt="15" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="15" rewardType="BASE" rewardId="91641" rewardCnt="50" />	<!-- Благословение Сайхи -->
+			<reward forLevel="16" rewardType="BASE" rewardId="3031" rewardCnt="500" />	<!-- Руда Духов -->
+			<reward forLevel="16" rewardType="KEY" rewardId="91767" rewardCnt="2" />	<!-- Набор Модификации: Талисман Адена -->
+			<reward forLevel="17" rewardType="BASE" rewardId="90907" rewardCnt="50" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="18" rewardType="BASE" rewardId="94271" rewardCnt="20" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="19" rewardType="BASE" rewardId="94269" rewardCnt="20" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="20" rewardType="BASE" rewardId="91641" rewardCnt="50" />	<!-- Благословение Сайхи -->
+			<reward forLevel="20" rewardType="KEY" rewardId="97147" rewardCnt="5" />	<!-- Усилитель Скрытой Силы -->
+			<reward forLevel="21" rewardType="BASE" rewardId="3031" rewardCnt="700" />	<!-- Руда Духов -->
+			<reward forLevel="22" rewardType="BASE" rewardId="90907" rewardCnt="70" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="23" rewardType="BASE" rewardId="94271" rewardCnt="25" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="24" rewardType="BASE" rewardId="94269" rewardCnt="25" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="24" rewardType="KEY" rewardId="94212" rewardCnt="2" />	<!-- Камень Зачарования для Доспехов -->
+			<reward forLevel="25" rewardType="BASE" rewardId="91641" rewardCnt="50" />	<!-- Благословение Сайхи -->
+			<reward forLevel="26" rewardType="BASE" rewardId="3031" rewardCnt="1000" />	<!-- Руда Духов -->
+			<reward forLevel="27" rewardType="BASE" rewardId="90907" rewardCnt="100" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="28" rewardType="BASE" rewardId="94271" rewardCnt="30" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="28" rewardType="KEY" rewardId="94210" rewardCnt="2" />	<!-- Камень Зачарования для Оружия -->
+			<reward forLevel="29" rewardType="BASE" rewardId="94269" rewardCnt="30" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="30" rewardType="BASE" rewardId="91641" rewardCnt="50" />	<!-- Благословение Сайхи -->
+			<reward forLevel="30" rewardType="SPECIAL" rewardId="97273" rewardCnt="1" />	<!-- Сундук с Венцом Героя от +2 до +5 -->
+			<reward forLevel="30" rewardType="EXTRA" rewardId="91641" rewardCnt="20" />	<!-- Благословение Сайхи -->
+		</rewardList>
+	</missionLevel>
+	<missionLevel season="202303" maxLevel="30" skipCoinPrice="1000" bonusRewardIsAvailable="true" bonusRewardByLevelUP="true">
+		<rewardList>
+			<reward forLevel="1" rewardType="BASE" rewardId="3031" rewardCnt="100" />	<!-- Руда Духов -->
+			<reward forLevel="2" rewardType="BASE" rewardId="90907" rewardCnt="10" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="3" rewardType="BASE" rewardId="94271" rewardCnt="5" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="4" rewardType="BASE" rewardId="94269" rewardCnt="5" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="4" rewardType="KEY" rewardId="91712" rewardCnt="15" />	<!-- Шторм Сайхи (Временно) -->
+			<reward forLevel="5" rewardType="BASE" rewardId="91641" rewardCnt="20" />	<!-- Благословение Сайхи -->
+			<reward forLevel="6" rewardType="BASE" rewardId="3031" rewardCnt="200" />	<!-- Руда Духов -->
+			<reward forLevel="7" rewardType="BASE" rewardId="90907" rewardCnt="20" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="8" rewardType="BASE" rewardId="94271" rewardCnt="10" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="8" rewardType="KEY" rewardId="92035" rewardCnt="3" />	<!-- Сияющий Ларец -->
+			<reward forLevel="9" rewardType="BASE" rewardId="94269" rewardCnt="10" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="10" rewardType="BASE" rewardId="91641" rewardCnt="30" />	<!-- Благословение Сайхи -->
+			<reward forLevel="11" rewardType="BASE" rewardId="3031" rewardCnt="300" />	<!-- Руда Духов -->
+			<reward forLevel="12" rewardType="BASE" rewardId="90907" rewardCnt="30" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="12" rewardType="KEY" rewardId="93137" rewardCnt="2" />	<!-- Упаковка: Агатион Петрам -->
+			<reward forLevel="13" rewardType="BASE" rewardId="94271" rewardCnt="15" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="14" rewardType="BASE" rewardId="94269" rewardCnt="15" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="15" rewardType="BASE" rewardId="91641" rewardCnt="50" />	<!-- Благословение Сайхи -->
+			<reward forLevel="16" rewardType="BASE" rewardId="3031" rewardCnt="500" />	<!-- Руда Духов -->
+			<reward forLevel="16" rewardType="KEY" rewardId="92020" rewardCnt="1" />	<!-- Набор Модификации: Талисман Евы -->
+			<reward forLevel="17" rewardType="BASE" rewardId="90907" rewardCnt="50" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="18" rewardType="BASE" rewardId="94271" rewardCnt="20" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="19" rewardType="BASE" rewardId="94269" rewardCnt="20" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="20" rewardType="BASE" rewardId="91641" rewardCnt="50" />	<!-- Благословение Сайхи -->
+			<reward forLevel="20" rewardType="KEY" rewardId="97445" rewardCnt="1" />	<!-- Благословенный Камень Зачарования для Доспехов -->
+			<reward forLevel="21" rewardType="BASE" rewardId="3031" rewardCnt="700" />	<!-- Руда Духов -->
+			<reward forLevel="22" rewardType="BASE" rewardId="90907" rewardCnt="70" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="23" rewardType="BASE" rewardId="94271" rewardCnt="25" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="24" rewardType="BASE" rewardId="94269" rewardCnt="25" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="24" rewardType="KEY" rewardId="94424" rewardCnt="2" />	<!-- Камень Зачарования для Аксессуаров -->
+			<reward forLevel="25" rewardType="BASE" rewardId="91641" rewardCnt="50" />	<!-- Благословение Сайхи -->
+			<reward forLevel="26" rewardType="BASE" rewardId="3031" rewardCnt="1000" />	<!-- Руда Духов -->
+			<reward forLevel="27" rewardType="BASE" rewardId="90907" rewardCnt="100" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="28" rewardType="BASE" rewardId="94271" rewardCnt="30" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="28" rewardType="KEY" rewardId="97788" rewardCnt="2" />	<!-- Камень Зачарования для Особого Снаряжения -->
+			<reward forLevel="29" rewardType="BASE" rewardId="94269" rewardCnt="30" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="30" rewardType="BASE" rewardId="91641" rewardCnt="50" />	<!-- Благословение Сайхи -->
+			<reward forLevel="30" rewardType="SPECIAL" rewardId="97357" rewardCnt="1" />	<!-- Сундук с Поясом Дракона от +2 до +5 -->
+			<reward forLevel="30" rewardType="EXTRA" rewardId="91641" rewardCnt="20" />	<!-- Благословение Сайхи -->
+		</rewardList>
+	</missionLevel>
+	<missionLevel season="202304" maxLevel="30" skipCoinPrice="1000" bonusRewardIsAvailable="true" bonusRewardByLevelUP="true">
+		<rewardList>
+			<reward forLevel="1" rewardType="BASE" rewardId="3031" rewardCnt="100" />	<!-- Руда Духов -->
+			<reward forLevel="2" rewardType="BASE" rewardId="90907" rewardCnt="10" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="3" rewardType="BASE" rewardId="94271" rewardCnt="5" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="4" rewardType="BASE" rewardId="94269" rewardCnt="5" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="4" rewardType="KEY" rewardId="94777" rewardCnt="5" />	<!-- Свиток Берсерка -->
+			<reward forLevel="5" rewardType="BASE" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="6" rewardType="BASE" rewardId="3031" rewardCnt="200" />	<!-- Руда Духов -->
+			<reward forLevel="7" rewardType="BASE" rewardId="90907" rewardCnt="20" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="8" rewardType="BASE" rewardId="94271" rewardCnt="10" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="8" rewardType="KEY" rewardId="92035" rewardCnt="3" />	<!-- Сияющий Ларец -->
+			<reward forLevel="9" rewardType="BASE" rewardId="94269" rewardCnt="10" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="10" rewardType="BASE" rewardId="49674" rewardCnt="15" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="11" rewardType="BASE" rewardId="3031" rewardCnt="300" />	<!-- Руда Духов -->
+			<reward forLevel="12" rewardType="BASE" rewardId="90907" rewardCnt="30" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="12" rewardType="KEY" rewardId="93138" rewardCnt="2" />	<!-- Упаковка: Агатион Радости -->
+			<reward forLevel="13" rewardType="BASE" rewardId="94271" rewardCnt="15" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="14" rewardType="BASE" rewardId="94269" rewardCnt="15" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="15" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="16" rewardType="BASE" rewardId="3031" rewardCnt="500" />	<!-- Руда Духов -->
+			<reward forLevel="16" rewardType="KEY" rewardId="93685" rewardCnt="1" />	<!-- Набор Модификации: Талисман Скорости -->
+			<reward forLevel="17" rewardType="BASE" rewardId="90907" rewardCnt="50" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="18" rewardType="BASE" rewardId="94271" rewardCnt="20" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="19" rewardType="BASE" rewardId="94269" rewardCnt="20" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="20" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="20" rewardType="KEY" rewardId="97339" rewardCnt="3" />	<!-- Свиток Благословения - Доспех -->
+			<reward forLevel="21" rewardType="BASE" rewardId="3031" rewardCnt="700" />	<!-- Руда Духов -->
+			<reward forLevel="22" rewardType="BASE" rewardId="90907" rewardCnt="70" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="23" rewardType="BASE" rewardId="94271" rewardCnt="25" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="24" rewardType="BASE" rewardId="94269" rewardCnt="25" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="24" rewardType="KEY" rewardId="94212" rewardCnt="2" />	<!-- Камень Зачарования для Доспехов -->
+			<reward forLevel="25" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="26" rewardType="BASE" rewardId="3031" rewardCnt="1000" />	<!-- Руда Духов -->
+			<reward forLevel="27" rewardType="BASE" rewardId="90907" rewardCnt="100" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="28" rewardType="BASE" rewardId="94271" rewardCnt="30" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="28" rewardType="KEY" rewardId="94210" rewardCnt="2" />	<!-- Камень Зачарования для Оружия -->
+			<reward forLevel="29" rewardType="BASE" rewardId="94269" rewardCnt="30" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="30" rewardType="BASE" rewardId="49674" rewardCnt="30" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="30" rewardType="SPECIAL" rewardId="97233" rewardCnt="1" />	<!-- Сундук с Талисманом Властителя от +2 до +5 -->
+			<reward forLevel="30" rewardType="EXTRA" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+		</rewardList>
+	</missionLevel>
+	<missionLevel season="202305" maxLevel="30" skipCoinPrice="1000" bonusRewardIsAvailable="true" bonusRewardByLevelUP="true">
+		<rewardList>
+			<reward forLevel="1" rewardType="BASE" rewardId="3031" rewardCnt="100" />	<!-- Руда Духов -->
+			<reward forLevel="2" rewardType="BASE" rewardId="90907" rewardCnt="10" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="3" rewardType="BASE" rewardId="94271" rewardCnt="5" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="4" rewardType="BASE" rewardId="94269" rewardCnt="5" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="4" rewardType="KEY" rewardId="49674" rewardCnt="20" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="5" rewardType="BASE" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="6" rewardType="BASE" rewardId="3031" rewardCnt="200" />	<!-- Руда Духов -->
+			<reward forLevel="7" rewardType="BASE" rewardId="90907" rewardCnt="20" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="8" rewardType="BASE" rewardId="94271" rewardCnt="10" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="8" rewardType="KEY" rewardId="92035" rewardCnt="3" />	<!-- Сияющий Ларец -->
+			<reward forLevel="9" rewardType="BASE" rewardId="94269" rewardCnt="10" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="10" rewardType="BASE" rewardId="49674" rewardCnt="15" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="11" rewardType="BASE" rewardId="3031" rewardCnt="300" />	<!-- Руда Духов -->
+			<reward forLevel="12" rewardType="BASE" rewardId="90907" rewardCnt="30" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="12" rewardType="KEY" rewardId="93134" rewardCnt="3" />	<!-- Упаковка: Агатион Игнис -->
+			<reward forLevel="13" rewardType="BASE" rewardId="94271" rewardCnt="15" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="14" rewardType="BASE" rewardId="94269" rewardCnt="15" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="15" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="16" rewardType="BASE" rewardId="3031" rewardCnt="500" />	<!-- Руда Духов -->
+			<reward forLevel="16" rewardType="KEY" rewardId="93303" rewardCnt="2" />	<!-- Упаковка: Плащ Защиты -->
+			<reward forLevel="17" rewardType="BASE" rewardId="90907" rewardCnt="50" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="18" rewardType="BASE" rewardId="94271" rewardCnt="20" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="19" rewardType="BASE" rewardId="94269" rewardCnt="20" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="20" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="20" rewardType="KEY" rewardId="94208" rewardCnt="3" />	<!-- Свиток Благословения - Оружие -->
+			<reward forLevel="21" rewardType="BASE" rewardId="3031" rewardCnt="700" />	<!-- Руда Духов -->
+			<reward forLevel="22" rewardType="BASE" rewardId="90907" rewardCnt="70" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="23" rewardType="BASE" rewardId="94271" rewardCnt="25" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="24" rewardType="BASE" rewardId="94269" rewardCnt="25" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="24" rewardType="KEY" rewardId="94424" rewardCnt="2" />	<!-- Камень Зачарования для Аксессуаров -->
+			<reward forLevel="25" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="26" rewardType="BASE" rewardId="3031" rewardCnt="1000" />	<!-- Руда Духов -->
+			<reward forLevel="27" rewardType="BASE" rewardId="90907" rewardCnt="100" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="28" rewardType="BASE" rewardId="94271" rewardCnt="30" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="28" rewardType="KEY" rewardId="97788" rewardCnt="2" />	<!-- Камень Зачарования для Особого Снаряжения -->
+			<reward forLevel="29" rewardType="BASE" rewardId="94269" rewardCnt="30" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="30" rewardType="BASE" rewardId="49674" rewardCnt="30" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="30" rewardType="SPECIAL" rewardId="97273" rewardCnt="1" />	<!-- Сундук с Венцом Героя от +2 до +5 -->
+			<reward forLevel="30" rewardType="EXTRA" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+		</rewardList>
+	</missionLevel>
+	<missionLevel season="202306" maxLevel="30" skipCoinPrice="1000" bonusRewardIsAvailable="true" bonusRewardByLevelUP="true">
+		<rewardList>
+			<reward forLevel="1" rewardType="BASE" rewardId="3031" rewardCnt="100" />	<!-- Руда Духов -->
+			<reward forLevel="2" rewardType="BASE" rewardId="90907" rewardCnt="10" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="3" rewardType="BASE" rewardId="94271" rewardCnt="5" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="4" rewardType="BASE" rewardId="94269" rewardCnt="5" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="4" rewardType="KEY" rewardId="91712" rewardCnt="20" />	<!-- Шторм Сайхи (Временно) -->
+			<reward forLevel="5" rewardType="BASE" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="6" rewardType="BASE" rewardId="3031" rewardCnt="200" />	<!-- Руда Духов -->
+			<reward forLevel="7" rewardType="BASE" rewardId="90907" rewardCnt="20" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="8" rewardType="BASE" rewardId="94271" rewardCnt="10" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="8" rewardType="KEY" rewardId="92035" rewardCnt="3" />	<!-- Сияющий Ларец -->
+			<reward forLevel="9" rewardType="BASE" rewardId="94269" rewardCnt="10" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="10" rewardType="BASE" rewardId="49674" rewardCnt="15" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="11" rewardType="BASE" rewardId="3031" rewardCnt="300" />	<!-- Руда Духов -->
+			<reward forLevel="12" rewardType="BASE" rewardId="90907" rewardCnt="30" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="12" rewardType="KEY" rewardId="93135" rewardCnt="3" />	<!-- Упаковка: Агатион Небула -->
+			<reward forLevel="13" rewardType="BASE" rewardId="94271" rewardCnt="15" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="14" rewardType="BASE" rewardId="94269" rewardCnt="15" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="15" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="16" rewardType="BASE" rewardId="3031" rewardCnt="500" />	<!-- Руда Духов -->
+			<reward forLevel="16" rewardType="KEY" rewardId="91767" rewardCnt="3" />	<!-- Набор Модификации: Талисман Адена -->
+			<reward forLevel="17" rewardType="BASE" rewardId="90907" rewardCnt="50" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="18" rewardType="BASE" rewardId="94271" rewardCnt="20" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="19" rewardType="BASE" rewardId="94269" rewardCnt="20" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="20" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="20" rewardType="KEY" rewardId="91864" rewardCnt="3" />	<!-- Сундук с Поясом Дракона -->
+			<reward forLevel="21" rewardType="BASE" rewardId="3031" rewardCnt="700" />	<!-- Руда Духов -->
+			<reward forLevel="22" rewardType="BASE" rewardId="90907" rewardCnt="70" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="23" rewardType="BASE" rewardId="94271" rewardCnt="25" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="24" rewardType="BASE" rewardId="94269" rewardCnt="25" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="24" rewardType="KEY" rewardId="94212" rewardCnt="2" />	<!-- Камень Зачарования для Доспехов -->
+			<reward forLevel="25" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="26" rewardType="BASE" rewardId="3031" rewardCnt="1000" />	<!-- Руда Духов -->
+			<reward forLevel="27" rewardType="BASE" rewardId="90907" rewardCnt="100" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="28" rewardType="BASE" rewardId="94271" rewardCnt="30" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="28" rewardType="KEY" rewardId="94210" rewardCnt="2" />	<!-- Камень Зачарования для Оружия -->
+			<reward forLevel="29" rewardType="BASE" rewardId="94269" rewardCnt="30" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="30" rewardType="BASE" rewardId="49674" rewardCnt="30" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="30" rewardType="SPECIAL" rewardId="97580" rewardCnt="1" />	<!-- Сундук с Талисманом Скорости от +2 до +4 -->
+			<reward forLevel="30" rewardType="EXTRA" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+		</rewardList>
+	</missionLevel>
+	<missionLevel season="202307" maxLevel="30" skipCoinPrice="1000" bonusRewardIsAvailable="true" bonusRewardByLevelUP="true">
+		<rewardList>
+			<reward forLevel="1" rewardType="BASE" rewardId="3031" rewardCnt="100" />	<!-- Руда Духов -->
+			<reward forLevel="2" rewardType="BASE" rewardId="90907" rewardCnt="10" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="3" rewardType="BASE" rewardId="94271" rewardCnt="5" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="4" rewardType="BASE" rewardId="94269" rewardCnt="5" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="4" rewardType="KEY" rewardId="94777" rewardCnt="5" />	<!-- Свиток Берсерка -->
+			<reward forLevel="5" rewardType="BASE" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="6" rewardType="BASE" rewardId="3031" rewardCnt="200" />	<!-- Руда Духов -->
+			<reward forLevel="7" rewardType="BASE" rewardId="90907" rewardCnt="20" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="8" rewardType="BASE" rewardId="94271" rewardCnt="10" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="8" rewardType="KEY" rewardId="92035" rewardCnt="3" />	<!-- Сияющий Ларец -->
+			<reward forLevel="9" rewardType="BASE" rewardId="94269" rewardCnt="10" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="10" rewardType="BASE" rewardId="49674" rewardCnt="15" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="11" rewardType="BASE" rewardId="3031" rewardCnt="300" />	<!-- Руда Духов -->
+			<reward forLevel="12" rewardType="BASE" rewardId="90907" rewardCnt="30" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="12" rewardType="KEY" rewardId="93136" rewardCnt="2" />	<!-- Упаковка: Агатион Прочелла -->
+			<reward forLevel="13" rewardType="BASE" rewardId="94271" rewardCnt="15" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="14" rewardType="BASE" rewardId="94269" rewardCnt="15" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="15" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="16" rewardType="BASE" rewardId="3031" rewardCnt="500" />	<!-- Руда Духов -->
+			<reward forLevel="16" rewardType="KEY" rewardId="93685" rewardCnt="1" />	<!-- Набор Модификации: Талисман Скорости -->
+			<reward forLevel="17" rewardType="BASE" rewardId="90907" rewardCnt="50" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="18" rewardType="BASE" rewardId="94271" rewardCnt="20" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="19" rewardType="BASE" rewardId="94269" rewardCnt="20" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="20" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="20" rewardType="KEY" rewardId="97266" rewardCnt="1" />	<!-- Набор Модификации Маски Пробивания -->
+			<reward forLevel="21" rewardType="BASE" rewardId="3031" rewardCnt="700" />	<!-- Руда Духов -->
+			<reward forLevel="22" rewardType="BASE" rewardId="90907" rewardCnt="70" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="23" rewardType="BASE" rewardId="94271" rewardCnt="25" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="24" rewardType="BASE" rewardId="94269" rewardCnt="25" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="24" rewardType="KEY" rewardId="94424" rewardCnt="2" />	<!-- Камень Зачарования для Аксессуаров -->
+			<reward forLevel="25" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="26" rewardType="BASE" rewardId="3031" rewardCnt="1000" />	<!-- Руда Духов -->
+			<reward forLevel="27" rewardType="BASE" rewardId="90907" rewardCnt="100" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="28" rewardType="BASE" rewardId="94271" rewardCnt="30" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="28" rewardType="KEY" rewardId="97788" rewardCnt="2" />	<!-- Камень Зачарования для Особого Снаряжения -->
+			<reward forLevel="29" rewardType="BASE" rewardId="94269" rewardCnt="30" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="30" rewardType="BASE" rewardId="49674" rewardCnt="30" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="30" rewardType="SPECIAL" rewardId="97233" rewardCnt="1" />	<!-- Сундук с Талисманом Властителя от +2 до +5 -->
+			<reward forLevel="30" rewardType="EXTRA" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+		</rewardList>
+	</missionLevel>
+	<missionLevel season="202308" maxLevel="30" skipCoinPrice="1000" bonusRewardIsAvailable="true" bonusRewardByLevelUP="true">
+		<rewardList>
+			<reward forLevel="1" rewardType="BASE" rewardId="3031" rewardCnt="100" />	<!-- Руда Духов -->
+			<reward forLevel="2" rewardType="BASE" rewardId="90907" rewardCnt="10" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="3" rewardType="BASE" rewardId="94271" rewardCnt="5" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="4" rewardType="BASE" rewardId="94269" rewardCnt="5" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="4" rewardType="KEY" rewardId="49674" rewardCnt="20" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="5" rewardType="BASE" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="6" rewardType="BASE" rewardId="3031" rewardCnt="200" />	<!-- Руда Духов -->
+			<reward forLevel="7" rewardType="BASE" rewardId="90907" rewardCnt="20" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="8" rewardType="BASE" rewardId="94271" rewardCnt="10" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="8" rewardType="KEY" rewardId="92035" rewardCnt="3" />	<!-- Сияющий Ларец -->
+			<reward forLevel="9" rewardType="BASE" rewardId="94269" rewardCnt="10" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="10" rewardType="BASE" rewardId="49674" rewardCnt="15" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="11" rewardType="BASE" rewardId="3031" rewardCnt="300" />	<!-- Руда Духов -->
+			<reward forLevel="12" rewardType="BASE" rewardId="90907" rewardCnt="30" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="12" rewardType="KEY" rewardId="93137" rewardCnt="3" />	<!-- Упаковка: Агатион Петрам -->
+			<reward forLevel="13" rewardType="BASE" rewardId="94271" rewardCnt="15" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="14" rewardType="BASE" rewardId="94269" rewardCnt="15" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="15" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="16" rewardType="BASE" rewardId="3031" rewardCnt="500" />	<!-- Руда Духов -->
+			<reward forLevel="16" rewardType="KEY" rewardId="92020" rewardCnt="1" />	<!-- Набор Модификации: Талисман Евы -->
+			<reward forLevel="17" rewardType="BASE" rewardId="90907" rewardCnt="50" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="18" rewardType="BASE" rewardId="94271" rewardCnt="20" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="19" rewardType="BASE" rewardId="94269" rewardCnt="20" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="20" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="20" rewardType="KEY" rewardId="91864" rewardCnt="3" />	<!-- Сундук с Поясом Дракона -->
+			<reward forLevel="21" rewardType="BASE" rewardId="3031" rewardCnt="700" />	<!-- Руда Духов -->
+			<reward forLevel="22" rewardType="BASE" rewardId="90907" rewardCnt="70" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="23" rewardType="BASE" rewardId="94271" rewardCnt="25" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="24" rewardType="BASE" rewardId="94269" rewardCnt="25" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="24" rewardType="KEY" rewardId="94424" rewardCnt="2" />	<!-- Камень Зачарования для Аксессуаров -->
+			<reward forLevel="25" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="26" rewardType="BASE" rewardId="3031" rewardCnt="1000" />	<!-- Руда Духов -->
+			<reward forLevel="27" rewardType="BASE" rewardId="90907" rewardCnt="100" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="28" rewardType="BASE" rewardId="94271" rewardCnt="30" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="28" rewardType="KEY" rewardId="97788" rewardCnt="2" />	<!-- Камень Зачарования для Особого Снаряжения -->
+			<reward forLevel="29" rewardType="BASE" rewardId="94269" rewardCnt="30" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="30" rewardType="BASE" rewardId="49674" rewardCnt="30" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="30" rewardType="SPECIAL" rewardId="97273" rewardCnt="1" />	<!-- Сундук с Венцом Героя от +2 до +5 -->
+			<reward forLevel="30" rewardType="EXTRA" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+		</rewardList>
+	</missionLevel>
+	<missionLevel season="202309" maxLevel="30" skipCoinPrice="1000" bonusRewardIsAvailable="true" bonusRewardByLevelUP="true">
+		<rewardList>
+			<reward forLevel="1" rewardType="BASE" rewardId="3031" rewardCnt="100" />	<!-- Руда Духов -->
+			<reward forLevel="2" rewardType="BASE" rewardId="90907" rewardCnt="10" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="3" rewardType="BASE" rewardId="94271" rewardCnt="5" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="4" rewardType="BASE" rewardId="94269" rewardCnt="5" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="4" rewardType="KEY" rewardId="91712" rewardCnt="20" />	<!-- Шторм Сайхи (Временно) -->
+			<reward forLevel="5" rewardType="BASE" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="6" rewardType="BASE" rewardId="3031" rewardCnt="200" />	<!-- Руда Духов -->
+			<reward forLevel="7" rewardType="BASE" rewardId="90907" rewardCnt="20" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="8" rewardType="BASE" rewardId="94271" rewardCnt="10" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="8" rewardType="KEY" rewardId="92035" rewardCnt="3" />	<!-- Сияющий Ларец -->
+			<reward forLevel="9" rewardType="BASE" rewardId="94269" rewardCnt="10" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="10" rewardType="BASE" rewardId="49674" rewardCnt="15" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="11" rewardType="BASE" rewardId="3031" rewardCnt="300" />	<!-- Руда Духов -->
+			<reward forLevel="12" rewardType="BASE" rewardId="90907" rewardCnt="30" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="12" rewardType="KEY" rewardId="93138" rewardCnt="3" />	<!-- Упаковка: Агатион Радости -->
+			<reward forLevel="13" rewardType="BASE" rewardId="94271" rewardCnt="15" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="14" rewardType="BASE" rewardId="94269" rewardCnt="15" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="15" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="16" rewardType="BASE" rewardId="3031" rewardCnt="500" />	<!-- Руда Духов -->
+			<reward forLevel="16" rewardType="KEY" rewardId="93303" rewardCnt="3" />	<!-- Упаковка: Плащ Защиты -->
+			<reward forLevel="17" rewardType="BASE" rewardId="90907" rewardCnt="50" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="18" rewardType="BASE" rewardId="94271" rewardCnt="20" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="19" rewardType="BASE" rewardId="94269" rewardCnt="20" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="20" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="20" rewardType="KEY" rewardId="93330" rewardCnt="2" />	<!-- Набор Модификации: Талисман Властителя -->
+			<reward forLevel="21" rewardType="BASE" rewardId="3031" rewardCnt="700" />	<!-- Руда Духов -->
+			<reward forLevel="22" rewardType="BASE" rewardId="90907" rewardCnt="70" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="23" rewardType="BASE" rewardId="94271" rewardCnt="25" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="24" rewardType="BASE" rewardId="94269" rewardCnt="25" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="24" rewardType="KEY" rewardId="94212" rewardCnt="2" />	<!-- Камень Зачарования для Доспехов -->
+			<reward forLevel="25" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="26" rewardType="BASE" rewardId="3031" rewardCnt="1000" />	<!-- Руда Духов -->
+			<reward forLevel="27" rewardType="BASE" rewardId="90907" rewardCnt="100" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="28" rewardType="BASE" rewardId="94271" rewardCnt="30" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="28" rewardType="KEY" rewardId="94210" rewardCnt="2" />	<!-- Камень Зачарования для Оружия -->
+			<reward forLevel="29" rewardType="BASE" rewardId="94269" rewardCnt="30" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="30" rewardType="BASE" rewardId="49674" rewardCnt="30" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="30" rewardType="SPECIAL" rewardId="97357" rewardCnt="1" />	<!-- Сундук с Поясом Дракона от +2 до +5 -->
+			<reward forLevel="30" rewardType="EXTRA" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+		</rewardList>
+	</missionLevel>
+	<missionLevel season="202310" maxLevel="30" skipCoinPrice="1000" bonusRewardIsAvailable="true" bonusRewardByLevelUP="true">
+		<rewardList>
+			<reward forLevel="1" rewardType="BASE" rewardId="3031" rewardCnt="100" />	<!-- Руда Духов -->
+			<reward forLevel="2" rewardType="BASE" rewardId="90907" rewardCnt="10" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="3" rewardType="BASE" rewardId="94271" rewardCnt="5" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="4" rewardType="BASE" rewardId="94269" rewardCnt="5" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="4" rewardType="KEY" rewardId="94777" rewardCnt="5" />	<!-- Свиток Берсерка -->
+			<reward forLevel="5" rewardType="BASE" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="6" rewardType="BASE" rewardId="3031" rewardCnt="200" />	<!-- Руда Духов -->
+			<reward forLevel="7" rewardType="BASE" rewardId="90907" rewardCnt="20" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="8" rewardType="BASE" rewardId="94271" rewardCnt="10" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="8" rewardType="KEY" rewardId="92035" rewardCnt="3" />	<!-- Сияющий Ларец -->
+			<reward forLevel="9" rewardType="BASE" rewardId="94269" rewardCnt="10" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="10" rewardType="BASE" rewardId="49674" rewardCnt="15" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="11" rewardType="BASE" rewardId="3031" rewardCnt="300" />	<!-- Руда Духов -->
+			<reward forLevel="12" rewardType="BASE" rewardId="90907" rewardCnt="30" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="12" rewardType="KEY" rewardId="93134" rewardCnt="3" />	<!-- Упаковка: Агатион Игнис -->
+			<reward forLevel="13" rewardType="BASE" rewardId="94271" rewardCnt="15" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="14" rewardType="BASE" rewardId="94269" rewardCnt="15" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="15" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="16" rewardType="BASE" rewardId="3031" rewardCnt="500" />	<!-- Руда Духов -->
+			<reward forLevel="16" rewardType="KEY" rewardId="93685" rewardCnt="1" />	<!-- Набор Модификации: Талисман Скорости -->
+			<reward forLevel="17" rewardType="BASE" rewardId="90907" rewardCnt="50" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="18" rewardType="BASE" rewardId="94271" rewardCnt="20" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="19" rewardType="BASE" rewardId="94269" rewardCnt="20" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="20" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="20" rewardType="KEY" rewardId="97266" rewardCnt="1" />	<!-- Набор Модификации Маски Пробивания -->
+			<reward forLevel="21" rewardType="BASE" rewardId="3031" rewardCnt="700" />	<!-- Руда Духов -->
+			<reward forLevel="22" rewardType="BASE" rewardId="90907" rewardCnt="70" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="23" rewardType="BASE" rewardId="94271" rewardCnt="25" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="24" rewardType="BASE" rewardId="94269" rewardCnt="25" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="24" rewardType="KEY" rewardId="94424" rewardCnt="2" />	<!-- Камень Зачарования для Аксессуаров -->
+			<reward forLevel="25" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="26" rewardType="BASE" rewardId="3031" rewardCnt="1000" />	<!-- Руда Духов -->
+			<reward forLevel="27" rewardType="BASE" rewardId="90907" rewardCnt="100" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="28" rewardType="BASE" rewardId="94271" rewardCnt="30" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="28" rewardType="KEY" rewardId="97788" rewardCnt="2" />	<!-- Камень Зачарования для Особого Снаряжения -->
+			<reward forLevel="29" rewardType="BASE" rewardId="94269" rewardCnt="30" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="30" rewardType="BASE" rewardId="49674" rewardCnt="30" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="30" rewardType="SPECIAL" rewardId="97233" rewardCnt="1" />	<!-- Сундук с Талисманом Властителя от +2 до +5 -->
+			<reward forLevel="30" rewardType="EXTRA" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+		</rewardList>
+	</missionLevel>
+	<missionLevel season="202311" maxLevel="30" skipCoinPrice="1000" bonusRewardIsAvailable="true" bonusRewardByLevelUP="true">
+		<rewardList>
+			<reward forLevel="1" rewardType="BASE" rewardId="3031" rewardCnt="100" />	<!-- Руда Духов -->
+			<reward forLevel="2" rewardType="BASE" rewardId="90907" rewardCnt="10" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="3" rewardType="BASE" rewardId="94271" rewardCnt="5" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="4" rewardType="BASE" rewardId="94269" rewardCnt="5" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="4" rewardType="KEY" rewardId="49674" rewardCnt="20" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="5" rewardType="BASE" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="6" rewardType="BASE" rewardId="3031" rewardCnt="200" />	<!-- Руда Духов -->
+			<reward forLevel="7" rewardType="BASE" rewardId="90907" rewardCnt="20" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="8" rewardType="BASE" rewardId="94271" rewardCnt="10" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="8" rewardType="KEY" rewardId="92035" rewardCnt="3" />	<!-- Сияющий Ларец -->
+			<reward forLevel="9" rewardType="BASE" rewardId="94269" rewardCnt="10" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="10" rewardType="BASE" rewardId="49674" rewardCnt="15" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="11" rewardType="BASE" rewardId="3031" rewardCnt="300" />	<!-- Руда Духов -->
+			<reward forLevel="12" rewardType="BASE" rewardId="90907" rewardCnt="30" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="12" rewardType="KEY" rewardId="93135" rewardCnt="3" />	<!-- Упаковка: Агатион Небула -->
+			<reward forLevel="13" rewardType="BASE" rewardId="94271" rewardCnt="15" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="14" rewardType="BASE" rewardId="94269" rewardCnt="15" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="15" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="16" rewardType="BASE" rewardId="3031" rewardCnt="500" />	<!-- Руда Духов -->
+			<reward forLevel="16" rewardType="KEY" rewardId="92020" rewardCnt="1" />	<!-- Набор Модификации: Талисман Евы -->
+			<reward forLevel="17" rewardType="BASE" rewardId="90907" rewardCnt="50" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="18" rewardType="BASE" rewardId="94271" rewardCnt="20" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="19" rewardType="BASE" rewardId="94269" rewardCnt="20" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="20" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="20" rewardType="KEY" rewardId="91864" rewardCnt="3" />	<!-- Сундук с Поясом Дракона -->
+			<reward forLevel="21" rewardType="BASE" rewardId="3031" rewardCnt="700" />	<!-- Руда Духов -->
+			<reward forLevel="22" rewardType="BASE" rewardId="90907" rewardCnt="70" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="23" rewardType="BASE" rewardId="94271" rewardCnt="25" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="24" rewardType="BASE" rewardId="94269" rewardCnt="25" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="24" rewardType="KEY" rewardId="94212" rewardCnt="2" />	<!-- Камень Зачарования для Доспехов -->
+			<reward forLevel="25" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="26" rewardType="BASE" rewardId="3031" rewardCnt="1000" />	<!-- Руда Духов -->
+			<reward forLevel="27" rewardType="BASE" rewardId="90907" rewardCnt="100" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="28" rewardType="BASE" rewardId="94271" rewardCnt="30" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="28" rewardType="KEY" rewardId="94210" rewardCnt="2" />	<!-- Камень Зачарования для Оружия -->
+			<reward forLevel="29" rewardType="BASE" rewardId="94269" rewardCnt="30" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="30" rewardType="BASE" rewardId="49674" rewardCnt="30" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="30" rewardType="SPECIAL" rewardId="94259" rewardCnt="1" />	<!-- Упаковка: Подвеска Эйнхасад Ур. 2 -->
+			<reward forLevel="30" rewardType="EXTRA" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+		</rewardList>
+	</missionLevel>
+	<missionLevel season="202312" maxLevel="30" skipCoinPrice="1000" bonusRewardIsAvailable="true" bonusRewardByLevelUP="true">
+		<rewardList>
+			<reward forLevel="1" rewardType="BASE" rewardId="3031" rewardCnt="100" />	<!-- Руда Духов -->
+			<reward forLevel="2" rewardType="BASE" rewardId="90907" rewardCnt="10" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="3" rewardType="BASE" rewardId="94271" rewardCnt="5" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="4" rewardType="BASE" rewardId="94269" rewardCnt="5" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="4" rewardType="KEY" rewardId="91712" rewardCnt="20" />	<!-- Шторм Сайхи (Временно) -->
+			<reward forLevel="5" rewardType="BASE" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="6" rewardType="BASE" rewardId="3031" rewardCnt="200" />	<!-- Руда Духов -->
+			<reward forLevel="7" rewardType="BASE" rewardId="90907" rewardCnt="20" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="8" rewardType="BASE" rewardId="94271" rewardCnt="10" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="8" rewardType="KEY" rewardId="92035" rewardCnt="3" />	<!-- Сияющий Ларец -->
+			<reward forLevel="9" rewardType="BASE" rewardId="94269" rewardCnt="10" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="10" rewardType="BASE" rewardId="49674" rewardCnt="15" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="11" rewardType="BASE" rewardId="3031" rewardCnt="300" />	<!-- Руда Духов -->
+			<reward forLevel="12" rewardType="BASE" rewardId="90907" rewardCnt="30" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="12" rewardType="KEY" rewardId="93136" rewardCnt="3" />	<!-- Упаковка: Агатион Прочелла -->
+			<reward forLevel="13" rewardType="BASE" rewardId="94271" rewardCnt="15" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="14" rewardType="BASE" rewardId="94269" rewardCnt="15" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="15" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="16" rewardType="BASE" rewardId="3031" rewardCnt="500" />	<!-- Руда Духов -->
+			<reward forLevel="16" rewardType="KEY" rewardId="93303" rewardCnt="3" />	<!-- Упаковка: Плащ Защиты -->
+			<reward forLevel="17" rewardType="BASE" rewardId="90907" rewardCnt="50" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="18" rewardType="BASE" rewardId="94271" rewardCnt="20" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="19" rewardType="BASE" rewardId="94269" rewardCnt="20" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="20" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="20" rewardType="KEY" rewardId="93685" rewardCnt="3" />	<!-- Набор Модификации: Талисман Скорости -->
+			<reward forLevel="21" rewardType="BASE" rewardId="3031" rewardCnt="700" />	<!-- Руда Духов -->
+			<reward forLevel="22" rewardType="BASE" rewardId="90907" rewardCnt="70" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="23" rewardType="BASE" rewardId="94271" rewardCnt="25" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="24" rewardType="BASE" rewardId="94269" rewardCnt="25" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="24" rewardType="KEY" rewardId="94424" rewardCnt="2" />	<!-- Камень Зачарования для Аксессуаров -->
+			<reward forLevel="25" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="26" rewardType="BASE" rewardId="3031" rewardCnt="1000" />	<!-- Руда Духов -->
+			<reward forLevel="27" rewardType="BASE" rewardId="90907" rewardCnt="100" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="28" rewardType="BASE" rewardId="94271" rewardCnt="30" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="28" rewardType="KEY" rewardId="97788" rewardCnt="2" />	<!-- Камень Зачарования для Особого Снаряжения -->
+			<reward forLevel="29" rewardType="BASE" rewardId="94269" rewardCnt="30" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="30" rewardType="BASE" rewardId="49674" rewardCnt="30" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="30" rewardType="SPECIAL" rewardId="98587" rewardCnt="1" />	<!-- Сундук с Венцом Героя от +2 до +4 -->
+			<reward forLevel="30" rewardType="EXTRA" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+		</rewardList>
+	</missionLevel>
+	<missionLevel season="202401" maxLevel="30" skipCoinPrice="1000" bonusRewardIsAvailable="true" bonusRewardByLevelUP="true">
+		<rewardList>
+			<reward forLevel="1" rewardType="BASE" rewardId="3031" rewardCnt="100" />	<!-- Руда Духов -->
+			<reward forLevel="2" rewardType="BASE" rewardId="90907" rewardCnt="10" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="3" rewardType="BASE" rewardId="94271" rewardCnt="5" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="4" rewardType="BASE" rewardId="94269" rewardCnt="5" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="4" rewardType="KEY" rewardId="94777" rewardCnt="5" />	<!-- Свиток Берсерка -->
+			<reward forLevel="5" rewardType="BASE" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="6" rewardType="BASE" rewardId="3031" rewardCnt="200" />	<!-- Руда Духов -->
+			<reward forLevel="7" rewardType="BASE" rewardId="90907" rewardCnt="20" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="8" rewardType="BASE" rewardId="94271" rewardCnt="10" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="8" rewardType="KEY" rewardId="92035" rewardCnt="3" />	<!-- Сияющий Ларец -->
+			<reward forLevel="9" rewardType="BASE" rewardId="94269" rewardCnt="10" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="10" rewardType="BASE" rewardId="49674" rewardCnt="15" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="11" rewardType="BASE" rewardId="3031" rewardCnt="300" />	<!-- Руда Духов -->
+			<reward forLevel="12" rewardType="BASE" rewardId="90907" rewardCnt="30" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="12" rewardType="KEY" rewardId="93137" rewardCnt="3" />	<!-- Упаковка: Агатион Петрам -->
+			<reward forLevel="13" rewardType="BASE" rewardId="94271" rewardCnt="15" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="14" rewardType="BASE" rewardId="94269" rewardCnt="15" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="15" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="16" rewardType="BASE" rewardId="3031" rewardCnt="500" />	<!-- Руда Духов -->
+			<reward forLevel="16" rewardType="KEY" rewardId="91767" rewardCnt="4" />	<!-- Набор Модификации: Талисман Адена -->
+			<reward forLevel="17" rewardType="BASE" rewardId="90907" rewardCnt="50" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="18" rewardType="BASE" rewardId="94271" rewardCnt="20" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="19" rewardType="BASE" rewardId="94269" rewardCnt="20" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="20" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="20" rewardType="KEY" rewardId="94168" rewardCnt="2" />	<!-- Набор Модификации: Венец Героя -->
+			<reward forLevel="21" rewardType="BASE" rewardId="3031" rewardCnt="700" />	<!-- Руда Духов -->
+			<reward forLevel="22" rewardType="BASE" rewardId="90907" rewardCnt="70" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="23" rewardType="BASE" rewardId="94271" rewardCnt="25" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="24" rewardType="BASE" rewardId="94269" rewardCnt="25" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="24" rewardType="KEY" rewardId="94212" rewardCnt="2" />	<!-- Камень Зачарования для Доспехов -->
+			<reward forLevel="25" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="26" rewardType="BASE" rewardId="3031" rewardCnt="1000" />	<!-- Руда Духов -->
+			<reward forLevel="27" rewardType="BASE" rewardId="90907" rewardCnt="100" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="28" rewardType="BASE" rewardId="94271" rewardCnt="30" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="28" rewardType="KEY" rewardId="94210" rewardCnt="2" />	<!-- Камень Зачарования для Оружия -->
+			<reward forLevel="29" rewardType="BASE" rewardId="94269" rewardCnt="30" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="30" rewardType="BASE" rewardId="49674" rewardCnt="30" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="30" rewardType="SPECIAL" rewardId="97233" rewardCnt="1" />	<!-- Сундук с Талисманом Властителя от +2 до +5 -->
+			<reward forLevel="30" rewardType="EXTRA" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+		</rewardList>
+	</missionLevel>
+	<missionLevel season="202402" maxLevel="30" skipCoinPrice="1000" bonusRewardIsAvailable="true" bonusRewardByLevelUP="true">
+		<rewardList>
+			<reward forLevel="1" rewardType="BASE" rewardId="3031" rewardCnt="100" />	<!-- Руда Духов -->
+			<reward forLevel="2" rewardType="BASE" rewardId="90907" rewardCnt="10" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="3" rewardType="BASE" rewardId="94271" rewardCnt="5" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="4" rewardType="BASE" rewardId="94269" rewardCnt="5" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="4" rewardType="KEY" rewardId="49674" rewardCnt="20" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="5" rewardType="BASE" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="6" rewardType="BASE" rewardId="3031" rewardCnt="200" />	<!-- Руда Духов -->
+			<reward forLevel="7" rewardType="BASE" rewardId="90907" rewardCnt="20" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="8" rewardType="BASE" rewardId="94271" rewardCnt="10" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="8" rewardType="KEY" rewardId="92035" rewardCnt="3" />	<!-- Сияющий Ларец -->
+			<reward forLevel="9" rewardType="BASE" rewardId="94269" rewardCnt="10" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="10" rewardType="BASE" rewardId="49674" rewardCnt="15" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="11" rewardType="BASE" rewardId="3031" rewardCnt="300" />	<!-- Руда Духов -->
+			<reward forLevel="12" rewardType="BASE" rewardId="90907" rewardCnt="30" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="12" rewardType="KEY" rewardId="93138" rewardCnt="3" />	<!-- Упаковка: Агатион Радости -->
+			<reward forLevel="13" rewardType="BASE" rewardId="94271" rewardCnt="15" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="14" rewardType="BASE" rewardId="94269" rewardCnt="15" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="15" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="16" rewardType="BASE" rewardId="3031" rewardCnt="500" />	<!-- Руда Духов -->
+			<reward forLevel="16" rewardType="KEY" rewardId="91864" rewardCnt="1" />	<!-- Сундук с Поясом Дракона -->
+			<reward forLevel="17" rewardType="BASE" rewardId="90907" rewardCnt="50" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="18" rewardType="BASE" rewardId="94271" rewardCnt="20" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="19" rewardType="BASE" rewardId="94269" rewardCnt="20" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="20" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="20" rewardType="KEY" rewardId="97266" rewardCnt="3" />	<!-- Набор Модификации Маски Пробивания -->
+			<reward forLevel="21" rewardType="BASE" rewardId="3031" rewardCnt="700" />	<!-- Руда Духов -->
+			<reward forLevel="22" rewardType="BASE" rewardId="90907" rewardCnt="70" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="23" rewardType="BASE" rewardId="94271" rewardCnt="25" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="24" rewardType="BASE" rewardId="94269" rewardCnt="25" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="24" rewardType="KEY" rewardId="94424" rewardCnt="2" />	<!-- Камень Зачарования для Аксессуаров -->
+			<reward forLevel="25" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="26" rewardType="BASE" rewardId="3031" rewardCnt="1000" />	<!-- Руда Духов -->
+			<reward forLevel="27" rewardType="BASE" rewardId="90907" rewardCnt="100" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="28" rewardType="BASE" rewardId="94271" rewardCnt="30" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="28" rewardType="KEY" rewardId="97788" rewardCnt="2" />	<!-- Камень Зачарования для Особого Снаряжения -->
+			<reward forLevel="29" rewardType="BASE" rewardId="94269" rewardCnt="30" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="30" rewardType="BASE" rewardId="49674" rewardCnt="30" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="30" rewardType="SPECIAL" rewardId="100156" rewardCnt="1" />	<!-- Сундук с Талисманом Евы +от 2 до +4 -->
+			<reward forLevel="30" rewardType="EXTRA" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+		</rewardList>
+	</missionLevel>
+	<missionLevel season="202403" maxLevel="30" skipCoinPrice="1000" bonusRewardIsAvailable="true" bonusRewardByLevelUP="true">
+		<rewardList>
+			<reward forLevel="1" rewardType="BASE" rewardId="3031" rewardCnt="100" />	<!-- Руда Духов -->
+			<reward forLevel="2" rewardType="BASE" rewardId="90907" rewardCnt="10" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="3" rewardType="BASE" rewardId="94271" rewardCnt="5" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="4" rewardType="BASE" rewardId="94269" rewardCnt="5" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="4" rewardType="KEY" rewardId="91712" rewardCnt="20" />	<!-- Шторм Сайхи (Временно) -->
+			<reward forLevel="5" rewardType="BASE" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="6" rewardType="BASE" rewardId="3031" rewardCnt="200" />	<!-- Руда Духов -->
+			<reward forLevel="7" rewardType="BASE" rewardId="90907" rewardCnt="20" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="8" rewardType="BASE" rewardId="94271" rewardCnt="10" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="8" rewardType="KEY" rewardId="92035" rewardCnt="3" />	<!-- Сияющий Ларец -->
+			<reward forLevel="9" rewardType="BASE" rewardId="94269" rewardCnt="10" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="10" rewardType="BASE" rewardId="49674" rewardCnt="15" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="11" rewardType="BASE" rewardId="3031" rewardCnt="300" />	<!-- Руда Духов -->
+			<reward forLevel="12" rewardType="BASE" rewardId="90907" rewardCnt="30" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="12" rewardType="KEY" rewardId="93134" rewardCnt="3" />	<!-- Упаковка: Агатион Игнис -->
+			<reward forLevel="13" rewardType="BASE" rewardId="94271" rewardCnt="15" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="14" rewardType="BASE" rewardId="94269" rewardCnt="15" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="15" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="16" rewardType="BASE" rewardId="3031" rewardCnt="500" />	<!-- Руда Духов -->
+			<reward forLevel="16" rewardType="KEY" rewardId="93303" rewardCnt="3" />	<!-- Упаковка: Плащ Защиты -->
+			<reward forLevel="17" rewardType="BASE" rewardId="90907" rewardCnt="50" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="18" rewardType="BASE" rewardId="94271" rewardCnt="20" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="19" rewardType="BASE" rewardId="94269" rewardCnt="20" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="20" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="20" rewardType="KEY" rewardId="93685" rewardCnt="3" />	<!-- Набор Модификации: Талисман Скорости -->
+			<reward forLevel="21" rewardType="BASE" rewardId="3031" rewardCnt="700" />	<!-- Руда Духов -->
+			<reward forLevel="22" rewardType="BASE" rewardId="90907" rewardCnt="70" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="23" rewardType="BASE" rewardId="94271" rewardCnt="25" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="24" rewardType="BASE" rewardId="94269" rewardCnt="25" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="24" rewardType="KEY" rewardId="94212" rewardCnt="2" />	<!-- Камень Зачарования для Доспехов -->
+			<reward forLevel="25" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="26" rewardType="BASE" rewardId="3031" rewardCnt="1000" />	<!-- Руда Духов -->
+			<reward forLevel="27" rewardType="BASE" rewardId="90907" rewardCnt="100" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="28" rewardType="BASE" rewardId="94271" rewardCnt="30" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="28" rewardType="KEY" rewardId="94210" rewardCnt="2" />	<!-- Камень Зачарования для Оружия -->
+			<reward forLevel="29" rewardType="BASE" rewardId="94269" rewardCnt="30" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="30" rewardType="BASE" rewardId="49674" rewardCnt="30" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="30" rewardType="SPECIAL" rewardId="97233" rewardCnt="1" />	<!-- Сундук с Талисманом Властителя от +2 до +5 -->
+			<reward forLevel="30" rewardType="EXTRA" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+		</rewardList>
+	</missionLevel>
+	<missionLevel season="202404" maxLevel="30" skipCoinPrice="1000" bonusRewardIsAvailable="true" bonusRewardByLevelUP="true">
+		<rewardList>
+			<reward forLevel="1" rewardType="BASE" rewardId="3031" rewardCnt="100" />	<!-- Руда Духов -->
+			<reward forLevel="2" rewardType="BASE" rewardId="90907" rewardCnt="10" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="3" rewardType="BASE" rewardId="94271" rewardCnt="5" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="4" rewardType="BASE" rewardId="94269" rewardCnt="5" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="4" rewardType="KEY" rewardId="91712" rewardCnt="20" />	<!-- Шторм Сайхи (Временно) -->
+			<reward forLevel="5" rewardType="BASE" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="6" rewardType="BASE" rewardId="3031" rewardCnt="200" />	<!-- Руда Духов -->
+			<reward forLevel="7" rewardType="BASE" rewardId="90907" rewardCnt="20" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="8" rewardType="BASE" rewardId="94271" rewardCnt="10" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="8" rewardType="KEY" rewardId="92035" rewardCnt="3" />	<!-- Сияющий Ларец -->
+			<reward forLevel="9" rewardType="BASE" rewardId="94269" rewardCnt="10" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="10" rewardType="BASE" rewardId="49674" rewardCnt="15" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="11" rewardType="BASE" rewardId="3031" rewardCnt="300" />	<!-- Руда Духов -->
+			<reward forLevel="12" rewardType="BASE" rewardId="90907" rewardCnt="30" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="12" rewardType="KEY" rewardId="93134" rewardCnt="3" />	<!-- Упаковка: Агатион Игнис -->
+			<reward forLevel="13" rewardType="BASE" rewardId="94271" rewardCnt="15" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="14" rewardType="BASE" rewardId="94269" rewardCnt="15" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="15" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="16" rewardType="BASE" rewardId="3031" rewardCnt="500" />	<!-- Руда Духов -->
+			<reward forLevel="16" rewardType="KEY" rewardId="93303" rewardCnt="3" />	<!-- Упаковка: Плащ Защиты -->
+			<reward forLevel="17" rewardType="BASE" rewardId="90907" rewardCnt="50" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="18" rewardType="BASE" rewardId="94271" rewardCnt="20" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="19" rewardType="BASE" rewardId="94269" rewardCnt="20" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="20" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="20" rewardType="KEY" rewardId="93685" rewardCnt="3" />	<!-- Набор Модификации: Талисман Скорости -->
+			<reward forLevel="21" rewardType="BASE" rewardId="3031" rewardCnt="700" />	<!-- Руда Духов -->
+			<reward forLevel="22" rewardType="BASE" rewardId="90907" rewardCnt="70" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="23" rewardType="BASE" rewardId="94271" rewardCnt="25" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="24" rewardType="BASE" rewardId="94269" rewardCnt="25" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="24" rewardType="KEY" rewardId="94212" rewardCnt="2" />	<!-- Камень Зачарования для Доспехов -->
+			<reward forLevel="25" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="26" rewardType="BASE" rewardId="3031" rewardCnt="1000" />	<!-- Руда Духов -->
+			<reward forLevel="27" rewardType="BASE" rewardId="90907" rewardCnt="100" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="28" rewardType="BASE" rewardId="94271" rewardCnt="30" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="28" rewardType="KEY" rewardId="94210" rewardCnt="2" />	<!-- Камень Зачарования для Оружия -->
+			<reward forLevel="29" rewardType="BASE" rewardId="94269" rewardCnt="30" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="30" rewardType="BASE" rewardId="49674" rewardCnt="30" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="30" rewardType="SPECIAL" rewardId="97233" rewardCnt="1" />	<!-- Сундук с Талисманом Властителя от +2 до +5 -->
+			<reward forLevel="30" rewardType="EXTRA" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+		</rewardList>
+	</missionLevel>
+	<missionLevel season="202405" maxLevel="30" skipCoinPrice="1000" bonusRewardIsAvailable="true" bonusRewardByLevelUP="true">
+		<rewardList>
+			<reward forLevel="1" rewardType="BASE" rewardId="3031" rewardCnt="100" />	<!-- Руда Духов -->
+			<reward forLevel="2" rewardType="BASE" rewardId="90907" rewardCnt="10" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="3" rewardType="BASE" rewardId="94271" rewardCnt="5" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="4" rewardType="BASE" rewardId="94269" rewardCnt="5" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="4" rewardType="KEY" rewardId="94777" rewardCnt="5" />	<!-- Свиток Берсерка -->
+			<reward forLevel="5" rewardType="BASE" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="6" rewardType="BASE" rewardId="3031" rewardCnt="200" />	<!-- Руда Духов -->
+			<reward forLevel="7" rewardType="BASE" rewardId="90907" rewardCnt="20" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="8" rewardType="BASE" rewardId="94271" rewardCnt="10" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="8" rewardType="KEY" rewardId="92035" rewardCnt="3" />	<!-- Сияющий Ларец -->
+			<reward forLevel="9" rewardType="BASE" rewardId="94269" rewardCnt="10" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="10" rewardType="BASE" rewardId="49674" rewardCnt="15" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="11" rewardType="BASE" rewardId="3031" rewardCnt="300" />	<!-- Руда Духов -->
+			<reward forLevel="12" rewardType="BASE" rewardId="90907" rewardCnt="30" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="12" rewardType="KEY" rewardId="93135" rewardCnt="3" />	<!-- Упаковка: Агатион Небула -->
+			<reward forLevel="13" rewardType="BASE" rewardId="94271" rewardCnt="15" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="14" rewardType="BASE" rewardId="94269" rewardCnt="15" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="15" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="16" rewardType="BASE" rewardId="3031" rewardCnt="500" />	<!-- Руда Духов -->
+			<reward forLevel="16" rewardType="KEY" rewardId="93330" rewardCnt="2" />	<!-- Набор Модификации: Талисман Властителя -->
+			<reward forLevel="17" rewardType="BASE" rewardId="90907" rewardCnt="50" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="18" rewardType="BASE" rewardId="94271" rewardCnt="20" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="19" rewardType="BASE" rewardId="94269" rewardCnt="20" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="20" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="20" rewardType="KEY" rewardId="94168" rewardCnt="3" />	<!-- Набор Модификации: Венец Героя -->
+			<reward forLevel="21" rewardType="BASE" rewardId="3031" rewardCnt="700" />	<!-- Руда Духов -->
+			<reward forLevel="22" rewardType="BASE" rewardId="90907" rewardCnt="70" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="23" rewardType="BASE" rewardId="94271" rewardCnt="25" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="24" rewardType="BASE" rewardId="94269" rewardCnt="25" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="24" rewardType="KEY" rewardId="94424" rewardCnt="2" />	<!-- Камень Зачарования для Аксессуаров -->
+			<reward forLevel="25" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="26" rewardType="BASE" rewardId="3031" rewardCnt="1000" />	<!-- Руда Духов -->
+			<reward forLevel="27" rewardType="BASE" rewardId="90907" rewardCnt="100" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="28" rewardType="BASE" rewardId="94271" rewardCnt="30" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="28" rewardType="KEY" rewardId="97788" rewardCnt="2" />	<!-- Камень Зачарования для Особого Снаряжения -->
+			<reward forLevel="29" rewardType="BASE" rewardId="94269" rewardCnt="30" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="30" rewardType="BASE" rewardId="49674" rewardCnt="30" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="30" rewardType="SPECIAL" rewardId="97414" rewardCnt="1" />	<!-- Сундук с Талисманом Скорости от +2 до +5 -->
+			<reward forLevel="30" rewardType="EXTRA" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+		</rewardList>
+	</missionLevel>
+	<missionLevel season="202406" maxLevel="30" skipCoinPrice="1000" bonusRewardIsAvailable="true" bonusRewardByLevelUP="true">
+		<rewardList>
+			<reward forLevel="1" rewardType="BASE" rewardId="3031" rewardCnt="100" />	<!-- Руда Духов -->
+			<reward forLevel="2" rewardType="BASE" rewardId="90907" rewardCnt="10" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="3" rewardType="BASE" rewardId="94271" rewardCnt="5" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="4" rewardType="BASE" rewardId="94269" rewardCnt="5" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="4" rewardType="KEY" rewardId="49674" rewardCnt="20" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="5" rewardType="BASE" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="6" rewardType="BASE" rewardId="3031" rewardCnt="200" />	<!-- Руда Духов -->
+			<reward forLevel="7" rewardType="BASE" rewardId="90907" rewardCnt="20" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="8" rewardType="BASE" rewardId="94271" rewardCnt="10" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="8" rewardType="KEY" rewardId="92035" rewardCnt="3" />	<!-- Сияющий Ларец -->
+			<reward forLevel="9" rewardType="BASE" rewardId="94269" rewardCnt="10" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="10" rewardType="BASE" rewardId="49674" rewardCnt="15" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="11" rewardType="BASE" rewardId="3031" rewardCnt="300" />	<!-- Руда Духов -->
+			<reward forLevel="12" rewardType="BASE" rewardId="90907" rewardCnt="30" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="12" rewardType="KEY" rewardId="93136" rewardCnt="3" />	<!-- Упаковка: Агатион Прочелла -->
+			<reward forLevel="13" rewardType="BASE" rewardId="94271" rewardCnt="15" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="14" rewardType="BASE" rewardId="94269" rewardCnt="15" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="15" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="16" rewardType="BASE" rewardId="3031" rewardCnt="500" />	<!-- Руда Духов -->
+			<reward forLevel="16" rewardType="KEY" rewardId="91767" rewardCnt="7" />	<!-- Набор Модификации: Талисман Адена -->
+			<reward forLevel="17" rewardType="BASE" rewardId="90907" rewardCnt="50" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="18" rewardType="BASE" rewardId="94271" rewardCnt="20" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="19" rewardType="BASE" rewardId="94269" rewardCnt="20" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="20" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="20" rewardType="KEY" rewardId="97266" rewardCnt="3" />	<!-- Набор Модификации Маски Пробивания -->
+			<reward forLevel="21" rewardType="BASE" rewardId="3031" rewardCnt="700" />	<!-- Руда Духов -->
+			<reward forLevel="22" rewardType="BASE" rewardId="90907" rewardCnt="70" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="23" rewardType="BASE" rewardId="94271" rewardCnt="25" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="24" rewardType="BASE" rewardId="94269" rewardCnt="25" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="24" rewardType="KEY" rewardId="94212" rewardCnt="2" />	<!-- Камень Зачарования для Доспехов -->
+			<reward forLevel="25" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="26" rewardType="BASE" rewardId="3031" rewardCnt="1000" />	<!-- Руда Духов -->
+			<reward forLevel="27" rewardType="BASE" rewardId="90907" rewardCnt="100" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="28" rewardType="BASE" rewardId="94271" rewardCnt="30" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="28" rewardType="KEY" rewardId="94210" rewardCnt="2" />	<!-- Камень Зачарования для Оружия -->
+			<reward forLevel="29" rewardType="BASE" rewardId="94269" rewardCnt="30" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="30" rewardType="BASE" rewardId="49674" rewardCnt="30" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="30" rewardType="SPECIAL" rewardId="97357" rewardCnt="1" />	<!-- Сундук с Поясом Дракона от +2 до +5 -->
+			<reward forLevel="30" rewardType="EXTRA" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+		</rewardList>
+	</missionLevel>
+	<missionLevel season="202407" maxLevel="30" skipCoinPrice="1000" bonusRewardIsAvailable="true" bonusRewardByLevelUP="true">
+		<rewardList>
+			<reward forLevel="1" rewardType="BASE" rewardId="3031" rewardCnt="100" />	<!-- Руда Духов -->
+			<reward forLevel="2" rewardType="BASE" rewardId="90907" rewardCnt="10" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="3" rewardType="BASE" rewardId="94271" rewardCnt="5" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="4" rewardType="BASE" rewardId="94269" rewardCnt="5" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="4" rewardType="KEY" rewardId="97628" rewardCnt="7" />	<!-- Ларец с Янтарем Ур. 1 -->
+			<reward forLevel="5" rewardType="BASE" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="6" rewardType="BASE" rewardId="3031" rewardCnt="200" />	<!-- Руда Духов -->
+			<reward forLevel="7" rewardType="BASE" rewardId="90907" rewardCnt="20" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="8" rewardType="BASE" rewardId="94271" rewardCnt="10" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="8" rewardType="KEY" rewardId="97633" rewardCnt="7" />	<!-- Ларец с Лунным Камнем Ур. 1 -->
+			<reward forLevel="9" rewardType="BASE" rewardId="94269" rewardCnt="10" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="10" rewardType="BASE" rewardId="49674" rewardCnt="15" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="11" rewardType="BASE" rewardId="3031" rewardCnt="300" />	<!-- Руда Духов -->
+			<reward forLevel="12" rewardType="BASE" rewardId="90907" rewardCnt="30" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="12" rewardType="KEY" rewardId="97623" rewardCnt="7" />	<!-- Ларец с Опалом Ур. 1 -->
+			<reward forLevel="13" rewardType="BASE" rewardId="94271" rewardCnt="15" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="14" rewardType="BASE" rewardId="94269" rewardCnt="15" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="15" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="16" rewardType="BASE" rewardId="3031" rewardCnt="500" />	<!-- Руда Духов -->
+			<reward forLevel="16" rewardType="KEY" rewardId="97618" rewardCnt="7" />	<!-- Ларец с Кораллом Ур. 1 -->
+			<reward forLevel="17" rewardType="BASE" rewardId="90907" rewardCnt="50" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="18" rewardType="BASE" rewardId="94271" rewardCnt="20" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="19" rewardType="BASE" rewardId="94269" rewardCnt="20" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="20" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="20" rewardType="KEY" rewardId="97608" rewardCnt="7" />	<!-- Ларец со Шпинелью Ур. 1 -->
+			<reward forLevel="21" rewardType="BASE" rewardId="3031" rewardCnt="700" />	<!-- Руда Духов -->
+			<reward forLevel="22" rewardType="BASE" rewardId="90907" rewardCnt="70" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="23" rewardType="BASE" rewardId="94271" rewardCnt="25" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="24" rewardType="BASE" rewardId="94269" rewardCnt="25" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="24" rewardType="KEY" rewardId="97613" rewardCnt="7" />	<!-- Ларец с Цирконом Ур. 1 -->
+			<reward forLevel="25" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="26" rewardType="BASE" rewardId="3031" rewardCnt="1000" />	<!-- Руда Духов -->
+			<reward forLevel="27" rewardType="BASE" rewardId="90907" rewardCnt="100" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="28" rewardType="BASE" rewardId="94271" rewardCnt="30" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="28" rewardType="KEY" rewardId="97603" rewardCnt="7" />	<!-- Ларец с Ониксом Ур. 1 -->
+			<reward forLevel="29" rewardType="BASE" rewardId="94269" rewardCnt="30" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="30" rewardType="BASE" rewardId="49674" rewardCnt="30" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="30" rewardType="SPECIAL" rewardId="100747" rewardCnt="1" />	<!-- Ларец Ур. 4 -->
+			<reward forLevel="30" rewardType="EXTRA" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+		</rewardList>
+	</missionLevel>
+	<missionLevel season="202408" maxLevel="30" skipCoinPrice="1000" bonusRewardIsAvailable="true" bonusRewardByLevelUP="true">
+		<rewardList>
+			<reward forLevel="1" rewardType="BASE" rewardId="3031" rewardCnt="100" />	<!-- Руда Духов -->
+			<reward forLevel="2" rewardType="BASE" rewardId="90907" rewardCnt="10" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="3" rewardType="BASE" rewardId="94271" rewardCnt="5" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="4" rewardType="BASE" rewardId="94269" rewardCnt="5" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="4" rewardType="KEY" rewardId="94777" rewardCnt="5" />	<!-- Свиток Берсерка -->
+			<reward forLevel="5" rewardType="BASE" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="6" rewardType="BASE" rewardId="3031" rewardCnt="200" />	<!-- Руда Духов -->
+			<reward forLevel="7" rewardType="BASE" rewardId="90907" rewardCnt="20" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="8" rewardType="BASE" rewardId="94271" rewardCnt="10" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="8" rewardType="KEY" rewardId="93303" rewardCnt="3" />	<!-- Упаковка: Плащ Защиты -->
+			<reward forLevel="9" rewardType="BASE" rewardId="94269" rewardCnt="10" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="10" rewardType="BASE" rewardId="49674" rewardCnt="15" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="11" rewardType="BASE" rewardId="3031" rewardCnt="300" />	<!-- Руда Духов -->
+			<reward forLevel="12" rewardType="BASE" rewardId="90907" rewardCnt="30" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="12" rewardType="KEY" rewardId="93137" rewardCnt="3" />	<!-- Упаковка: Агатион Петрам -->
+			<reward forLevel="13" rewardType="BASE" rewardId="94271" rewardCnt="15" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="14" rewardType="BASE" rewardId="94269" rewardCnt="15" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="15" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="16" rewardType="BASE" rewardId="3031" rewardCnt="500" />	<!-- Руда Духов -->
+			<reward forLevel="16" rewardType="KEY" rewardId="92020" rewardCnt="3" />	<!-- Набор Модификации: Талисман Евы -->
+			<reward forLevel="17" rewardType="BASE" rewardId="90907" rewardCnt="50" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="18" rewardType="BASE" rewardId="94271" rewardCnt="20" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="19" rewardType="BASE" rewardId="94269" rewardCnt="20" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="20" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="20" rewardType="KEY" rewardId="93330" rewardCnt="3" />	<!-- Набор Модификации: Талисман Властителя -->
+			<reward forLevel="21" rewardType="BASE" rewardId="3031" rewardCnt="700" />	<!-- Руда Духов -->
+			<reward forLevel="22" rewardType="BASE" rewardId="90907" rewardCnt="70" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="23" rewardType="BASE" rewardId="94271" rewardCnt="25" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="24" rewardType="BASE" rewardId="94269" rewardCnt="25" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="24" rewardType="KEY" rewardId="94424" rewardCnt="2" />	<!-- Камень Зачарования для Аксессуаров -->
+			<reward forLevel="25" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="26" rewardType="BASE" rewardId="3031" rewardCnt="1000" />	<!-- Руда Духов -->
+			<reward forLevel="27" rewardType="BASE" rewardId="90907" rewardCnt="100" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="28" rewardType="BASE" rewardId="94271" rewardCnt="30" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="28" rewardType="KEY" rewardId="97788" rewardCnt="2" />	<!-- Камень Зачарования для Особого Снаряжения -->
+			<reward forLevel="29" rewardType="BASE" rewardId="94269" rewardCnt="30" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="30" rewardType="BASE" rewardId="49674" rewardCnt="30" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="30" rewardType="SPECIAL" rewardId="97273" rewardCnt="1" />	<!-- Сундук с Венцом Героя от +2 до +5 -->
+			<reward forLevel="30" rewardType="EXTRA" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+		</rewardList>
+	</missionLevel>
+	<missionLevel season="202409" maxLevel="30" skipCoinPrice="1000" bonusRewardIsAvailable="true" bonusRewardByLevelUP="true">
+		<rewardList>
+			<reward forLevel="1" rewardType="BASE" rewardId="3031" rewardCnt="100" />	<!-- Руда Духов -->
+			<reward forLevel="2" rewardType="BASE" rewardId="90907" rewardCnt="10" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="3" rewardType="BASE" rewardId="94271" rewardCnt="5" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="4" rewardType="BASE" rewardId="94269" rewardCnt="5" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="4" rewardType="KEY" rewardId="100589" rewardCnt="1" />	<!-- Набор Модификации: Маска Фантома -->
+			<reward forLevel="5" rewardType="BASE" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="6" rewardType="BASE" rewardId="3031" rewardCnt="200" />	<!-- Руда Духов -->
+			<reward forLevel="7" rewardType="BASE" rewardId="90907" rewardCnt="20" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="8" rewardType="BASE" rewardId="94271" rewardCnt="10" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="8" rewardType="KEY" rewardId="100589" rewardCnt="1" />	<!-- Набор Модификации: Маска Фантома -->
+			<reward forLevel="9" rewardType="BASE" rewardId="94269" rewardCnt="10" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="10" rewardType="BASE" rewardId="49674" rewardCnt="15" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="11" rewardType="BASE" rewardId="3031" rewardCnt="300" />	<!-- Руда Духов -->
+			<reward forLevel="12" rewardType="BASE" rewardId="90907" rewardCnt="30" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="12" rewardType="KEY" rewardId="100589" rewardCnt="1" />	<!-- Набор Модификации: Маска Фантома -->
+			<reward forLevel="13" rewardType="BASE" rewardId="94271" rewardCnt="15" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="14" rewardType="BASE" rewardId="94269" rewardCnt="15" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="15" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="16" rewardType="BASE" rewardId="3031" rewardCnt="500" />	<!-- Руда Духов -->
+			<reward forLevel="16" rewardType="KEY" rewardId="100589" rewardCnt="1" />	<!-- Набор Модификации: Маска Фантома -->
+			<reward forLevel="17" rewardType="BASE" rewardId="90907" rewardCnt="50" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="18" rewardType="BASE" rewardId="94271" rewardCnt="20" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="19" rewardType="BASE" rewardId="94269" rewardCnt="20" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="20" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="20" rewardType="KEY" rewardId="100589" rewardCnt="5" />	<!-- Набор Модификации: Маска Фантома -->
+			<reward forLevel="21" rewardType="BASE" rewardId="3031" rewardCnt="700" />	<!-- Руда Духов -->
+			<reward forLevel="22" rewardType="BASE" rewardId="90907" rewardCnt="70" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="23" rewardType="BASE" rewardId="94271" rewardCnt="25" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="24" rewardType="BASE" rewardId="94269" rewardCnt="25" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="24" rewardType="KEY" rewardId="100589" rewardCnt="1" />	<!-- Набор Модификации: Маска Фантома -->
+			<reward forLevel="25" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="26" rewardType="BASE" rewardId="3031" rewardCnt="1000" />	<!-- Руда Духов -->
+			<reward forLevel="27" rewardType="BASE" rewardId="90907" rewardCnt="100" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="28" rewardType="BASE" rewardId="94271" rewardCnt="30" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="28" rewardType="KEY" rewardId="100589" rewardCnt="1" />	<!-- Набор Модификации: Маска Фантома -->
+			<reward forLevel="29" rewardType="BASE" rewardId="94269" rewardCnt="30" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="30" rewardType="BASE" rewardId="49674" rewardCnt="30" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="30" rewardType="SPECIAL" rewardId="101349" rewardCnt="1" />	<!-- Упаковка: Маска Фантома от +1 до +4 -->
+			<reward forLevel="30" rewardType="EXTRA" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+		</rewardList>
+	</missionLevel>
+	<missionLevel season="202410" maxLevel="30" skipCoinPrice="1000" bonusRewardIsAvailable="true" bonusRewardByLevelUP="true">
+		<rewardList>
+			<reward forLevel="1" rewardType="BASE" rewardId="3031" rewardCnt="100" />	<!-- Руда Духов -->
+			<reward forLevel="2" rewardType="BASE" rewardId="90907" rewardCnt="10" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="3" rewardType="BASE" rewardId="94271" rewardCnt="5" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="4" rewardType="BASE" rewardId="94269" rewardCnt="5" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="4" rewardType="KEY" rewardId="97597" rewardCnt="6" />	<!-- Купон на Выбранный Драгоценный Камень -->
+			<reward forLevel="5" rewardType="BASE" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="6" rewardType="BASE" rewardId="3031" rewardCnt="200" />	<!-- Руда Духов -->
+			<reward forLevel="7" rewardType="BASE" rewardId="90907" rewardCnt="20" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="8" rewardType="BASE" rewardId="94271" rewardCnt="10" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="8" rewardType="KEY" rewardId="97597" rewardCnt="6" />	<!-- Купон на Выбранный Драгоценный Камень -->
+			<reward forLevel="9" rewardType="BASE" rewardId="94269" rewardCnt="10" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="10" rewardType="BASE" rewardId="49674" rewardCnt="15" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="11" rewardType="BASE" rewardId="3031" rewardCnt="300" />	<!-- Руда Духов -->
+			<reward forLevel="12" rewardType="BASE" rewardId="90907" rewardCnt="30" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="12" rewardType="KEY" rewardId="97597" rewardCnt="6" />	<!-- Купон на Выбранный Драгоценный Камень -->
+			<reward forLevel="13" rewardType="BASE" rewardId="94271" rewardCnt="15" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="14" rewardType="BASE" rewardId="94269" rewardCnt="15" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="15" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="16" rewardType="BASE" rewardId="3031" rewardCnt="500" />	<!-- Руда Духов -->
+			<reward forLevel="16" rewardType="KEY" rewardId="97597" rewardCnt="6" />	<!-- Купон на Выбранный Драгоценный Камень -->
+			<reward forLevel="17" rewardType="BASE" rewardId="90907" rewardCnt="50" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="18" rewardType="BASE" rewardId="94271" rewardCnt="20" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="19" rewardType="BASE" rewardId="94269" rewardCnt="20" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="20" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="20" rewardType="KEY" rewardId="97597" rewardCnt="12" />	<!-- Купон на Выбранный Драгоценный Камень -->
+			<reward forLevel="21" rewardType="BASE" rewardId="3031" rewardCnt="700" />	<!-- Руда Духов -->
+			<reward forLevel="22" rewardType="BASE" rewardId="90907" rewardCnt="70" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="23" rewardType="BASE" rewardId="94271" rewardCnt="25" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="24" rewardType="BASE" rewardId="94269" rewardCnt="25" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="24" rewardType="KEY" rewardId="97597" rewardCnt="6" />	<!-- Купон на Выбранный Драгоценный Камень -->
+			<reward forLevel="25" rewardType="BASE" rewardId="49674" rewardCnt="25" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="26" rewardType="BASE" rewardId="3031" rewardCnt="1000" />	<!-- Руда Духов -->
+			<reward forLevel="27" rewardType="BASE" rewardId="90907" rewardCnt="100" />	<!-- Купон на Заряды Души -->
+			<reward forLevel="28" rewardType="BASE" rewardId="94271" rewardCnt="30" />	<!-- Свиток: Модифицировать Защиту -->
+			<reward forLevel="28" rewardType="KEY" rewardId="97597" rewardCnt="6" />	<!-- Купон на Выбранный Драгоценный Камень -->
+			<reward forLevel="29" rewardType="BASE" rewardId="94269" rewardCnt="30" />	<!-- Свиток: Модифицировать Атаку -->
+			<reward forLevel="30" rewardType="BASE" rewardId="49674" rewardCnt="30" />	<!-- Свиток Увеличения Опыта -->
+			<reward forLevel="30" rewardType="SPECIAL" rewardId="100747" rewardCnt="1" />	<!-- Ларец Ур. 4 -->
+			<reward forLevel="30" rewardType="EXTRA" rewardId="49674" rewardCnt="10" />	<!-- Свиток Увеличения Опыта -->
+		</rewardList>
+	</missionLevel>
+</list>

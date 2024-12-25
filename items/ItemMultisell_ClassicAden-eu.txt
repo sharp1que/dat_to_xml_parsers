@@ -1,0 +1,417 @@
+itemMultisell_begin	itemClassID=93448	multisell_id_list={10000}	multisell_name={[A-grade Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=93449	multisell_id_list={10001;10002;10003}	multisell_name={[A-grade Heavy Armor];[A-grade Light Armor];[A-grade Robes]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=93498	multisell_id_list={10004}	multisell_name={[Enchanted C-grade Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=93499	multisell_id_list={10005}	multisell_name={[Enchanted B-grade Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=93500	multisell_id_list={10006;10007;10008}	multisell_name={[Enchanted B-grade Heavy Armor];[Enchanted B-grade Light Armor];[Enchanted B-grade Robes]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=93930	multisell_id_list={10009}	multisell_name={[Special Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=93974	multisell_id_list={10010}	multisell_name={[Best Dyes]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=94732	multisell_id_list={10011}	multisell_name={[Spirit Agathions]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=94733	multisell_id_list={10012}	multisell_name={[+7 B-grade Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=94734	multisell_id_list={10013}	multisell_name={[+4 C-grade Armor Sets]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=95571	multisell_id_list={10014}	multisell_name={[Enchanted C-grade Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97175	multisell_id_list={10015}	multisell_name={[Spellbooks - 1 Star]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97176	multisell_id_list={10016}	multisell_name={[Spellbooks - 2 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97177	multisell_id_list={10017}	multisell_name={[Spellbooks - 3 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97178	multisell_id_list={10018}	multisell_name={[Spellbooks - 4 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97983	multisell_id_list={10019}	multisell_name={[+5 A-grade Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97984	multisell_id_list={10020}	multisell_name={[+5 A-grade Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98114	multisell_id_list={10021}	multisell_name={[+7 Armor of Protection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=90907	multisell_id_list={10022}	multisell_name={[Soulshots]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98152	multisell_id_list={10023;10024;10025}	multisell_name={[Death Knight's Flame Swords];[Immortal One-handed Weapons];[Immortal Two-handed Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98202	multisell_id_list={10026}	multisell_name={[Evolution Stones]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98206	multisell_id_list={10027}	multisell_name={[Dyes Lv. 11]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97808	multisell_id_list={10028}	multisell_name={[+7 Boss Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98220	multisell_id_list={10029}	multisell_name={[Rare Accessories]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98222	multisell_id_list={10031}	multisell_name={[Special Equipment]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=96954	multisell_id_list={10032}	multisell_name={[Spellbooks - 1 Star]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=96955	multisell_id_list={10033}	multisell_name={[Spellbooks - 2 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97807	multisell_id_list={10034}	multisell_name={[+7 Special Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97924	multisell_id_list={10035}	multisell_name={[+7 Frost Lord's Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97925	multisell_id_list={10036}	multisell_name={[+6 Armor of Protection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98237	multisell_id_list={10037}	multisell_name={[Spellbooks]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98238	multisell_id_list={10038}	multisell_name={[Scrolls of Blessing]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98239	multisell_id_list={10039}	multisell_name={[Augmenting Stones]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98293	multisell_id_list={10040}	multisell_name={[Luxury Boxes]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98294	multisell_id_list={10041}	multisell_name={[Special Equipment]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98295	multisell_id_list={10042}	multisell_name={[Supplies]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98296	multisell_id_list={10043}	multisell_name={[High-grade Item Craft Coupons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97661	multisell_id_list={10044}	multisell_name={[+5 Boss Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98044	multisell_id_list={10045}	multisell_name={[+5 Special Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98333	multisell_id_list={10046}	multisell_name={[Sealed Pet Necklaces]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98415	multisell_id_list={10047}	multisell_name={[+9 Purge Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98416	multisell_id_list={10048}	multisell_name={[+10 Purge Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98417	multisell_id_list={10049}	multisell_name={[+11 Purge Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98418	multisell_id_list={10050}	multisell_name={[+12 Purge Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98421	multisell_id_list={10051}	multisell_name={[+5 Boss Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98422	multisell_id_list={10052}	multisell_name={[+5 Special Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98440	multisell_id_list={10055}	multisell_name={[+6 Talismans]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98441	multisell_id_list={10056}	multisell_name={[Blessed Augmenting Stones]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98439	multisell_id_list={10057}	multisell_name={[Augmenting Stones]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98443	multisell_id_list={10058}	multisell_name={[+7 Talismans]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97121	multisell_id_list={10059}	multisell_name={[Spellbooks - 1 Star]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97122	multisell_id_list={10060}	multisell_name={[Spellbooks - 2 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97123	multisell_id_list={10061}	multisell_name={[Spellbooks - 3 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97124	multisell_id_list={10062}	multisell_name={[Spellbooks - 4 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98449	multisell_id_list={10063}	multisell_name={[Jewels Lv. 6]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98471	multisell_id_list={10064}	multisell_name={[Soulshot Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98503	multisell_id_list={10065}	multisell_name={[Heavy Armor (Upper)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98504	multisell_id_list={10066}	multisell_name={[Heavy Armor (Gloves)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98505	multisell_id_list={10067}	multisell_name={[Heavy Armor (Boots)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98506	multisell_id_list={10068}	multisell_name={[Heavy Armor (Helmet)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98507	multisell_id_list={10069}	multisell_name={[Light Armor (Upper)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98508	multisell_id_list={10070}	multisell_name={[Light Armor (Gloves)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98509	multisell_id_list={10071}	multisell_name={[Light Armor (Boots)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98510	multisell_id_list={10072}	multisell_name={[Light Armor (Helmet)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98511	multisell_id_list={10073}	multisell_name={[Robe (Upper)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98512	multisell_id_list={10074}	multisell_name={[Robe (Gloves)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98513	multisell_id_list={10075}	multisell_name={[Robe (Boots)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98514	multisell_id_list={10076}	multisell_name={[Robe (Helmet)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98521	multisell_id_list={10077}	multisell_name={[A-grade Magic Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98522	multisell_id_list={10078}	multisell_name={[B-grade Magic Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98523	multisell_id_list={10079}	multisell_name={[C-grade Magic Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98534	multisell_id_list={10080}	multisell_name={[D-grade Magic Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98448	multisell_id_list={10081}	multisell_name={[Hero's Marks]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98555	multisell_id_list={10082}	multisell_name={[+2 Rare Accessories]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98556	multisell_id_list={10083}	multisell_name={[Dolls Lv. 2]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97662	multisell_id_list={10084}	multisell_name={[Boss Weapon]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97131	multisell_id_list={10085}	multisell_name={[Boss Weapon]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97735	multisell_id_list={10086}	multisell_name={[Dyes Lv. 3]}	unk={1;2}	itemMultisell_end
+itemMultisell_begin	itemClassID=97130	multisell_id_list={10087}	multisell_name={[Special Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98221	multisell_id_list={10088}	multisell_name={[Dolls Lv. 1]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98592	multisell_id_list={10089}	multisell_name={[Supplies]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98589	multisell_id_list={10090}	multisell_name={[Sayha's Energy]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97985	multisell_id_list={10091}	multisell_name={[Rare Accessories]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98679	multisell_id_list={10092}	multisell_name={[+7 Boss Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98697	multisell_id_list={10093}	multisell_name={[Soulshots]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98700	multisell_id_list={10094}	multisell_name={[Jewels Lv. 5]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98738	multisell_id_list={10095}	multisell_name={[Augmenting Stones]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98739	multisell_id_list={10096}	multisell_name={[Rabbit's Lucky Pouches for Bright Start]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98740	multisell_id_list={10097}	multisell_name={[Agathions]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98761	multisell_id_list={10098}	multisell_name={[Dolls Lv. 1]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98762	multisell_id_list={10099}	multisell_name={[Rare Accessories]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98763	multisell_id_list={10100}	multisell_name={[Purge Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98767	multisell_id_list={10101}	multisell_name={[Special Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98783	multisell_id_list={10102}	multisell_name={[Improved Supply Orders]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97986	multisell_id_list={10103}	multisell_name={[+5 Frost Lord's Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97660	multisell_id_list={10104}	multisell_name={[+5 Sealed Frost Lord's Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97987	multisell_id_list={10105}	multisell_name={[+5 Armor of Protection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98794	multisell_id_list={10106}	multisell_name={[+5 Sealed Armor of Protection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98795	multisell_id_list={10107}	multisell_name={[Kits]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98798	multisell_id_list={10108}	multisell_name={[Jewelry Boxes Lv. 4]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98813	multisell_id_list={10109}	multisell_name={[Boss Weapon]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98814	multisell_id_list={10110}	multisell_name={[Special Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98825	multisell_id_list={10111}	multisell_name={[+10 Talisman Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98824	multisell_id_list={10112}	multisell_name={[Lv. 5 Doll Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=96685	multisell_id_list={10113}	multisell_name={[Mysterious Crystals]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98855	multisell_id_list={10114}	multisell_name={[Spellbooks - 1 Star]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98856	multisell_id_list={10115}	multisell_name={[Spellbooks - 2 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98857	multisell_id_list={10116}	multisell_name={[Spellbooks - 3 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98858	multisell_id_list={10117}	multisell_name={[Spellbooks - 4 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98859	multisell_id_list={10118}	multisell_name={[Kit Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98840	multisell_id_list={10119}	multisell_name={[Coupon Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98905	multisell_id_list={10120}	multisell_name={[Stat Collection - Doll Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=94871	multisell_id_list={10121}	multisell_name={[Secret Shop Tickets]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98917	multisell_id_list={10122}	multisell_name={[Talisman Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98918	multisell_id_list={10123}	multisell_name={[Kits: Doll Lv. 2]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98919	multisell_id_list={10124}	multisell_name={[Dolls Lv. 2]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98923	multisell_id_list={10125}	multisell_name={[Kits: Ancient Adena]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98935	multisell_id_list={10126}	multisell_name={[Sealed Animal Guardian Necklaces]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98953	multisell_id_list={10127}	multisell_name={[Jewels Lv. 7]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98955	multisell_id_list={10128}	multisell_name={[+8 Talismans]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98946	multisell_id_list={10129}	multisell_name={[Time Stones]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98947	multisell_id_list={10130}	multisell_name={[Spirit Agathions]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98967	multisell_id_list={10131}	multisell_name={[Augmenting Stones]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98972	multisell_id_list={10132}	multisell_name={[Kits: Pet]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98999	multisell_id_list={10136}	multisell_name={[Lv. 3 Bracelets and Brooches]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97133	multisell_id_list={10137}	multisell_name={[Frost Lord's Weapon]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97132	multisell_id_list={10138}	multisell_name={[Armor of Protection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99946	multisell_id_list={10139}	multisell_name={[Kits: Purge Collection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99948	multisell_id_list={10140}	multisell_name={[Frost Lord's Weapon]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99947	multisell_id_list={10141}	multisell_name={[Armor of Protection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99938	multisell_id_list={10142}	multisell_name={[Talismans]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99894	multisell_id_list={10143}	multisell_name={[Kits]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100000	multisell_id_list={10144}	multisell_name={[+7 Talismans]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100001	multisell_id_list={10145}	multisell_name={[Jewels Lv. 7]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99844	multisell_id_list={10146}	multisell_name={[+7 Frost Lord's Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99843	multisell_id_list={10147}	multisell_name={[+7 Armor of Protection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99815	multisell_id_list={10148}	multisell_name={[Death Knight Spellbooks - 1 Star]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99814	multisell_id_list={10149}	multisell_name={[Death Knight Spellbooks - 2 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=99813	multisell_id_list={10150}	multisell_name={[Death Knight Spellbooks - 3 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=94219	multisell_id_list={10151}	multisell_name={[Rare Accessories]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100053	multisell_id_list={10152}	multisell_name={[Spellbooks - 4 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100055	multisell_id_list={10153}	multisell_name={[Dolls Lv. 2]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100074	multisell_id_list={10154}	multisell_name={[+8 Frost Lord's Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100078	multisell_id_list={10155}	multisell_name={[+2 Rare Accessories]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100079	multisell_id_list={10156}	multisell_name={[Scrolls of Blessing]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100101	multisell_id_list={10157}	multisell_name={[+7 Talismans]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100106	multisell_id_list={10158}	multisell_name={[Jewelry Boxes Lv. 6]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100111	multisell_id_list={10159}	multisell_name={[Frost Lord's Weapon]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100143	multisell_id_list={10160}	multisell_name={[+8 Armor of Protection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100155	multisell_id_list={10161}	multisell_name={[+8 Armor of Protection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100168	multisell_id_list={10162}	multisell_name={[Dolls Lv. 3]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100172	multisell_id_list={10163}	multisell_name={[+6 Agathions]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100173	multisell_id_list={10164}	multisell_name={[+7 Agathions]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100174	multisell_id_list={10165}	multisell_name={[+8 Agathions]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100175	multisell_id_list={10166}	multisell_name={[+9 Agathions]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100176	multisell_id_list={10167}	multisell_name={[Jewelry Boxes Lv. 4]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100177	multisell_id_list={10168}	multisell_name={[Jewelry Boxes Lv. 5]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100178	multisell_id_list={10169}	multisell_name={[Jewelry Boxes Lv. 6]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100179	multisell_id_list={10170}	multisell_name={[Jewelry Boxes Lv. 7]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100180	multisell_id_list={10171}	multisell_name={[+5 Talismans]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100181	multisell_id_list={10172}	multisell_name={[+6 Talismans]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100182	multisell_id_list={10173}	multisell_name={[+7 Talismans]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100183	multisell_id_list={10174}	multisell_name={[+8 Talismans]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100184	multisell_id_list={10175}	multisell_name={[Kits: Weekly Chest]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100218	multisell_id_list={10176}	multisell_name={[Soul Crystals]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100221	multisell_id_list={10177}	multisell_name={[+7 Special Equipment]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100225	multisell_id_list={10178}	multisell_name={[+6 Frost Lord's Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97597	multisell_id_list={10183;10182;10181;10180;10179}	multisell_name={[Jewelry Boxes Lv. 5];[Jewelry Boxes Lv. 4];[Jewelry Boxes Lv. 3];[Jewelry Boxes Lv. 2];[Jewelry Boxes Lv. 1]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100246	multisell_id_list={10184}	multisell_name={[Tower of Insolence's Stones of Memory]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100255	multisell_id_list={10185}	multisell_name={[Royal Coupons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100303	multisell_id_list={10186}	multisell_name={[Rare Collections]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=92481	multisell_id_list={10187}	multisell_name={[Doll Packs]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=92480	multisell_id_list={10188}	multisell_name={[Doll Packs]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=92478	multisell_id_list={10189}	multisell_name={[Doll Packs]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=92479	multisell_id_list={10190}	multisell_name={[Doll Packs]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=92476	multisell_id_list={10191}	multisell_name={[Doll Packs]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=92477	multisell_id_list={10192}	multisell_name={[Doll Packs]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100305	multisell_id_list={10193}	multisell_name={[Supplies]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100315	multisell_id_list={10194}	multisell_name={[+7 Frost Lord's Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100316	multisell_id_list={10195}	multisell_name={[+6 Frost Lord's Weapons (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100343	multisell_id_list={10196}	multisell_name={[+8 Frost Lord's Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100396	multisell_id_list={10197;10198}	multisell_name={[Frost Lord's Weapons];[Frost Lord's Weapons (Sealed)]}	unk={1;2}	itemMultisell_end
+itemMultisell_begin	itemClassID=100396	multisell_id_list={10372;10373}	multisell_name={[Frost Lord's Weapons];[Frost Lord's Weapons (Sealed)]}	unk={101;102}	itemMultisell_end
+itemMultisell_begin	itemClassID=100397	multisell_id_list={10199;10200}	multisell_name={[Armor of Protection];[Armor of Protection (Sealed)]}	unk={1;2}	itemMultisell_end
+itemMultisell_begin	itemClassID=100397	multisell_id_list={10374;10375}	multisell_name={[Armor of Protection];[Armor of Protection (Sealed)]}	unk={101;102}	itemMultisell_end
+itemMultisell_begin	itemClassID=100398	multisell_id_list={10201;10202}	multisell_name={[Boss Weapons];[Boss Weapons (Sealed)]}	unk={1;2}	itemMultisell_end
+itemMultisell_begin	itemClassID=100398	multisell_id_list={10291;10292;10293;10294;10295;10296}	multisell_name={[Cloth];[Leather];[Metallograph];[Varnish];[Wood];[Metal Ingot]}	unk={101;102}	itemMultisell_end
+itemMultisell_begin	itemClassID=100399	multisell_id_list={10203;10204}	multisell_name={[Special Armor];[Special Armor (Sealed)]}	unk={1;2}	itemMultisell_end
+itemMultisell_begin	itemClassID=100399	multisell_id_list={10297;10298;10299;10300;10301;10302}	multisell_name={[Cloth];[Leather];[Metallograph];[Varnish];[Wood];[Metal Ingot]}	unk={101;102}	itemMultisell_end
+itemMultisell_begin	itemClassID=100412	multisell_id_list={10205}	multisell_name={[Boss Weapon]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100413	multisell_id_list={10206}	multisell_name={[Frost Lord's Weapon]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100414	multisell_id_list={10207}	multisell_name={[+5 Special Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100443	multisell_id_list={10472;10473;10474;10475;10476}	multisell_name={[Lv. 5-9];[Lv. 10-14];[Lv. 15-19];[Lv. 20-24];[Lv. 25-30]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100444	multisell_id_list={10214;10289}	multisell_name={[Spellbooks - 3 Stars];[Spellbooks - 3 Stars (Sealed)]}	unk={1;2}	itemMultisell_end
+itemMultisell_begin	itemClassID=100444	multisell_id_list={10303;10304}	multisell_name={[Spellbooks - 3 Stars];[Spellbooks - 3 Stars (Sealed)]}	unk={101;102}	itemMultisell_end
+itemMultisell_begin	itemClassID=101808	multisell_id_list={10215;10290}	multisell_name={[Spellbooks - 4 Stars];[Spellbooks - 4 Stars (Sealed)]}	unk={1;2}	itemMultisell_end
+itemMultisell_begin	itemClassID=101808	multisell_id_list={10376;10377}	multisell_name={[Spellbooks - 4 Stars];[Spellbooks - 4 Stars (Sealed)]}	unk={101;102}	itemMultisell_end
+itemMultisell_begin	itemClassID=98075	multisell_id_list={10216}	multisell_name={[Master's Books]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100521	multisell_id_list={10217}	multisell_name={[+5 Enhanced Ornaments]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100528	multisell_id_list={10218}	multisell_name={[+6 Enhanced Ornaments]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100533	multisell_id_list={10219}	multisell_name={[Dyes Lv. 20]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100585	multisell_id_list={10220}	multisell_name={[Supplies]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100590	multisell_id_list={10221}	multisell_name={[Enchant Scrolls]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100753	multisell_id_list={10222}	multisell_name={[Master's Spellbooks - 4 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100968	multisell_id_list={10223}	multisell_name={[Equipment, Transcendent Upgrade Stones]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100972	multisell_id_list={10225}	multisell_name={[Dyes, Hidden Power Boosters]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100974	multisell_id_list={10224}	multisell_name={[Collection Replacement Items]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100975	multisell_id_list={10226}	multisell_name={[Augmenting Stones: Weapon]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100978	multisell_id_list={10227}	multisell_name={[Augmenting Stones: Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100980	multisell_id_list={10228}	multisell_name={[Augmenting Stones: Accessory]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100982	multisell_id_list={10229}	multisell_name={[Augmenting Stones: Special Equipment]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97867	multisell_id_list={10230;10231;10232;10233;10234;10235;10236;10237;10238;10239}	multisell_name={[1 win];[2 wins];[3 wins];[4 wins];[5 wins];[6 wins];[7 wins];[8 wins];[9 wins];[10 wins]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97868	multisell_id_list={10230;10231;10232;10233;10234;10235;10236;10237;10238;10239}	multisell_name={[1 win];[2 wins];[3 wins];[4 wins];[5 wins];[6 wins];[7 wins];[8 wins];[9 wins];[10 wins]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97869	multisell_id_list={10230;10231;10232;10233;10234;10235;10236;10237;10238;10239}	multisell_name={[1 win];[2 wins];[3 wins];[4 wins];[5 wins];[6 wins];[7 wins];[8 wins];[9 wins];[10 wins]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97870	multisell_id_list={10230;10231;10232;10233;10234;10235;10236;10237;10238;10239}	multisell_name={[1 win];[2 wins];[3 wins];[4 wins];[5 wins];[6 wins];[7 wins];[8 wins];[9 wins];[10 wins]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97871	multisell_id_list={10230;10231;10232;10233;10234;10235;10236;10237;10238;10239}	multisell_name={[1 win];[2 wins];[3 wins];[4 wins];[5 wins];[6 wins];[7 wins];[8 wins];[9 wins];[10 wins]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97872	multisell_id_list={10230;10231;10232;10233;10234;10235;10236;10237;10238;10239}	multisell_name={[1 win];[2 wins];[3 wins];[4 wins];[5 wins];[6 wins];[7 wins];[8 wins];[9 wins];[10 wins]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97873	multisell_id_list={10230;10231;10232;10233;10234;10235;10236;10237;10238;10239}	multisell_name={[1 win];[2 wins];[3 wins];[4 wins];[5 wins];[6 wins];[7 wins];[8 wins];[9 wins];[10 wins]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97874	multisell_id_list={10230;10231;10232;10233;10234;10235;10236;10237;10238;10239}	multisell_name={[1 win];[2 wins];[3 wins];[4 wins];[5 wins];[6 wins];[7 wins];[8 wins];[9 wins];[10 wins]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97875	multisell_id_list={10230;10231;10232;10233;10234;10235;10236;10237;10238;10239}	multisell_name={[1 win];[2 wins];[3 wins];[4 wins];[5 wins];[6 wins];[7 wins];[8 wins];[9 wins];[10 wins]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97876	multisell_id_list={10230;10231;10232;10233;10234;10235;10236;10237;10238;10239}	multisell_name={[1 win];[2 wins];[3 wins];[4 wins];[5 wins];[6 wins];[7 wins];[8 wins];[9 wins];[10 wins]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=100962	multisell_id_list={10240}	multisell_name={[Master's Books]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101209	multisell_id_list={10241}	multisell_name={[Spellbooks - 1 Star]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101234	multisell_id_list={10242}	multisell_name={[A-grade Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101258	multisell_id_list={10243}	multisell_name={[A-grade Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101261	multisell_id_list={10244}	multisell_name={[Hunter's Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101263	multisell_id_list={10245}	multisell_name={[A-grade Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101264	multisell_id_list={10246}	multisell_name={[A-grade Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101266	multisell_id_list={10247}	multisell_name={[+5 A-grade Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101335	multisell_id_list={10248}	multisell_name={[+5 Spirit Agathions]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101336	multisell_id_list={10249}	multisell_name={[Talisman Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101345	multisell_id_list={10250}	multisell_name={[Enhanced Special Equipment, Transcendent Upgrade Stones]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101346	multisell_id_list={10251}	multisell_name={[Enhanced Special Equipment, Transcendent Upgrade Stones]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101376	multisell_id_list={10252}	multisell_name={[Scrolls: Enchant Weapon/ Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101431	multisell_id_list={10253}	multisell_name={[R-grade Armor Coupons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101432	multisell_id_list={10254}	multisell_name={[Special Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101449	multisell_id_list={10255}	multisell_name={[Dyes, Hidden Power Boosters]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101450	multisell_id_list={10256}	multisell_name={[+6 Talismans]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101481	multisell_id_list={10257}	multisell_name={[Spellbook Fragment Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101499	multisell_id_list={10258}	multisell_name={[Dyes Lv. 15]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101523	multisell_id_list={10259}	multisell_name={[+8 Spirit Agathions]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101539	multisell_id_list={10260}	multisell_name={[Augmenting Stones]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101540	multisell_id_list={10261}	multisell_name={[Upgrade Stones]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=94636	multisell_id_list={10263}	multisell_name={[Scrolls: Boost Pet's Attack/ Defense]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101684	multisell_id_list={10264}	multisell_name={[Server Transfer Selection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101685	multisell_id_list={10265}	multisell_name={[Collection Transfer Selection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101686	multisell_id_list={10266}	multisell_name={[Doll Transfer Selection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101687	multisell_id_list={10267}	multisell_name={[Aden Laboratory Transfer Selection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101688	multisell_id_list={10268}	multisell_name={[Subsequent Server Transfer Selection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101689	multisell_id_list={10269}	multisell_name={[Subsequent Server Transfer Selection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101690	multisell_id_list={10270}	multisell_name={[Subsequent Server Transfer Selection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101691	multisell_id_list={10271}	multisell_name={[Subsequent Server Transfer Selection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101692	multisell_id_list={10272}	multisell_name={[Subsequent Server Transfer Selection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101693	multisell_id_list={10273}	multisell_name={[Subsequent Server Transfer Selection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101694	multisell_id_list={10274}	multisell_name={[Subsequent Server Transfer Selection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101695	multisell_id_list={10275}	multisell_name={[Subsequent Server Transfer Selection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101696	multisell_id_list={10276}	multisell_name={[Subsequent Collection Transfer Selection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101697	multisell_id_list={10277}	multisell_name={[Subsequent Collection Transfer Selection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101698	multisell_id_list={10278}	multisell_name={[Subsequent Doll Transfer Selection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101699	multisell_id_list={10279}	multisell_name={[Subsequent Doll Transfer Selection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101700	multisell_id_list={10280}	multisell_name={[Subsequent Aden Laboratory Transfer Selection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101701	multisell_id_list={10281}	multisell_name={[Subsequent Aden Laboratory Transfer Selection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101721	multisell_id_list={10282}	multisell_name={[Augmenting Stones]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101722	multisell_id_list={10283}	multisell_name={[+5 Hunter's Armor and Enchant Scrolls]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101723	multisell_id_list={10284}	multisell_name={[+6 Talismans and Talisman of Baium]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101751	multisell_id_list={10285}	multisell_name={[Item Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101752	multisell_id_list={10286}	multisell_name={[March Pass' Special Coin Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101770	multisell_id_list={10305}	multisell_name={[+5 Special Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101771	multisell_id_list={10306}	multisell_name={[+6 Boss Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101768	multisell_id_list={10307}	multisell_name={[Returnees and Players' Appreciation Tickets]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101769	multisell_id_list={10308}	multisell_name={[Returnees and Players' Appreciation Tickets]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101802	multisell_id_list={10309}	multisell_name={[Special Equipment Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101869	multisell_id_list={10310}	multisell_name={[Armor Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101870	multisell_id_list={10311}	multisell_name={[Weapon Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101871	multisell_id_list={10312}	multisell_name={[Upgrade Stone Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101878	multisell_id_list={10313}	multisell_name={[+3 Spirit Agathions]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101910	multisell_id_list={10314}	multisell_name={[+7 Boss Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=49758	multisell_id_list={10315}	multisell_name={[Blood Crystals]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101917	multisell_id_list={10316}	multisell_name={[Magic Runes]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101922	multisell_id_list={10317}	multisell_name={[Dyes Lv. 0]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101926	multisell_id_list={10318}	multisell_name={[Gemstone Fragment Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=90835	multisell_id_list={10319}	multisell_name={[Life Control Tower's Scrolls of Blessing]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101931	multisell_id_list={10320}	multisell_name={[April Pass' Special Coin Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101933	multisell_id_list={10321}	multisell_name={[Enhanced Doll Summon Coupons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101934	multisell_id_list={10322}	multisell_name={[Battle Assist Equipment Coupons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101977	multisell_id_list={10323}	multisell_name={[Augmenting Stones]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101980	multisell_id_list={10324}	multisell_name={[+5 Armor Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101967	multisell_id_list={10325}	multisell_name={[Dye/ Hidden Power Boosters]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101968	multisell_id_list={10326}	multisell_name={[+6 Armor of Protection (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=101961	multisell_id_list={10327}	multisell_name={[+6 Boss Weapons (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102036	multisell_id_list={10328}	multisell_name={[Blessed Augmenting Stones]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102035	multisell_id_list={10329}	multisell_name={[Hunter's Armor (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102034	multisell_id_list={10330}	multisell_name={[Talismans]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102032	multisell_id_list={10331}	multisell_name={[Accessories]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102033	multisell_id_list={10332}	multisell_name={[Accessories]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102041	multisell_id_list={10333}	multisell_name={[Equipment Coupons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102042	multisell_id_list={10334}	multisell_name={[Enchanted Equipment Coupons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102050	multisell_id_list={10335}	multisell_name={[+5 Hunter's Armor (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102073	multisell_id_list={10336}	multisell_name={[May Pass' Special Coin Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102075	multisell_id_list={10337}	multisell_name={[Onyx/ Spinel/ Zircon Lv. 6]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102079	multisell_id_list={10338}	multisell_name={[Armor of Protection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=94469	multisell_id_list={10339}	multisell_name={[Advanced Guardian Book Coupons (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=94471	multisell_id_list={10340}	multisell_name={[Advanced Guardian Book Coupons (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=94472	multisell_id_list={10341}	multisell_name={[Advanced Guardian Book Coupons (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=94475	multisell_id_list={10342}	multisell_name={[Advanced Guardian Book Coupons (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=94477	multisell_id_list={10343}	multisell_name={[Advanced Guardian Book Coupons (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98994	multisell_id_list={10344}	multisell_name={[Advanced Guardian Book Coupons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97375	multisell_id_list={10345}	multisell_name={[Rare Guardian Book Coupons (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97376	multisell_id_list={10346}	multisell_name={[Rare Guardian Book Coupons (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97377	multisell_id_list={10347}	multisell_name={[Rare Guardian Book Coupons (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97378	multisell_id_list={10348}	multisell_name={[Rare Guardian Book Coupons (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97379	multisell_id_list={10349}	multisell_name={[Rare Guardian Book Coupons (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97380	multisell_id_list={10350}	multisell_name={[Rare Guardian Book Coupons (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98892	multisell_id_list={10351}	multisell_name={[Rare Guardian Book Coupons (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98995	multisell_id_list={10352}	multisell_name={[Rare Guardian Book Coupons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=94476	multisell_id_list={10353}	multisell_name={[Heroic Guardian Book Coupons (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=94478	multisell_id_list={10354}	multisell_name={[Heroic Guardian Book Coupons (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97381	multisell_id_list={10355}	multisell_name={[Heroic Guardian Book Coupons (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98929	multisell_id_list={10356}	multisell_name={[Heroic Guardian Book Coupons (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98930	multisell_id_list={10357}	multisell_name={[Heroic Guardian Book Coupons (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98996	multisell_id_list={10358}	multisell_name={[Heroic Guardian Book Coupons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102092	multisell_id_list={10359}	multisell_name={[Prime Circlet Tickets]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102093	multisell_id_list={10360}	multisell_name={[Prime Upgrade Stone Tickets]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102094	multisell_id_list={10361}	multisell_name={[Special Equipment Coupons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102103	multisell_id_list={10362}	multisell_name={[Selection Coupons: Guardian Accessory]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102272	multisell_id_list={10363}	multisell_name={[June Pass' Special Coin Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102274	multisell_id_list={10364}	multisell_name={[Selection Coupons: +7 Talisman]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102278	multisell_id_list={10365}	multisell_name={[Ruby/ Diamond Jewelry Boxes]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102300	multisell_id_list={10366}	multisell_name={[Chosen's Spec Upgrade Coupons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102299	multisell_id_list={10367}	multisell_name={[Wasteland's Chosen Tickets]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102335	multisell_id_list={10368}	multisell_name={[Guardian Accessories]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102314	multisell_id_list={10369}	multisell_name={[+6 Special Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102366	multisell_id_list={10378}	multisell_name={[Special Equipment Coupons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102374	multisell_id_list={10379}	multisell_name={[Selection Coupons: Augmenting Stone]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102375	multisell_id_list={10380}	multisell_name={[Selection Coupons: Talisman]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102400	multisell_id_list={10381}	multisell_name={[Aden's Exploration Reports]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102401	multisell_id_list={10382}	multisell_name={[Aden's Exploration Reports]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102402	multisell_id_list={10383}	multisell_name={[Aden's Exploration Reports]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102403	multisell_id_list={10384}	multisell_name={[Aden's Exploration Reports]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102406	multisell_id_list={10385}	multisell_name={[Gran Kain's Coupons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102448	multisell_id_list={10386}	multisell_name={[July Pass' Special Coin Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102450	multisell_id_list={10387}	multisell_name={[Superior Doll Summon Coupons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102467	multisell_id_list={10388}	multisell_name={[Superior Doll Summon Coupons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97190	multisell_id_list={10389}	multisell_name={[Summoner's Spellbooks - 2 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97189	multisell_id_list={10390}	multisell_name={[Summoner's Spellbooks - 2 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97199	multisell_id_list={10391}	multisell_name={[Summoner's Spellbooks - 2 Stars (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97198	multisell_id_list={10392}	multisell_name={[Summoner's Spellbooks - 2 Stars (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=93870	multisell_id_list={10393}	multisell_name={[Summoner's Spellbooks - 3 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97188	multisell_id_list={10394}	multisell_name={[Summoner's Spellbooks - 3 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98446	multisell_id_list={10395}	multisell_name={[Summoner's Spellbooks - 3 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=95514	multisell_id_list={10396}	multisell_name={[Summoner's Spellbooks - 3 Stars (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=97197	multisell_id_list={10397}	multisell_name={[Summoner's Spellbooks - 3 Stars (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=98447	multisell_id_list={10398}	multisell_name={[Summoner's Spellbooks - 3 Stars (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102514	multisell_id_list={10399;10400;10401;10402}	multisell_name={[Frozen Weapon];[Sealed Frozen Weapon];[Boss Weapon];[Sealed Boss Weapon]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102515	multisell_id_list={10403;10404;10405;10406}	multisell_name={[Armor of Protection];[Sealed Armor of Protection];[Special Armor];[Sealed Special Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102516	multisell_id_list={10407;10408;10409;10410}	multisell_name={[Spellbooks - 3 Stars];[Sealed Spellbooks - 3 Stars];[Spellbooks - 4 Stars];[Sealed Spellbooks - 4 Stars Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102517	multisell_id_list={10411}	multisell_name={[Class Change Support]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102521	multisell_id_list={10412}	multisell_name={[+5 Frost Lord's Weapons (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102522	multisell_id_list={10413}	multisell_name={[+5 Armor of Protection (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102528	multisell_id_list={10414}	multisell_name={[Player's Rewards]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102534	multisell_id_list={10415}	multisell_name={[Selection Coupons: Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102535	multisell_id_list={10416}	multisell_name={[Selection Coupons: Weapon]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102536	multisell_id_list={10417}	multisell_name={[Selection Coupons: Dragon Belt]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102537	multisell_id_list={10418}	multisell_name={[Selection Coupons: Cloak of Protection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102538	multisell_id_list={10419}	multisell_name={[Selection Coupons: Einhasad's Pendant]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102539	multisell_id_list={10420}	multisell_name={[Selection Coupons: Talisman of Authority]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102540	multisell_id_list={10421}	multisell_name={[Selection Coupons: Onyx/ Spinel/ Zircon]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102541	multisell_id_list={10422}	multisell_name={[Selection Coupons: Spirit Agathion]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102542	multisell_id_list={10423}	multisell_name={[Selection Coupons: Circlet of Hero]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102543	multisell_id_list={10424}	multisell_name={[Selection Coupons: Phantom Mask]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102544	multisell_id_list={10425}	multisell_name={[Selection Coupons: +5 Sealed Hunter's Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102545	multisell_id_list={10426}	multisell_name={[Selection Coupons: +5 Sealed Special Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102546	multisell_id_list={10427}	multisell_name={[Selection Coupons: +6 Sealed Special Armor]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102547	multisell_id_list={10428}	multisell_name={[Selection Coupons: +5 Sealed A-grade Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102548	multisell_id_list={10429}	multisell_name={[Selection Coupons: +5 Sealed Boss Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102549	multisell_id_list={10430}	multisell_name={[Selection Coupons: +6 Sealed Boss Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102550	multisell_id_list={10431}	multisell_name={[Selection Coupons: +6 Spirit Agathion]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102551	multisell_id_list={10432}	multisell_name={[Selection Coupons: +7 Spirit Agathion]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102552	multisell_id_list={10433}	multisell_name={[Selection Coupons: +8 Spirit Agathion]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102553	multisell_id_list={10434}	multisell_name={[Selection Coupons: Talisman of Eva]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102554	multisell_id_list={10435}	multisell_name={[Selection Coupons: Talisman of Speed]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102555	multisell_id_list={10436}	multisell_name={[Selection Coupons: Dragon Belt]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102556	multisell_id_list={10437}	multisell_name={[Selection Coupons: Cloak of Protection]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102557	multisell_id_list={10438}	multisell_name={[Selection Coupons: Einhasad's Pendant]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102558	multisell_id_list={10439}	multisell_name={[Selection Coupons: Talisman of Authority]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102559	multisell_id_list={10440}	multisell_name={[Selection Coupons: Spirit Agathion]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102563	multisell_id_list={10441}	multisell_name={[+6 Frost Lord's Weapons (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102562	multisell_id_list={10442}	multisell_name={[+6 Armor of Protection (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102634	multisell_id_list={10443}	multisell_name={[Supply Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102638	multisell_id_list={10444;10445;10446}	multisell_name={[Death Knight's Flame Swords];[Immortal One-handed Weapons];[Immortal Two-handed Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102652	multisell_id_list={10447}	multisell_name={[August Pass' Special Coin Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102654	multisell_id_list={10448}	multisell_name={[+9 Spirit Agathions]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102655	multisell_id_list={10449}	multisell_name={[Enchant Scrolls]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102703	multisell_id_list={10450}	multisell_name={[Frost Lord's Weapons (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102704	multisell_id_list={10451}	multisell_name={[Armor of Protection (Sealed)]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102706	multisell_id_list={10452}	multisell_name={[Selection Coupons: Talisman of Speed]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102708	multisell_id_list={10453}	multisell_name={[Phantom Mask/ Piercing Mask]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102714	multisell_id_list={10454}	multisell_name={[Jewels Lv. 5]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102715	multisell_id_list={10455}	multisell_name={[+2 Rare Accessories]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102716	multisell_id_list={10456}	multisell_name={[Sealed Dyes Lv. 20]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102717	multisell_id_list={10457}	multisell_name={[Superior Doll Summon Coupons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102734	multisell_id_list={10458}	multisell_name={[September Pass' Special Coin Exchange]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102736	multisell_id_list={10459}	multisell_name={[Fafurion's Special Coins]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102738	multisell_id_list={10460}	multisell_name={[Superior Dolls]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102739	multisell_id_list={10461}	multisell_name={[Spellbooks - 1 Star]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102740	multisell_id_list={10462}	multisell_name={[Spellbooks - 2 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102741	multisell_id_list={10463}	multisell_name={[Spellbooks - 3 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102742	multisell_id_list={10464}	multisell_name={[Master's Books]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102745	multisell_id_list={10465}	multisell_name={[+5 Sealed Boss Weapons]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102751	multisell_id_list={10470;10469;10468;10467;10466}	multisell_name={[Jewelry Boxes Lv. 5];[Jewelry Boxes Lv. 4];[Jewelry Boxes Lv. 3];[Jewelry Boxes Lv. 2];[Jewelry Boxes Lv. 1]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102756	multisell_id_list={10471}	multisell_name={[Sealed Dyes]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=102796	multisell_id_list={10477;10478;10479;10480;10481}	multisell_name={[Lv. 5-9];[Lv. 10-14];[Lv. 15-19];[Lv. 20-24];[Lv. 25-30]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=72426	multisell_id_list={70001}	multisell_name={[Spellbooks - 2 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=72448	multisell_id_list={70002}	multisell_name={[Colorful Yarn]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=72422	multisell_id_list={70004}	multisell_name={[Zenith Coins]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=72488	multisell_id_list={70005}	multisell_name={[Master's Spellbooks - 4 Stars]}	unk={}	itemMultisell_end
+itemMultisell_begin	itemClassID=72489	multisell_id_list={70006}	multisell_name={[Spellbooks - 4 Stars]}	unk={}	itemMultisell_end

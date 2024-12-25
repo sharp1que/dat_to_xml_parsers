@@ -1,0 +1,1467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<skill id="88124" toLevel="65" name="Double Hurricane Assault">
+    <castRange>
+      <value fromLevel="1" toLevel="45">120</value>
+      <value fromLevel="46" toLevel="65">200</value>
+    </castRange>
+    <effectPoint>
+      <value level="1">-175</value>
+      <value level="2">-180</value>
+      <value level="3">-185</value>
+      <value level="4">-190</value>
+      <value level="5">-195</value>
+      <value level="6">-200</value>
+      <value level="7">-205</value>
+      <value level="8">-210</value>
+      <value level="9">-215</value>
+      <value level="10">-220</value>
+      <value level="11">-225</value>
+      <value level="12">-230</value>
+      <value level="13">-235</value>
+      <value level="14">-240</value>
+      <value level="15">-245</value>
+      <value level="16">-250</value>
+      <value level="17">-255</value>
+      <value level="18">-260</value>
+      <value level="19">-265</value>
+      <value level="20">-270</value>
+      <value level="21">-275</value>
+      <value level="22">-280</value>
+      <value level="23">-285</value>
+      <value level="24">-290</value>
+      <value level="25">-295</value>
+      <value level="26">-300</value>
+      <value level="27">-305</value>
+      <value level="28">-310</value>
+      <value level="29">-315</value>
+      <value level="30">-320</value>
+      <value level="31">-325</value>
+      <value level="32">-330</value>
+      <value level="33">-335</value>
+      <value level="34">-340</value>
+      <value level="35">-345</value>
+      <value level="36">-350</value>
+      <value level="37">-355</value>
+      <value level="38">-360</value>
+      <value level="39">-365</value>
+      <value level="40">-370</value>
+      <value level="41">-375</value>
+      <value level="42">-380</value>
+      <value level="43">-385</value>
+      <value level="44">-390</value>
+      <value level="45">-395</value>
+      <value level="46">-400</value>
+      <value level="47">-405</value>
+      <value level="48">-410</value>
+      <value level="49">-415</value>
+      <value level="50">-420</value>
+      <value level="51">-425</value>
+      <value level="52">-430</value>
+      <value level="53">-435</value>
+      <value level="54">-440</value>
+      <value level="55">-445</value>
+      <value level="56">-450</value>
+      <value level="57">-455</value>
+      <value level="58">-460</value>
+      <value level="59">-465</value>
+      <value level="60">-470</value>
+      <value level="61">-475</value>
+      <value level="62">-480</value>
+      <value level="63">-485</value>
+      <value level="64">-490</value>
+      <value level="65">-495</value>
+    </effectPoint>
+    <effectRange>600</effectRange>
+    <hitTime>1800</hitTime>
+    <magicLevel>
+      <value level="1">31</value>
+      <value level="2">32</value>
+      <value level="3">33</value>
+      <value level="4">34</value>
+      <value level="5">35</value>
+      <value level="6">40</value>
+      <value level="7">40</value>
+      <value level="8">40</value>
+      <value level="9">40</value>
+      <value level="10">40</value>
+      <value level="11">41</value>
+      <value level="12">42</value>
+      <value level="13">43</value>
+      <value level="14">44</value>
+      <value level="15">45</value>
+      <value level="16">46</value>
+      <value level="17">47</value>
+      <value level="18">48</value>
+      <value level="19">49</value>
+      <value level="20">50</value>
+      <value level="21">51</value>
+      <value level="22">52</value>
+      <value level="23">53</value>
+      <value level="24">54</value>
+      <value level="25">55</value>
+      <value level="26">56</value>
+      <value level="27">57</value>
+      <value level="28">58</value>
+      <value level="29">59</value>
+      <value level="30">60</value>
+      <value level="31">61</value>
+      <value level="32">62</value>
+      <value level="33">63</value>
+      <value level="34">64</value>
+      <value level="35">65</value>
+      <value level="36">66</value>
+      <value level="37">67</value>
+      <value level="38">68</value>
+      <value level="39">69</value>
+      <value level="40">70</value>
+      <value level="41">71</value>
+      <value level="42">72</value>
+      <value level="43">73</value>
+      <value level="44">74</value>
+      <value level="45">75</value>
+      <value level="46">76</value>
+      <value level="47">77</value>
+      <value level="48">78</value>
+      <value level="49">79</value>
+      <value level="50">80</value>
+      <value level="51">81</value>
+      <value level="52">82</value>
+      <value level="53">83</value>
+      <value level="54">84</value>
+      <value level="55">85</value>
+      <value level="56">86</value>
+      <value level="57">87</value>
+      <value level="58">88</value>
+      <value level="59">89</value>
+      <value level="60">90</value>
+      <value level="61">91</value>
+      <value level="62">92</value>
+      <value level="63">93</value>
+      <value level="64">93</value>
+      <value level="65">93</value>
+    </magicLevel>
+    <mpConsume>
+      <value level="1">26</value>
+      <value level="2">27</value>
+      <value level="3">27</value>
+      <value level="4">28</value>
+      <value level="5">29</value>
+      <value level="6">30</value>
+      <value level="7">30</value>
+      <value level="8">31</value>
+      <value level="9">32</value>
+      <value level="10">33</value>
+      <value level="11">33</value>
+      <value level="12">34</value>
+      <value level="13">35</value>
+      <value level="14">36</value>
+      <value level="15">36</value>
+      <value level="16">37</value>
+      <value level="17">38</value>
+      <value level="18">39</value>
+      <value level="19">39</value>
+      <value level="20">40</value>
+      <value level="21">41</value>
+      <value level="22">42</value>
+      <value level="23">42</value>
+      <value level="24">43</value>
+      <value level="25">44</value>
+      <value level="26">45</value>
+      <value level="27">45</value>
+      <value level="28">46</value>
+      <value level="29">47</value>
+      <value level="30">48</value>
+      <value level="31">48</value>
+      <value level="32">49</value>
+      <value level="33">50</value>
+      <value level="34">51</value>
+      <value level="35">51</value>
+      <value level="36">52</value>
+      <value level="37">53</value>
+      <value level="38">54</value>
+      <value level="39">54</value>
+      <value level="40">55</value>
+      <value level="41">56</value>
+      <value level="42">57</value>
+      <value level="43">57</value>
+      <value level="44">58</value>
+      <value level="45">59</value>
+      <value level="46">60</value>
+      <value level="47">60</value>
+      <value level="48">61</value>
+      <value level="49">62</value>
+      <value level="50">63</value>
+      <value level="51">63</value>
+      <value level="52">64</value>
+      <value level="53">65</value>
+      <value level="54">66</value>
+      <value level="55">66</value>
+      <value level="56">67</value>
+      <value level="57">68</value>
+      <value level="58">69</value>
+      <value level="59">69</value>
+      <value level="60">70</value>
+      <value level="61">72</value>
+      <value level="62">74</value>
+      <value level="63">76</value>
+      <value level="64">78</value>
+      <value level="65">80</value>
+    </mpConsume>
+    <operateType>A1</operateType>
+    <reuseDelay>1000</reuseDelay>
+    <targetType>ENEMY</targetType>
+    <affectScope>SINGLE</affectScope>
+    <conditions>
+      <condition name="EquipWeapon">
+        <weaponType>
+          <item>DUALFIST</item>
+        </weaponType>
+      </condition>
+    </conditions>
+    <effects>
+      <effect name="PhysicalAttack">
+        <power>
+          <value level="1">464</value>
+          <value level="2">476</value>
+          <value level="3">489</value>
+          <value level="4">501</value>
+          <value level="5">514</value>
+          <value level="6">728</value>
+          <value level="7">803</value>
+          <value level="8">878</value>
+          <value level="9">954</value>
+          <value level="10">1030</value>
+          <value level="11">1106</value>
+          <value level="12">1183</value>
+          <value level="13">1260</value>
+          <value level="14">1336</value>
+          <value level="15">1414</value>
+          <value level="16">1492</value>
+          <value level="17">1569</value>
+          <value level="18">1648</value>
+          <value level="19">1727</value>
+          <value level="20">1806</value>
+          <value level="21">1884</value>
+          <value level="22">1964</value>
+          <value level="23">2044</value>
+          <value level="24">2124</value>
+          <value level="25">2203</value>
+          <value level="26">2284</value>
+          <value level="27">2365</value>
+          <value level="28">2446</value>
+          <value level="29">2527</value>
+          <value level="30">2608</value>
+          <value level="31">2690</value>
+          <value level="32">2772</value>
+          <value level="33">2853</value>
+          <value level="34">2935</value>
+          <value level="35">3018</value>
+          <value level="36">3101</value>
+          <value level="37">3184</value>
+          <value level="38">3267</value>
+          <value level="39">3350</value>
+          <value level="40">3434</value>
+          <value level="41">3517</value>
+          <value level="42">3601</value>
+          <value level="43">3686</value>
+          <value level="44">3770</value>
+          <value level="45">3854</value>
+          <value level="46">4684</value>
+          <value level="47">4750</value>
+          <value level="48">4817</value>
+          <value level="49">4884</value>
+          <value level="50">4950</value>
+          <value level="51">5017</value>
+          <value level="52">5085</value>
+          <value level="53">5152</value>
+          <value level="54">5219</value>
+          <value level="55">5286</value>
+          <value level="56">5353</value>
+          <value level="57">5421</value>
+          <value level="58">5488</value>
+          <value level="59">5556</value>
+          <value level="60">5623</value>
+          <value level="61">5791</value>
+          <value level="62">5964</value>
+          <value level="63">6142</value>
+          <value level="64">6326</value>
+          <value level="65">6515</value>
+        </power>
+        <ignoreShieldDefence>true</ignoreShieldDefence>
+        <criticalChance>15</criticalChance>
+        <overHit>true</overHit>
+      </effect>
+      <effect name="PhysicalAttack">
+        <power>
+          <value level="1">464</value>
+          <value level="2">476</value>
+          <value level="3">489</value>
+          <value level="4">501</value>
+          <value level="5">514</value>
+          <value level="6">728</value>
+          <value level="7">803</value>
+          <value level="8">878</value>
+          <value level="9">954</value>
+          <value level="10">1030</value>
+          <value level="11">1106</value>
+          <value level="12">1183</value>
+          <value level="13">1260</value>
+          <value level="14">1336</value>
+          <value level="15">1414</value>
+          <value level="16">1492</value>
+          <value level="17">1569</value>
+          <value level="18">1648</value>
+          <value level="19">1727</value>
+          <value level="20">1806</value>
+          <value level="21">1884</value>
+          <value level="22">1964</value>
+          <value level="23">2044</value>
+          <value level="24">2124</value>
+          <value level="25">2203</value>
+          <value level="26">2284</value>
+          <value level="27">2365</value>
+          <value level="28">2446</value>
+          <value level="29">2527</value>
+          <value level="30">2608</value>
+          <value level="31">2690</value>
+          <value level="32">2772</value>
+          <value level="33">2853</value>
+          <value level="34">2935</value>
+          <value level="35">3018</value>
+          <value level="36">3101</value>
+          <value level="37">3184</value>
+          <value level="38">3267</value>
+          <value level="39">3350</value>
+          <value level="40">3434</value>
+          <value level="41">3517</value>
+          <value level="42">3601</value>
+          <value level="43">3686</value>
+          <value level="44">3770</value>
+          <value level="45">3854</value>
+          <value level="46">4684</value>
+          <value level="47">4750</value>
+          <value level="48">4817</value>
+          <value level="49">4884</value>
+          <value level="50">4950</value>
+          <value level="51">5017</value>
+          <value level="52">5085</value>
+          <value level="53">5152</value>
+          <value level="54">5219</value>
+          <value level="55">5286</value>
+          <value level="56">5353</value>
+          <value level="57">5421</value>
+          <value level="58">5488</value>
+          <value level="59">5556</value>
+          <value level="60">5623</value>
+          <value level="61">5791</value>
+          <value level="62">5964</value>
+          <value level="63">6142</value>
+          <value level="64">6326</value>
+          <value level="65">6515</value>
+        </power>
+        <ignoreShieldDefence>true</ignoreShieldDefence>
+        <criticalChance>15</criticalChance>
+        <overHit>true</overHit>
+      </effect>
+    </effects>
+  </skill>
+  <skill id="88124" toLevel="65" name="Double Hurricane Assault">
+    <castRange>
+      <value fromLevel="1" toLevel="45">120</value>
+      <value fromLevel="46" toLevel="65">200</value>
+    </castRange>
+    <effectPoint>
+      <value level="1">-175</value>
+      <value level="2">-180</value>
+      <value level="3">-185</value>
+      <value level="4">-190</value>
+      <value level="5">-195</value>
+      <value level="6">-200</value>
+      <value level="7">-205</value>
+      <value level="8">-210</value>
+      <value level="9">-215</value>
+      <value level="10">-220</value>
+      <value level="11">-225</value>
+      <value level="12">-230</value>
+      <value level="13">-235</value>
+      <value level="14">-240</value>
+      <value level="15">-245</value>
+      <value level="16">-250</value>
+      <value level="17">-255</value>
+      <value level="18">-260</value>
+      <value level="19">-265</value>
+      <value level="20">-270</value>
+      <value level="21">-275</value>
+      <value level="22">-280</value>
+      <value level="23">-285</value>
+      <value level="24">-290</value>
+      <value level="25">-295</value>
+      <value level="26">-300</value>
+      <value level="27">-305</value>
+      <value level="28">-310</value>
+      <value level="29">-315</value>
+      <value level="30">-320</value>
+      <value level="31">-325</value>
+      <value level="32">-330</value>
+      <value level="33">-335</value>
+      <value level="34">-340</value>
+      <value level="35">-345</value>
+      <value level="36">-350</value>
+      <value level="37">-355</value>
+      <value level="38">-360</value>
+      <value level="39">-365</value>
+      <value level="40">-370</value>
+      <value level="41">-375</value>
+      <value level="42">-380</value>
+      <value level="43">-385</value>
+      <value level="44">-390</value>
+      <value level="45">-395</value>
+      <value level="46">-400</value>
+      <value level="47">-405</value>
+      <value level="48">-410</value>
+      <value level="49">-415</value>
+      <value level="50">-420</value>
+      <value level="51">-425</value>
+      <value level="52">-430</value>
+      <value level="53">-435</value>
+      <value level="54">-440</value>
+      <value level="55">-445</value>
+      <value level="56">-450</value>
+      <value level="57">-455</value>
+      <value level="58">-460</value>
+      <value level="59">-465</value>
+      <value level="60">-470</value>
+      <value level="61">-475</value>
+      <value level="62">-480</value>
+      <value level="63">-485</value>
+      <value level="64">-490</value>
+      <value level="65">-495</value>
+    </effectPoint>
+    <effectRange>600</effectRange>
+    <hitTime>1800</hitTime>
+    <magicLevel>
+      <value level="1">31</value>
+      <value level="2">32</value>
+      <value level="3">33</value>
+      <value level="4">34</value>
+      <value level="5">35</value>
+      <value level="6">40</value>
+      <value level="7">40</value>
+      <value level="8">40</value>
+      <value level="9">40</value>
+      <value level="10">40</value>
+      <value level="11">41</value>
+      <value level="12">42</value>
+      <value level="13">43</value>
+      <value level="14">44</value>
+      <value level="15">45</value>
+      <value level="16">46</value>
+      <value level="17">47</value>
+      <value level="18">48</value>
+      <value level="19">49</value>
+      <value level="20">50</value>
+      <value level="21">51</value>
+      <value level="22">52</value>
+      <value level="23">53</value>
+      <value level="24">54</value>
+      <value level="25">55</value>
+      <value level="26">56</value>
+      <value level="27">57</value>
+      <value level="28">58</value>
+      <value level="29">59</value>
+      <value level="30">60</value>
+      <value level="31">61</value>
+      <value level="32">62</value>
+      <value level="33">63</value>
+      <value level="34">64</value>
+      <value level="35">65</value>
+      <value level="36">66</value>
+      <value level="37">67</value>
+      <value level="38">68</value>
+      <value level="39">69</value>
+      <value level="40">70</value>
+      <value level="41">71</value>
+      <value level="42">72</value>
+      <value level="43">73</value>
+      <value level="44">74</value>
+      <value level="45">75</value>
+      <value level="46">76</value>
+      <value level="47">77</value>
+      <value level="48">78</value>
+      <value level="49">79</value>
+      <value level="50">80</value>
+      <value level="51">81</value>
+      <value level="52">82</value>
+      <value level="53">83</value>
+      <value level="54">84</value>
+      <value level="55">85</value>
+      <value level="56">86</value>
+      <value level="57">87</value>
+      <value level="58">88</value>
+      <value level="59">89</value>
+      <value level="60">90</value>
+      <value level="61">91</value>
+      <value level="62">92</value>
+      <value level="63">93</value>
+      <value level="64">93</value>
+      <value level="65">93</value>
+    </magicLevel>
+    <mpConsume>
+      <value level="1">26</value>
+      <value level="2">27</value>
+      <value level="3">27</value>
+      <value level="4">28</value>
+      <value level="5">29</value>
+      <value level="6">30</value>
+      <value level="7">30</value>
+      <value level="8">31</value>
+      <value level="9">32</value>
+      <value level="10">33</value>
+      <value level="11">33</value>
+      <value level="12">34</value>
+      <value level="13">35</value>
+      <value level="14">36</value>
+      <value level="15">36</value>
+      <value level="16">37</value>
+      <value level="17">38</value>
+      <value level="18">39</value>
+      <value level="19">39</value>
+      <value level="20">40</value>
+      <value level="21">41</value>
+      <value level="22">42</value>
+      <value level="23">42</value>
+      <value level="24">43</value>
+      <value level="25">44</value>
+      <value level="26">45</value>
+      <value level="27">45</value>
+      <value level="28">46</value>
+      <value level="29">47</value>
+      <value level="30">48</value>
+      <value level="31">48</value>
+      <value level="32">49</value>
+      <value level="33">50</value>
+      <value level="34">51</value>
+      <value level="35">51</value>
+      <value level="36">52</value>
+      <value level="37">53</value>
+      <value level="38">54</value>
+      <value level="39">54</value>
+      <value level="40">55</value>
+      <value level="41">56</value>
+      <value level="42">57</value>
+      <value level="43">57</value>
+      <value level="44">58</value>
+      <value level="45">59</value>
+      <value level="46">60</value>
+      <value level="47">60</value>
+      <value level="48">61</value>
+      <value level="49">62</value>
+      <value level="50">63</value>
+      <value level="51">63</value>
+      <value level="52">64</value>
+      <value level="53">65</value>
+      <value level="54">66</value>
+      <value level="55">66</value>
+      <value level="56">67</value>
+      <value level="57">68</value>
+      <value level="58">69</value>
+      <value level="59">69</value>
+      <value level="60">70</value>
+      <value level="61">72</value>
+      <value level="62">74</value>
+      <value level="63">76</value>
+      <value level="64">78</value>
+      <value level="65">80</value>
+    </mpConsume>
+    <operateType>A1</operateType>
+    <reuseDelay>1000</reuseDelay>
+    <targetType>ENEMY</targetType>
+    <affectScope>SINGLE</affectScope>
+    <conditions>
+      <condition name="EquipWeapon">
+        <weaponType>
+          <item>DUALFIST</item>
+        </weaponType>
+      </condition>
+    </conditions>
+    <effects>
+      <effect name="PhysicalAttack">
+        <power>
+          <value level="1">464</value>
+          <value level="2">476</value>
+          <value level="3">489</value>
+          <value level="4">501</value>
+          <value level="5">514</value>
+          <value level="6">728</value>
+          <value level="7">803</value>
+          <value level="8">878</value>
+          <value level="9">954</value>
+          <value level="10">1030</value>
+          <value level="11">1106</value>
+          <value level="12">1183</value>
+          <value level="13">1260</value>
+          <value level="14">1336</value>
+          <value level="15">1414</value>
+          <value level="16">1492</value>
+          <value level="17">1569</value>
+          <value level="18">1648</value>
+          <value level="19">1727</value>
+          <value level="20">1806</value>
+          <value level="21">1884</value>
+          <value level="22">1964</value>
+          <value level="23">2044</value>
+          <value level="24">2124</value>
+          <value level="25">2203</value>
+          <value level="26">2284</value>
+          <value level="27">2365</value>
+          <value level="28">2446</value>
+          <value level="29">2527</value>
+          <value level="30">2608</value>
+          <value level="31">2690</value>
+          <value level="32">2772</value>
+          <value level="33">2853</value>
+          <value level="34">2935</value>
+          <value level="35">3018</value>
+          <value level="36">3101</value>
+          <value level="37">3184</value>
+          <value level="38">3267</value>
+          <value level="39">3350</value>
+          <value level="40">3434</value>
+          <value level="41">3517</value>
+          <value level="42">3601</value>
+          <value level="43">3686</value>
+          <value level="44">3770</value>
+          <value level="45">3854</value>
+          <value level="46">4684</value>
+          <value level="47">4750</value>
+          <value level="48">4817</value>
+          <value level="49">4884</value>
+          <value level="50">4950</value>
+          <value level="51">5017</value>
+          <value level="52">5085</value>
+          <value level="53">5152</value>
+          <value level="54">5219</value>
+          <value level="55">5286</value>
+          <value level="56">5353</value>
+          <value level="57">5421</value>
+          <value level="58">5488</value>
+          <value level="59">5556</value>
+          <value level="60">5623</value>
+          <value level="61">5791</value>
+          <value level="62">5964</value>
+          <value level="63">6142</value>
+          <value level="64">6326</value>
+          <value level="65">6515</value>
+        </power>
+        <ignoreShieldDefence>true</ignoreShieldDefence>
+        <criticalChance>15</criticalChance>
+        <overHit>true</overHit>
+      </effect>
+      <effect name="PhysicalAttack">
+        <power>
+          <value level="1">464</value>
+          <value level="2">476</value>
+          <value level="3">489</value>
+          <value level="4">501</value>
+          <value level="5">514</value>
+          <value level="6">728</value>
+          <value level="7">803</value>
+          <value level="8">878</value>
+          <value level="9">954</value>
+          <value level="10">1030</value>
+          <value level="11">1106</value>
+          <value level="12">1183</value>
+          <value level="13">1260</value>
+          <value level="14">1336</value>
+          <value level="15">1414</value>
+          <value level="16">1492</value>
+          <value level="17">1569</value>
+          <value level="18">1648</value>
+          <value level="19">1727</value>
+          <value level="20">1806</value>
+          <value level="21">1884</value>
+          <value level="22">1964</value>
+          <value level="23">2044</value>
+          <value level="24">2124</value>
+          <value level="25">2203</value>
+          <value level="26">2284</value>
+          <value level="27">2365</value>
+          <value level="28">2446</value>
+          <value level="29">2527</value>
+          <value level="30">2608</value>
+          <value level="31">2690</value>
+          <value level="32">2772</value>
+          <value level="33">2853</value>
+          <value level="34">2935</value>
+          <value level="35">3018</value>
+          <value level="36">3101</value>
+          <value level="37">3184</value>
+          <value level="38">3267</value>
+          <value level="39">3350</value>
+          <value level="40">3434</value>
+          <value level="41">3517</value>
+          <value level="42">3601</value>
+          <value level="43">3686</value>
+          <value level="44">3770</value>
+          <value level="45">3854</value>
+          <value level="46">4684</value>
+          <value level="47">4750</value>
+          <value level="48">4817</value>
+          <value level="49">4884</value>
+          <value level="50">4950</value>
+          <value level="51">5017</value>
+          <value level="52">5085</value>
+          <value level="53">5152</value>
+          <value level="54">5219</value>
+          <value level="55">5286</value>
+          <value level="56">5353</value>
+          <value level="57">5421</value>
+          <value level="58">5488</value>
+          <value level="59">5556</value>
+          <value level="60">5623</value>
+          <value level="61">5791</value>
+          <value level="62">5964</value>
+          <value level="63">6142</value>
+          <value level="64">6326</value>
+          <value level="65">6515</value>
+        </power>
+        <ignoreShieldDefence>true</ignoreShieldDefence>
+        <criticalChance>15</criticalChance>
+        <overHit>true</overHit>
+      </effect>
+    </effects>
+  </skill>
+  <skill id="88124" toLevel="65" name="Double Hurricane Assault">
+    <castRange>
+      <value fromLevel="1" toLevel="45">120</value>
+      <value fromLevel="46" toLevel="65">200</value>
+    </castRange>
+    <effectPoint>
+      <value level="1">-175</value>
+      <value level="2">-180</value>
+      <value level="3">-185</value>
+      <value level="4">-190</value>
+      <value level="5">-195</value>
+      <value level="6">-200</value>
+      <value level="7">-205</value>
+      <value level="8">-210</value>
+      <value level="9">-215</value>
+      <value level="10">-220</value>
+      <value level="11">-225</value>
+      <value level="12">-230</value>
+      <value level="13">-235</value>
+      <value level="14">-240</value>
+      <value level="15">-245</value>
+      <value level="16">-250</value>
+      <value level="17">-255</value>
+      <value level="18">-260</value>
+      <value level="19">-265</value>
+      <value level="20">-270</value>
+      <value level="21">-275</value>
+      <value level="22">-280</value>
+      <value level="23">-285</value>
+      <value level="24">-290</value>
+      <value level="25">-295</value>
+      <value level="26">-300</value>
+      <value level="27">-305</value>
+      <value level="28">-310</value>
+      <value level="29">-315</value>
+      <value level="30">-320</value>
+      <value level="31">-325</value>
+      <value level="32">-330</value>
+      <value level="33">-335</value>
+      <value level="34">-340</value>
+      <value level="35">-345</value>
+      <value level="36">-350</value>
+      <value level="37">-355</value>
+      <value level="38">-360</value>
+      <value level="39">-365</value>
+      <value level="40">-370</value>
+      <value level="41">-375</value>
+      <value level="42">-380</value>
+      <value level="43">-385</value>
+      <value level="44">-390</value>
+      <value level="45">-395</value>
+      <value level="46">-400</value>
+      <value level="47">-405</value>
+      <value level="48">-410</value>
+      <value level="49">-415</value>
+      <value level="50">-420</value>
+      <value level="51">-425</value>
+      <value level="52">-430</value>
+      <value level="53">-435</value>
+      <value level="54">-440</value>
+      <value level="55">-445</value>
+      <value level="56">-450</value>
+      <value level="57">-455</value>
+      <value level="58">-460</value>
+      <value level="59">-465</value>
+      <value level="60">-470</value>
+      <value level="61">-475</value>
+      <value level="62">-480</value>
+      <value level="63">-485</value>
+      <value level="64">-490</value>
+      <value level="65">-495</value>
+    </effectPoint>
+    <effectRange>600</effectRange>
+    <hitTime>1800</hitTime>
+    <magicLevel>
+      <value level="1">31</value>
+      <value level="2">32</value>
+      <value level="3">33</value>
+      <value level="4">34</value>
+      <value level="5">35</value>
+      <value level="6">40</value>
+      <value level="7">40</value>
+      <value level="8">40</value>
+      <value level="9">40</value>
+      <value level="10">40</value>
+      <value level="11">41</value>
+      <value level="12">42</value>
+      <value level="13">43</value>
+      <value level="14">44</value>
+      <value level="15">45</value>
+      <value level="16">46</value>
+      <value level="17">47</value>
+      <value level="18">48</value>
+      <value level="19">49</value>
+      <value level="20">50</value>
+      <value level="21">51</value>
+      <value level="22">52</value>
+      <value level="23">53</value>
+      <value level="24">54</value>
+      <value level="25">55</value>
+      <value level="26">56</value>
+      <value level="27">57</value>
+      <value level="28">58</value>
+      <value level="29">59</value>
+      <value level="30">60</value>
+      <value level="31">61</value>
+      <value level="32">62</value>
+      <value level="33">63</value>
+      <value level="34">64</value>
+      <value level="35">65</value>
+      <value level="36">66</value>
+      <value level="37">67</value>
+      <value level="38">68</value>
+      <value level="39">69</value>
+      <value level="40">70</value>
+      <value level="41">71</value>
+      <value level="42">72</value>
+      <value level="43">73</value>
+      <value level="44">74</value>
+      <value level="45">75</value>
+      <value level="46">76</value>
+      <value level="47">77</value>
+      <value level="48">78</value>
+      <value level="49">79</value>
+      <value level="50">80</value>
+      <value level="51">81</value>
+      <value level="52">82</value>
+      <value level="53">83</value>
+      <value level="54">84</value>
+      <value level="55">85</value>
+      <value level="56">86</value>
+      <value level="57">87</value>
+      <value level="58">88</value>
+      <value level="59">89</value>
+      <value level="60">90</value>
+      <value level="61">91</value>
+      <value level="62">92</value>
+      <value level="63">93</value>
+      <value level="64">93</value>
+      <value level="65">93</value>
+    </magicLevel>
+    <mpConsume>
+      <value level="1">26</value>
+      <value level="2">27</value>
+      <value level="3">27</value>
+      <value level="4">28</value>
+      <value level="5">29</value>
+      <value level="6">30</value>
+      <value level="7">30</value>
+      <value level="8">31</value>
+      <value level="9">32</value>
+      <value level="10">33</value>
+      <value level="11">33</value>
+      <value level="12">34</value>
+      <value level="13">35</value>
+      <value level="14">36</value>
+      <value level="15">36</value>
+      <value level="16">37</value>
+      <value level="17">38</value>
+      <value level="18">39</value>
+      <value level="19">39</value>
+      <value level="20">40</value>
+      <value level="21">41</value>
+      <value level="22">42</value>
+      <value level="23">42</value>
+      <value level="24">43</value>
+      <value level="25">44</value>
+      <value level="26">45</value>
+      <value level="27">45</value>
+      <value level="28">46</value>
+      <value level="29">47</value>
+      <value level="30">48</value>
+      <value level="31">48</value>
+      <value level="32">49</value>
+      <value level="33">50</value>
+      <value level="34">51</value>
+      <value level="35">51</value>
+      <value level="36">52</value>
+      <value level="37">53</value>
+      <value level="38">54</value>
+      <value level="39">54</value>
+      <value level="40">55</value>
+      <value level="41">56</value>
+      <value level="42">57</value>
+      <value level="43">57</value>
+      <value level="44">58</value>
+      <value level="45">59</value>
+      <value level="46">60</value>
+      <value level="47">60</value>
+      <value level="48">61</value>
+      <value level="49">62</value>
+      <value level="50">63</value>
+      <value level="51">63</value>
+      <value level="52">64</value>
+      <value level="53">65</value>
+      <value level="54">66</value>
+      <value level="55">66</value>
+      <value level="56">67</value>
+      <value level="57">68</value>
+      <value level="58">69</value>
+      <value level="59">69</value>
+      <value level="60">70</value>
+      <value level="61">72</value>
+      <value level="62">74</value>
+      <value level="63">76</value>
+      <value level="64">78</value>
+      <value level="65">80</value>
+    </mpConsume>
+    <operateType>A1</operateType>
+    <reuseDelay>1000</reuseDelay>
+    <targetType>ENEMY</targetType>
+    <affectScope>SINGLE</affectScope>
+    <conditions>
+      <condition name="EquipWeapon">
+        <weaponType>
+          <item>DUALFIST</item>
+        </weaponType>
+      </condition>
+    </conditions>
+    <effects>
+      <effect name="PhysicalAttack">
+        <power>
+          <value level="1">464</value>
+          <value level="2">476</value>
+          <value level="3">489</value>
+          <value level="4">501</value>
+          <value level="5">514</value>
+          <value level="6">728</value>
+          <value level="7">803</value>
+          <value level="8">878</value>
+          <value level="9">954</value>
+          <value level="10">1030</value>
+          <value level="11">1106</value>
+          <value level="12">1183</value>
+          <value level="13">1260</value>
+          <value level="14">1336</value>
+          <value level="15">1414</value>
+          <value level="16">1492</value>
+          <value level="17">1569</value>
+          <value level="18">1648</value>
+          <value level="19">1727</value>
+          <value level="20">1806</value>
+          <value level="21">1884</value>
+          <value level="22">1964</value>
+          <value level="23">2044</value>
+          <value level="24">2124</value>
+          <value level="25">2203</value>
+          <value level="26">2284</value>
+          <value level="27">2365</value>
+          <value level="28">2446</value>
+          <value level="29">2527</value>
+          <value level="30">2608</value>
+          <value level="31">2690</value>
+          <value level="32">2772</value>
+          <value level="33">2853</value>
+          <value level="34">2935</value>
+          <value level="35">3018</value>
+          <value level="36">3101</value>
+          <value level="37">3184</value>
+          <value level="38">3267</value>
+          <value level="39">3350</value>
+          <value level="40">3434</value>
+          <value level="41">3517</value>
+          <value level="42">3601</value>
+          <value level="43">3686</value>
+          <value level="44">3770</value>
+          <value level="45">3854</value>
+          <value level="46">4684</value>
+          <value level="47">4750</value>
+          <value level="48">4817</value>
+          <value level="49">4884</value>
+          <value level="50">4950</value>
+          <value level="51">5017</value>
+          <value level="52">5085</value>
+          <value level="53">5152</value>
+          <value level="54">5219</value>
+          <value level="55">5286</value>
+          <value level="56">5353</value>
+          <value level="57">5421</value>
+          <value level="58">5488</value>
+          <value level="59">5556</value>
+          <value level="60">5623</value>
+          <value level="61">5791</value>
+          <value level="62">5964</value>
+          <value level="63">6142</value>
+          <value level="64">6326</value>
+          <value level="65">6515</value>
+        </power>
+        <ignoreShieldDefence>true</ignoreShieldDefence>
+        <criticalChance>15</criticalChance>
+        <overHit>true</overHit>
+      </effect>
+      <effect name="PhysicalAttack">
+        <power>
+          <value level="1">464</value>
+          <value level="2">476</value>
+          <value level="3">489</value>
+          <value level="4">501</value>
+          <value level="5">514</value>
+          <value level="6">728</value>
+          <value level="7">803</value>
+          <value level="8">878</value>
+          <value level="9">954</value>
+          <value level="10">1030</value>
+          <value level="11">1106</value>
+          <value level="12">1183</value>
+          <value level="13">1260</value>
+          <value level="14">1336</value>
+          <value level="15">1414</value>
+          <value level="16">1492</value>
+          <value level="17">1569</value>
+          <value level="18">1648</value>
+          <value level="19">1727</value>
+          <value level="20">1806</value>
+          <value level="21">1884</value>
+          <value level="22">1964</value>
+          <value level="23">2044</value>
+          <value level="24">2124</value>
+          <value level="25">2203</value>
+          <value level="26">2284</value>
+          <value level="27">2365</value>
+          <value level="28">2446</value>
+          <value level="29">2527</value>
+          <value level="30">2608</value>
+          <value level="31">2690</value>
+          <value level="32">2772</value>
+          <value level="33">2853</value>
+          <value level="34">2935</value>
+          <value level="35">3018</value>
+          <value level="36">3101</value>
+          <value level="37">3184</value>
+          <value level="38">3267</value>
+          <value level="39">3350</value>
+          <value level="40">3434</value>
+          <value level="41">3517</value>
+          <value level="42">3601</value>
+          <value level="43">3686</value>
+          <value level="44">3770</value>
+          <value level="45">3854</value>
+          <value level="46">4684</value>
+          <value level="47">4750</value>
+          <value level="48">4817</value>
+          <value level="49">4884</value>
+          <value level="50">4950</value>
+          <value level="51">5017</value>
+          <value level="52">5085</value>
+          <value level="53">5152</value>
+          <value level="54">5219</value>
+          <value level="55">5286</value>
+          <value level="56">5353</value>
+          <value level="57">5421</value>
+          <value level="58">5488</value>
+          <value level="59">5556</value>
+          <value level="60">5623</value>
+          <value level="61">5791</value>
+          <value level="62">5964</value>
+          <value level="63">6142</value>
+          <value level="64">6326</value>
+          <value level="65">6515</value>
+        </power>
+        <ignoreShieldDefence>true</ignoreShieldDefence>
+        <criticalChance>15</criticalChance>
+        <overHit>true</overHit>
+      </effect>
+    </effects>
+  </skill>
+  <skill id="88124" toLevel="65" name="Double Hurricane Assault">
+    <castRange>
+      <value fromLevel="1" toLevel="45">120</value>
+      <value fromLevel="46" toLevel="65">200</value>
+    </castRange>
+    <effectPoint>
+      <value level="1">-175</value>
+      <value level="2">-180</value>
+      <value level="3">-185</value>
+      <value level="4">-190</value>
+      <value level="5">-195</value>
+      <value level="6">-200</value>
+      <value level="7">-205</value>
+      <value level="8">-210</value>
+      <value level="9">-215</value>
+      <value level="10">-220</value>
+      <value level="11">-225</value>
+      <value level="12">-230</value>
+      <value level="13">-235</value>
+      <value level="14">-240</value>
+      <value level="15">-245</value>
+      <value level="16">-250</value>
+      <value level="17">-255</value>
+      <value level="18">-260</value>
+      <value level="19">-265</value>
+      <value level="20">-270</value>
+      <value level="21">-275</value>
+      <value level="22">-280</value>
+      <value level="23">-285</value>
+      <value level="24">-290</value>
+      <value level="25">-295</value>
+      <value level="26">-300</value>
+      <value level="27">-305</value>
+      <value level="28">-310</value>
+      <value level="29">-315</value>
+      <value level="30">-320</value>
+      <value level="31">-325</value>
+      <value level="32">-330</value>
+      <value level="33">-335</value>
+      <value level="34">-340</value>
+      <value level="35">-345</value>
+      <value level="36">-350</value>
+      <value level="37">-355</value>
+      <value level="38">-360</value>
+      <value level="39">-365</value>
+      <value level="40">-370</value>
+      <value level="41">-375</value>
+      <value level="42">-380</value>
+      <value level="43">-385</value>
+      <value level="44">-390</value>
+      <value level="45">-395</value>
+      <value level="46">-400</value>
+      <value level="47">-405</value>
+      <value level="48">-410</value>
+      <value level="49">-415</value>
+      <value level="50">-420</value>
+      <value level="51">-425</value>
+      <value level="52">-430</value>
+      <value level="53">-435</value>
+      <value level="54">-440</value>
+      <value level="55">-445</value>
+      <value level="56">-450</value>
+      <value level="57">-455</value>
+      <value level="58">-460</value>
+      <value level="59">-465</value>
+      <value level="60">-470</value>
+      <value level="61">-475</value>
+      <value level="62">-480</value>
+      <value level="63">-485</value>
+      <value level="64">-490</value>
+      <value level="65">-495</value>
+    </effectPoint>
+    <effectRange>600</effectRange>
+    <hitTime>1800</hitTime>
+    <magicLevel>
+      <value level="1">31</value>
+      <value level="2">32</value>
+      <value level="3">33</value>
+      <value level="4">34</value>
+      <value level="5">35</value>
+      <value level="6">40</value>
+      <value level="7">40</value>
+      <value level="8">40</value>
+      <value level="9">40</value>
+      <value level="10">40</value>
+      <value level="11">41</value>
+      <value level="12">42</value>
+      <value level="13">43</value>
+      <value level="14">44</value>
+      <value level="15">45</value>
+      <value level="16">46</value>
+      <value level="17">47</value>
+      <value level="18">48</value>
+      <value level="19">49</value>
+      <value level="20">50</value>
+      <value level="21">51</value>
+      <value level="22">52</value>
+      <value level="23">53</value>
+      <value level="24">54</value>
+      <value level="25">55</value>
+      <value level="26">56</value>
+      <value level="27">57</value>
+      <value level="28">58</value>
+      <value level="29">59</value>
+      <value level="30">60</value>
+      <value level="31">61</value>
+      <value level="32">62</value>
+      <value level="33">63</value>
+      <value level="34">64</value>
+      <value level="35">65</value>
+      <value level="36">66</value>
+      <value level="37">67</value>
+      <value level="38">68</value>
+      <value level="39">69</value>
+      <value level="40">70</value>
+      <value level="41">71</value>
+      <value level="42">72</value>
+      <value level="43">73</value>
+      <value level="44">74</value>
+      <value level="45">75</value>
+      <value level="46">76</value>
+      <value level="47">77</value>
+      <value level="48">78</value>
+      <value level="49">79</value>
+      <value level="50">80</value>
+      <value level="51">81</value>
+      <value level="52">82</value>
+      <value level="53">83</value>
+      <value level="54">84</value>
+      <value level="55">85</value>
+      <value level="56">86</value>
+      <value level="57">87</value>
+      <value level="58">88</value>
+      <value level="59">89</value>
+      <value level="60">90</value>
+      <value level="61">91</value>
+      <value level="62">92</value>
+      <value level="63">93</value>
+      <value level="64">93</value>
+      <value level="65">93</value>
+    </magicLevel>
+    <mpConsume>
+      <value level="1">26</value>
+      <value level="2">27</value>
+      <value level="3">27</value>
+      <value level="4">28</value>
+      <value level="5">29</value>
+      <value level="6">30</value>
+      <value level="7">30</value>
+      <value level="8">31</value>
+      <value level="9">32</value>
+      <value level="10">33</value>
+      <value level="11">33</value>
+      <value level="12">34</value>
+      <value level="13">35</value>
+      <value level="14">36</value>
+      <value level="15">36</value>
+      <value level="16">37</value>
+      <value level="17">38</value>
+      <value level="18">39</value>
+      <value level="19">39</value>
+      <value level="20">40</value>
+      <value level="21">41</value>
+      <value level="22">42</value>
+      <value level="23">42</value>
+      <value level="24">43</value>
+      <value level="25">44</value>
+      <value level="26">45</value>
+      <value level="27">45</value>
+      <value level="28">46</value>
+      <value level="29">47</value>
+      <value level="30">48</value>
+      <value level="31">48</value>
+      <value level="32">49</value>
+      <value level="33">50</value>
+      <value level="34">51</value>
+      <value level="35">51</value>
+      <value level="36">52</value>
+      <value level="37">53</value>
+      <value level="38">54</value>
+      <value level="39">54</value>
+      <value level="40">55</value>
+      <value level="41">56</value>
+      <value level="42">57</value>
+      <value level="43">57</value>
+      <value level="44">58</value>
+      <value level="45">59</value>
+      <value level="46">60</value>
+      <value level="47">60</value>
+      <value level="48">61</value>
+      <value level="49">62</value>
+      <value level="50">63</value>
+      <value level="51">63</value>
+      <value level="52">64</value>
+      <value level="53">65</value>
+      <value level="54">66</value>
+      <value level="55">66</value>
+      <value level="56">67</value>
+      <value level="57">68</value>
+      <value level="58">69</value>
+      <value level="59">69</value>
+      <value level="60">70</value>
+      <value level="61">72</value>
+      <value level="62">74</value>
+      <value level="63">76</value>
+      <value level="64">78</value>
+      <value level="65">80</value>
+    </mpConsume>
+    <operateType>A1</operateType>
+    <reuseDelay>1000</reuseDelay>
+    <targetType>ENEMY</targetType>
+    <affectScope>SINGLE</affectScope>
+    <conditions>
+      <condition name="EquipWeapon">
+        <weaponType>
+          <item>DUALFIST</item>
+        </weaponType>
+      </condition>
+    </conditions>
+    <effects>
+      <effect name="PhysicalAttack">
+        <power>
+          <value level="1">464</value>
+          <value level="2">476</value>
+          <value level="3">489</value>
+          <value level="4">501</value>
+          <value level="5">514</value>
+          <value level="6">728</value>
+          <value level="7">803</value>
+          <value level="8">878</value>
+          <value level="9">954</value>
+          <value level="10">1030</value>
+          <value level="11">1106</value>
+          <value level="12">1183</value>
+          <value level="13">1260</value>
+          <value level="14">1336</value>
+          <value level="15">1414</value>
+          <value level="16">1492</value>
+          <value level="17">1569</value>
+          <value level="18">1648</value>
+          <value level="19">1727</value>
+          <value level="20">1806</value>
+          <value level="21">1884</value>
+          <value level="22">1964</value>
+          <value level="23">2044</value>
+          <value level="24">2124</value>
+          <value level="25">2203</value>
+          <value level="26">2284</value>
+          <value level="27">2365</value>
+          <value level="28">2446</value>
+          <value level="29">2527</value>
+          <value level="30">2608</value>
+          <value level="31">2690</value>
+          <value level="32">2772</value>
+          <value level="33">2853</value>
+          <value level="34">2935</value>
+          <value level="35">3018</value>
+          <value level="36">3101</value>
+          <value level="37">3184</value>
+          <value level="38">3267</value>
+          <value level="39">3350</value>
+          <value level="40">3434</value>
+          <value level="41">3517</value>
+          <value level="42">3601</value>
+          <value level="43">3686</value>
+          <value level="44">3770</value>
+          <value level="45">3854</value>
+          <value level="46">4684</value>
+          <value level="47">4750</value>
+          <value level="48">4817</value>
+          <value level="49">4884</value>
+          <value level="50">4950</value>
+          <value level="51">5017</value>
+          <value level="52">5085</value>
+          <value level="53">5152</value>
+          <value level="54">5219</value>
+          <value level="55">5286</value>
+          <value level="56">5353</value>
+          <value level="57">5421</value>
+          <value level="58">5488</value>
+          <value level="59">5556</value>
+          <value level="60">5623</value>
+          <value level="61">5791</value>
+          <value level="62">5964</value>
+          <value level="63">6142</value>
+          <value level="64">6326</value>
+          <value level="65">6515</value>
+        </power>
+        <ignoreShieldDefence>true</ignoreShieldDefence>
+        <criticalChance>15</criticalChance>
+        <overHit>true</overHit>
+      </effect>
+      <effect name="PhysicalAttack">
+        <power>
+          <value level="1">464</value>
+          <value level="2">476</value>
+          <value level="3">489</value>
+          <value level="4">501</value>
+          <value level="5">514</value>
+          <value level="6">728</value>
+          <value level="7">803</value>
+          <value level="8">878</value>
+          <value level="9">954</value>
+          <value level="10">1030</value>
+          <value level="11">1106</value>
+          <value level="12">1183</value>
+          <value level="13">1260</value>
+          <value level="14">1336</value>
+          <value level="15">1414</value>
+          <value level="16">1492</value>
+          <value level="17">1569</value>
+          <value level="18">1648</value>
+          <value level="19">1727</value>
+          <value level="20">1806</value>
+          <value level="21">1884</value>
+          <value level="22">1964</value>
+          <value level="23">2044</value>
+          <value level="24">2124</value>
+          <value level="25">2203</value>
+          <value level="26">2284</value>
+          <value level="27">2365</value>
+          <value level="28">2446</value>
+          <value level="29">2527</value>
+          <value level="30">2608</value>
+          <value level="31">2690</value>
+          <value level="32">2772</value>
+          <value level="33">2853</value>
+          <value level="34">2935</value>
+          <value level="35">3018</value>
+          <value level="36">3101</value>
+          <value level="37">3184</value>
+          <value level="38">3267</value>
+          <value level="39">3350</value>
+          <value level="40">3434</value>
+          <value level="41">3517</value>
+          <value level="42">3601</value>
+          <value level="43">3686</value>
+          <value level="44">3770</value>
+          <value level="45">3854</value>
+          <value level="46">4684</value>
+          <value level="47">4750</value>
+          <value level="48">4817</value>
+          <value level="49">4884</value>
+          <value level="50">4950</value>
+          <value level="51">5017</value>
+          <value level="52">5085</value>
+          <value level="53">5152</value>
+          <value level="54">5219</value>
+          <value level="55">5286</value>
+          <value level="56">5353</value>
+          <value level="57">5421</value>
+          <value level="58">5488</value>
+          <value level="59">5556</value>
+          <value level="60">5623</value>
+          <value level="61">5791</value>
+          <value level="62">5964</value>
+          <value level="63">6142</value>
+          <value level="64">6326</value>
+          <value level="65">6515</value>
+        </power>
+        <ignoreShieldDefence>true</ignoreShieldDefence>
+        <criticalChance>15</criticalChance>
+        <overHit>true</overHit>
+      </effect>
+    </effects>
+  </skill>
+</list>
